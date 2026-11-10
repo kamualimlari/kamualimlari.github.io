@@ -1,8 +1,10 @@
 name: Haberleri güncelle
 
 on:
-  schedule:
-    - cron: "*/15 * * * *"   # her 15 dakikada bir (GitHub gecikebilir)
+  # Otomatik zamanlama kapalı: haber başlığı derleyen bu tarama doğrulanmamış kayıt ekliyordu.
+  # Açmak için aşağıdaki iki satırı etkinleştir:
+  # schedule:
+  #   - cron: "*/15 * * * *"
   workflow_dispatch: {}       # elle çalıştırma düğmesi
 
 permissions:
