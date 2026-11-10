@@ -3739,7 +3739,9 @@
    "deadline": "2026-11-20",
    "first_seen": "2026-11-10T19:44:51Z",
    "summary": "Sarıidris Belediyesi 1 memur alacak. İlan Memurlar.net'te 12.10.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "provinces": [
+    "32"
+   ],
    "category": "Belediye"
   },
   {

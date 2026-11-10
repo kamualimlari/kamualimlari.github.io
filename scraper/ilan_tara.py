@@ -115,12 +115,24 @@ def parse_ilan(page: str):
     return title, pub, dl
 
 
+def body_province(page: str):
+    """Başlıkta il yoksa ilan metninden il bulur: "Isparta ili ..." ve "Eğirdir/ISPARTA" kalıpları.
+    Yalnızca tek bir il çıkarsa döner, belirsizse boş liste (Bakanlıklar / Kurumlar'da kalır)."""
+    txt = text_of(page)
+    cands = re.findall(r"([A-Za-zÇĞİÖŞÜçğıöşü]+)\s+ili\b", txt)
+    cands += re.findall(r"[A-Za-zÇĞİÖŞÜçğıöşü]+\s*/\s*([A-ZÇĞİÖŞÜ]{3,})\b", txt)
+    found = set()
+    for c in cands:
+        found.update(detect_provinces(c))
+    return sorted(found) if len(found) == 1 else []
+
+
 def iso(dt):
     return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def build_item(title, url, pub, dl, cat_hint):
-    prov = detect_provinces(title)
+def build_item(title, url, pub, dl, cat_hint, extra_prov=None):
+    prov = detect_provinces(title) or (extra_prov or [])
     cat = categorize(title)
     if cat == "Diğer" and cat_hint:
         cat = cat_hint
@@ -179,7 +191,8 @@ def main():
     added = skipped = failed = 0
     for iid, url, kat in sorted(cands, key=lambda c: -int(c[0]))[: args.en_fazla]:
         try:
-            title, pub, dl = parse_ilan(fetch(url))
+            sayfa = fetch(url)
+            title, pub, dl = parse_ilan(sayfa)
         except Exception as e:  # noqa: BLE001
             failed += 1
             errors.append({"kaynak": url, "hata": f"{type(e).__name__}: {e}"[:160]})
@@ -206,7 +219,8 @@ def main():
         if title_key(title) in known_keys:
             skipped += 1
             continue
-        items.append(build_item(title, url, pub, dl, CAT_HINT.get(kat)))
+        items.append(build_item(title, url, pub, dl, CAT_HINT.get(kat),
+                                body_province(sayfa) if not detect_provinces(title) else None))
         skipped_ids.discard(iid)
         known_keys.add(title_key(title))
         added += 1
