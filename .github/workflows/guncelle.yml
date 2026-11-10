@@ -1,10 +1,8 @@
 name: Haberleri güncelle
 
 on:
-  # Otomatik zamanlama kapalı: haber başlığı derleyen bu tarama doğrulanmamış kayıt ekliyordu.
-  # Açmak için aşağıdaki iki satırı etkinleştir:
-  # schedule:
-  #   - cron: "*/15 * * * *"
+  schedule:
+    - cron: "*/20 * * * *"   # her 20 dakikada bir (GitHub yoğun saatlerde geciktirebilir)
   workflow_dispatch: {}       # elle çalıştırma düğmesi
 
 permissions:
@@ -17,16 +15,24 @@ concurrency:
 jobs:
   tara:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Haberleri tara
-        run: python3 scraper/scrape.py
+      - name: Testler
+        run: |
+          python3 -I scraper/test_scrape.py
+          python3 -I scraper/test_ilan_tara.py
+      - name: İlanları tara ve doğrula
+        run: python3 scraper/ilan_tara.py --en-fazla 40
       - name: Değişiklik varsa kaydet
         run: |
           git config user.name "haber-botu"
           git config user.email "bot@users.noreply.github.com"
           git add data/ilanlar.json
-          git diff --cached --quiet || (git commit -m "Veriyi güncelle" && git push)
+          if git diff --cached --quiet; then echo "Değişiklik yok"; exit 0; fi
+          git commit -m "Veriyi güncelle"
+          git pull --rebase -X theirs origin main || true
+          git push
