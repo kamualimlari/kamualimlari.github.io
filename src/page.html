@@ -1,0 +1,425 @@
+<title>Kamu Alımları</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Haber sitelerinden derlenen kamu ve belediye personel alımı haberleri. İl seçip o ilin alımlarını gör.">
+<style>
+:root {
+  --bg: #e8ecf0; --card: #ffffff; --ink: #17202a; --muted: #5b6672; --line: #d3dae1;
+  --road: #0b4f9c; --asphalt: #1d232b; --plate: #fbfbf7; --plate-ink: #111;
+  --signal: #f2c230; --signal-ink: #3a2c00; --focus: #0b4f9c;
+  --chip-on-bg: #1d232b; --chip-on-ink: #ffffff; --ok: #1f9d55; --warn: #c77b00;
+  --display: "Bahnschrift", "DIN Alternate", "Roboto Condensed", "Arial Narrow", "Segoe UI", system-ui, sans-serif;
+  --body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #11161c; --card: #1a212a; --ink: #e9eef3; --muted: #9aa6b2; --line: #2b3541;
+    --road: #6aa8f0; --focus: #8bbcf6; --chip-on-bg: #e9eef3; --chip-on-ink: #11161c; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #11161c; --card: #1a212a; --ink: #e9eef3; --muted: #9aa6b2; --line: #2b3541;
+  --road: #6aa8f0; --focus: #8bbcf6; --chip-on-bg: #e9eef3; --chip-on-ink: #11161c; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 var(--body); }
+[hidden] { display: none !important; }
+a { color: inherit; }
+button, select, input { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+.wrap { max-width: 892px; margin: 0 auto; padding-block: 0 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+/* üst çubuk */
+.top { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 0 8px; }
+.brand { font: 700 18px/1 var(--display); letter-spacing: .01em; }
+.live { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); }
+.dot { width: 9px; height: 9px; border-radius: 50%; background: var(--ok); flex: none; animation: pulse 2.4s ease-in-out infinite; }
+.live.stale .dot { background: var(--warn); animation: none; }
+@keyframes pulse { 0%,100% { box-shadow: 0 0 0 0 rgba(31,157,85,.5); } 50% { box-shadow: 0 0 0 6px rgba(31,157,85,0); } }
+
+/* plaka seçici: sayfanın akılda kalan tek öğesi */
+.hero { display: flex; align-items: center; gap: 20px; padding: 18px 0 22px; flex-wrap: wrap; }
+.plate-wrap { position: relative; flex: none; }
+.plate {
+  display: flex; background: var(--plate); color: var(--plate-ink); border: 3px solid var(--asphalt);
+  border-radius: 12px; overflow: hidden; box-shadow: 0 2px 0 var(--asphalt), 0 10px 22px rgba(10,20,30,.18);
+}
+.plate .eu {
+  width: 36px; background: var(--road); color: #fff; display: flex; align-items: flex-end;
+  justify-content: center; padding-bottom: 7px; font: 700 13px/1 var(--display);
+}
+.plate .code {
+  font: 800 clamp(60px, 17vw, 104px)/1 var(--display); padding: 8px 22px 6px;
+  letter-spacing: .03em; min-width: 2.3ch; text-align: center;
+}
+.plate-wrap select { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; cursor: pointer; font-size: 16px; }
+.plate-wrap:focus-within .plate { outline: 3px solid var(--focus); outline-offset: 4px; }
+.plate-hint { display: block; margin-top: 8px; font-size: 13px; color: var(--muted); text-align: center; }
+.heading h1 { margin: 0; font: 800 clamp(34px, 8vw, 54px)/1.05 var(--display); letter-spacing: -.005em; }
+.heading p { margin: 6px 0 0; color: var(--muted); }
+
+/* süzgeçler */
+.filters { display: grid; gap: 10px; grid-template-columns: 1fr auto; margin-bottom: 12px; }
+.filters input, .filters select {
+  width: 100%; min-height: 44px; padding: 8px 12px; background: var(--card);
+  border: 1px solid var(--line); border-radius: 8px;
+}
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+.chip {
+  min-height: 36px; padding: 4px 14px; background: transparent; border: 1px solid var(--line);
+  border-radius: 999px; cursor: pointer; font-size: 14px;
+}
+.chip[aria-pressed="true"] { background: var(--chip-on-bg); color: var(--chip-on-ink); border-color: var(--chip-on-bg); }
+
+/* liste */
+.notice { background: var(--signal); color: var(--signal-ink); padding: 10px 14px; border-radius: 8px; margin-bottom: 16px; font-size: 14px; }
+.list { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.item {
+  display: grid; grid-template-columns: 52px 1fr; gap: 14px; align-items: start;
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px 14px 14px;
+}
+.badges { display: flex; flex-direction: column; gap: 4px; align-items: stretch; }
+.mini {
+  background: var(--plate); color: var(--plate-ink); border: 2px solid var(--asphalt); border-radius: 6px;
+  font: 800 19px/1 var(--display); padding: 5px 0 4px; text-align: center; letter-spacing: .03em;
+}
+.mini.genel { background: var(--road); color: #fff; border-color: var(--road); font-size: 15px; }
+.item h2 { margin: 0 0 6px; font: 600 17px/1.35 var(--body); }
+.ttl { all: unset; box-sizing: border-box; display: block; width: 100%; cursor: pointer; font: inherit; color: inherit; }
+.ttl:hover { text-decoration: underline; text-underline-offset: 3px; }
+.ttl:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; border-radius: 4px; }
+.ttl::after { content: "+"; float: right; margin-left: 10px; color: var(--muted); font-weight: 400; }
+.ttl[aria-expanded="true"]::after { content: "–"; }
+.panel { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--line); display: grid; gap: 8px; }
+.panel .sum { margin: 0; color: var(--ink); font-size: 15px; max-width: 68ch; }
+.facts { display: flex; flex-wrap: wrap; gap: 4px 18px; font-size: 13px; color: var(--muted); }
+.facts b { color: var(--ink); font-weight: 600; }
+.open { justify-self: start; min-height: 40px; display: inline-flex; align-items: center; padding: 0 16px; border: 1px solid var(--ink); border-radius: 8px; text-decoration: none; font-size: 14px; }
+.open:hover { background: var(--ink); color: var(--bg); }
+.item.expired { opacity: .72; }
+.due { background: var(--signal); color: var(--signal-ink); border-radius: 4px; padding: 0 7px; font-weight: 600; }
+.gone { border: 1px solid var(--line); border-radius: 4px; padding: 0 6px; }
+.opt { display: flex; align-items: center; gap: 8px; margin: 0 0 14px; font-size: 14px; color: var(--muted); min-height: 32px; }
+.opt input { width: 18px; height: 18px; accent-color: var(--road); }
+.meta { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13px; color: var(--muted); align-items: center; }
+.tag { border: 1px solid var(--line); border-radius: 4px; padding: 0 6px; }
+.new { background: var(--signal); color: var(--signal-ink); border-radius: 4px; padding: 0 7px; font-weight: 600; }
+
+.empty, .error { background: var(--card); border: 1px dashed var(--line); border-radius: 10px; padding: 28px 20px; }
+.empty strong, .error strong { display: block; font-size: 18px; margin-bottom: 4px; }
+.more { display: block; margin: 18px auto 0; min-height: 44px; padding: 8px 22px; border-radius: 8px; border: 1px solid var(--ink); background: transparent; cursor: pointer; }
+.more[hidden] { display: none; }
+.more:hover { background: var(--ink); color: var(--bg); }
+.foot { margin-top: 36px; font-size: 13px; color: var(--muted); max-width: 62ch; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+@media (max-width: 520px) {
+  .filters { grid-template-columns: 1fr; }
+  .item { grid-template-columns: 46px 1fr; gap: 12px; padding: 12px; }
+  .mini { font-size: 17px; }
+}
+@media (prefers-reduced-motion: reduce) { .dot { animation: none; } }
+</style>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">Kamu alımları</div>
+    <div class="live" id="live"><span class="dot"></span><span id="liveText">Yükleniyor…</span></div>
+  </header>
+
+  <section class="hero" aria-label="İl seçimi">
+    <div class="plate-wrap">
+      <div class="plate" aria-hidden="true"><div class="eu">TR</div><div class="code" id="plateCode">TR</div></div>
+      <label class="sr" for="il">İl seç</label>
+      <select id="il"></select>
+      <span class="plate-hint">il değiştirmek için dokun</span>
+    </div>
+    <div class="heading">
+      <h1 id="ilAd">Tüm Türkiye</h1>
+      <p id="ozet"></p>
+    </div>
+  </section>
+
+  <div id="notice"></div>
+
+  <div class="filters">
+    <input id="q" type="search" placeholder="Başlıkta ara: zabıta, hemşire, işçi…" aria-label="Başlıkta ara">
+    <select id="gun" aria-label="Zaman aralığı">
+      <option value="1">Son 24 saat</option>
+      <option value="7">Son 7 gün</option>
+      <option value="30" selected>Son 30 gün</option>
+      <option value="0">Tüm kayıtlar</option>
+    </select>
+  </div>
+  <div class="chips" id="chips" role="group" aria-label="Alım türü"></div>
+  <label class="opt"><input type="checkbox" id="old"> Başvuru süresi dolanları da göster</label>
+
+  <div class="sr" id="durum" aria-live="polite"></div>
+  <ul class="list" id="list"></ul>
+  <button class="more" id="more" hidden>Daha fazla göster</button>
+
+  <p class="foot">Bu sayfa haberleri ve ilanları derler, kısa özetler resmi ilan metninin yerini tutmaz. Başvurmadan önce kurumun kendi duyurusunu oku. Sıralama ve “Yeni” işareti yayın tarihine göre çalışır; yayın tarihi kaynak sayfada yazmayan kayıtlarda “Yayın tarihi belirtilmemiş” görünür.</p>
+</div>
+
+<script>
+(() => {
+  const DATA_URL = "data/ilanlar.json";
+  const REFRESH_MS = 5 * 60 * 1000;
+  const PAGE = 40;
+  const CATS = ["Memur / KPSS", "İşçi", "Sağlık", "Eğitim", "Güvenlik", "Belediye", "Diğer"];
+  const $ = (s) => document.querySelector(s);
+  const tr = (s) => (s || "").toLocaleLowerCase("tr");
+
+  const state = { il: "", q: "", kat: "", gun: "30", old: false, limit: PAGE };
+  let DATA = null;
+  let known = new Set();
+  let lastOk = 0;
+  const openIds = new Set();
+
+  // Başlangıç: adres çubuğu, yoksa son seçim
+  try {
+    const m = location.hash.match(/^#il-(\d\d|genel)$/);
+    state.il = m ? m[1] : (localStorage.getItem("il") || "");
+  } catch (e) { /* depolama kapalı olabilir */ }
+
+  const safeUrl = (u) => /^https?:\/\//i.test(u || "");
+  const el = (tag, cls, text) => {
+    const n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null) n.textContent = text;
+    return n;
+  };
+
+  const when = (it) => it.published || it.first_seen;
+  const endOf = (d) => new Date(d + "T23:59:59+03:00");
+  const expired = (it) => !!it.deadline && Date.now() > endOf(it.deadline);
+  const fmtDay = (d, withYear) => new Date(d + "T12:00:00+03:00").toLocaleDateString("tr-TR", withYear ? { day: "numeric", month: "long", year: "numeric" } : { day: "numeric", month: "short" });
+  function rel(iso) {
+    const mins = Math.max(0, Math.round((Date.now() - new Date(iso)) / 60000));
+    if (mins < 2) return "az önce";
+    if (mins < 60) return mins + " dk önce";
+    const h = Math.round(mins / 60);
+    if (h < 24) return h + " saat önce";
+    const d = Math.round(h / 24);
+    if (d < 14) return d + " gün önce";
+    return new Date(iso).toLocaleDateString("tr-TR", { day: "numeric", month: "long" });
+  }
+
+  function inPeriod(it) {
+    const g = Number(state.gun);
+    return !g || Date.now() - new Date(when(it)) <= g * 864e5;
+  }
+  function matches(it, withIl) {
+    if (!inPeriod(it)) return false;
+    if (!state.old && expired(it)) return false;
+    if (state.kat && it.category !== state.kat) return false;
+    if (state.q && !tr(it.title + " " + (it.summary || "")).includes(tr(state.q))) return false;
+    if (!withIl) return true;
+    if (state.il === "") return true;
+    if (state.il === "genel") return it.provinces.length === 0;
+    return it.provinces.includes(state.il);
+  }
+
+  function renderSelect() {
+    const sel = $("#il");
+    const counts = {};
+    let total = 0, genel = 0;
+    for (const it of DATA.items) {
+      if (!matches(it, false)) continue;
+      total++;
+      if (!it.provinces.length) genel++;
+      for (const p of it.provinces) counts[p] = (counts[p] || 0) + 1;
+    }
+    sel.textContent = "";
+    const add = (v, t) => { const o = el("option", "", t); o.value = v; sel.appendChild(o); };
+    add("", `Tüm Türkiye (${total})`);
+    add("genel", `Ülke geneli, il belirtilmemiş (${genel})`);
+    for (const p of DATA.provinces) add(p.plaka, `${p.plaka} ${p.ad} (${counts[p.plaka] || 0})`);
+    sel.value = state.il;
+    if (sel.value !== state.il) { state.il = ""; sel.value = ""; }
+  }
+
+  function renderChips() {
+    const box = $("#chips");
+    box.textContent = "";
+    for (const c of ["", ...CATS]) {
+      const b = el("button", "chip", c || "Tümü");
+      b.type = "button";
+      b.setAttribute("aria-pressed", String(state.kat === c));
+      b.addEventListener("click", () => { state.kat = c; state.limit = PAGE; render(); });
+      box.appendChild(b);
+    }
+  }
+
+  function renderHero(count) {
+    const prov = DATA.provinces.find((p) => p.plaka === state.il);
+    $("#plateCode").textContent = prov ? prov.plaka : "TR";
+    $("#ilAd").textContent = prov ? prov.ad : state.il === "genel" ? "Ülke geneli" : "Tüm Türkiye";
+    const span = { 1: "son 24 saat", 7: "son 7 gün", 30: "son 30 gün", 0: "tüm kayıtlar" }[state.gun];
+    $("#ozet").textContent = count ? `${count} haber, ${span}` : `Bu aralıkta haber yok (${span})`;
+  }
+
+  function renderList(rows) {
+    const ul = $("#list");
+    ul.textContent = "";
+    if (!rows.length) {
+      const li = el("li", "empty");
+      li.appendChild(el("strong", "", "Bu seçimde haber bulunamadı"));
+      li.appendChild(el("span", "", "Zaman aralığını genişlet ya da alım türünü “Tümü” yap. Sayfa yeni haberleri kendiliğinden getirir."));
+      ul.appendChild(li);
+      $("#more").hidden = true;
+      return;
+    }
+    const shown = rows.slice(0, state.limit);
+    for (const it of shown) {
+      const li = el("li", "item");
+      const badges = el("div", "badges");
+      if (it.provinces.length) {
+        for (const p of it.provinces.slice(0, 3)) badges.appendChild(el("div", "mini", p));
+      } else {
+        const g = el("div", "mini genel", "TR");
+        g.title = "Ülke geneli";
+        badges.appendChild(g);
+      }
+      const body = el("div");
+      const pid = "p-" + it.id;
+      const h = el("h2");
+      const btn = el("button", "ttl", it.title);
+      btn.type = "button";
+      btn.setAttribute("aria-expanded", "false");
+      btn.setAttribute("aria-controls", pid);
+      h.appendChild(btn);
+
+      const meta = el("div", "meta");
+      const fresh = it.published && Date.now() - new Date(it.published) < 24 * 36e5;
+      if (fresh) meta.appendChild(el("span", "new", "Yeni"));
+      meta.appendChild(el("span", "", (it.published ? rel(it.published) : "Yayın tarihi belirtilmemiş")));
+      const extra = (it.sources || []).length > 1 ? ` +${it.sources.length - 1} kaynak` : "";
+      meta.appendChild(el("span", "", it.source + extra));
+      meta.appendChild(el("span", "tag", it.category));
+      if (it.deadline) {
+        if (expired(it)) { li.classList.add("expired"); meta.appendChild(el("span", "gone", "Süresi doldu")); }
+        else {
+          const left = Math.ceil((endOf(it.deadline) - Date.now()) / 864e5);
+          const t = left <= 1 ? "Son gün bugün" : left <= 3 ? `Son ${left} gün` : "Son başvuru: " + fmtDay(it.deadline);
+          meta.appendChild(el("span", left <= 3 ? "due" : "", t));
+        }
+      }
+
+      const panel = el("div", "panel");
+      panel.id = pid; panel.hidden = true;
+      panel.appendChild(el("p", "sum", it.summary || "Bu kayıt için özet yok. Ayrıntı için haberin tamamını aç."));
+      const facts = el("div", "facts");
+      const fact = (k, v) => { const sp = el("span"); sp.appendChild(el("b", "", k + ": ")); sp.appendChild(document.createTextNode(v)); facts.appendChild(sp); };
+      if (it.published) fact("Yayın tarihi", new Date(it.published).toLocaleDateString("tr-TR", { day: "numeric", month: "long", year: "numeric" }));
+      if (it.deadline) fact("Son başvuru", fmtDay(it.deadline, true));
+      fact("Kaynak", it.source);
+      panel.appendChild(facts);
+      if (safeUrl(it.url)) {
+        const a = el("a", "open", "Haberin tamamını aç");
+        a.href = it.url; a.target = "_blank"; a.rel = "noopener noreferrer";
+        panel.appendChild(a);
+      }
+      btn.addEventListener("click", () => {
+        const on = btn.getAttribute("aria-expanded") !== "true";
+        btn.setAttribute("aria-expanded", String(on));
+        panel.hidden = !on;
+        if (on) openIds.add(it.id); else openIds.delete(it.id);
+      });
+      if (openIds.has(it.id)) { btn.setAttribute("aria-expanded", "true"); panel.hidden = false; }
+      body.append(h, meta, panel);
+      li.append(badges, body);
+      ul.appendChild(li);
+    }
+    const more = $("#more");
+    more.hidden = rows.length <= shown.length;
+    more.textContent = `Daha fazla göster (${rows.length - shown.length})`;
+  }
+
+  function render() {
+    if (!DATA) return;
+    renderSelect();
+    renderChips();
+    const rows = DATA.items.filter((it) => matches(it, true)).sort((x, y) => new Date(when(y)) - new Date(when(x)));
+    renderHero(rows.length);
+    renderList(rows);
+    const n = $("#notice");
+    n.textContent = "";
+    if (DATA.demo || DATA.items.some((i) => i.demo)) {
+      n.appendChild(el("div", "notice", "Şu an örnek veri görüyorsun; ilk güncelleme gelince gerçek haberlerle değişir."));
+    }
+    try {
+      localStorage.setItem("il", state.il);
+      const want = state.il ? "#il-" + state.il : "";
+      if (location.hash !== want) location.hash = want;
+    } catch (e) { /* önemli değil */ }
+  }
+
+  function setLive() {
+    const box = $("#live");
+    if (!DATA) return;
+    const ageMin = Math.round((Date.now() - new Date(DATA.updated)) / 60000);
+    const stale = ageMin > 180;
+    box.classList.toggle("stale", stale);
+    $("#liveText").textContent = "Son tarama: " + rel(DATA.updated) + (stale ? " (gecikmiş olabilir)" : "");
+  }
+
+  async function load(first) {
+    try {
+      const res = await fetch(DATA_URL, { cache: "no-store" });
+      if (!res.ok) throw new Error(res.status);
+      const next = await res.json();
+      const fresh = next.items.filter((i) => known.size && !known.has(i.id));
+      if (!first && fresh.length) {
+        const here = fresh.filter((i) => state.il === "" || (state.il === "genel" ? !i.provinces.length : i.provinces.includes(state.il)));
+        $("#durum").textContent = here.length
+          ? `${here.length} yeni haber eklendi`
+          : `${fresh.length} yeni haber eklendi, başka illerde`;
+      }
+      known = new Set(next.items.map((i) => i.id));
+      DATA = next;
+      lastOk = Date.now();
+      render();
+      setLive();
+    } catch (e) {
+      if (first || !DATA) {
+        const ul = $("#list");
+        ul.textContent = "";
+        const li = el("li", "error");
+        li.appendChild(el("strong", "", "Veri dosyası okunamadı"));
+        li.appendChild(el("span", "", "Birkaç saniye sonra sayfayı yenile. Sorun sürerse veri dosyası henüz yayınlanmamış olabilir."));
+        ul.appendChild(li);
+        $("#liveText").textContent = "Veri yok";
+      } else {
+        $("#live").classList.add("stale");
+        $("#liveText").textContent = "Yenilenemedi, son başarılı okuma " + rel(new Date(lastOk).toISOString());
+      }
+    }
+  }
+
+  $("#il").addEventListener("change", (e) => { state.il = e.target.value; state.limit = PAGE; render(); });
+  $("#old").addEventListener("change", (e) => { state.old = e.target.checked; state.limit = PAGE; render(); });
+  $("#gun").addEventListener("change", (e) => { state.gun = e.target.value; state.limit = PAGE; render(); });
+  let t;
+  $("#q").addEventListener("input", (e) => {
+    clearTimeout(t);
+    t = setTimeout(() => { state.q = e.target.value.trim(); state.limit = PAGE; render(); }, 180);
+  });
+  $("#more").addEventListener("click", () => { state.limit += PAGE; render(); });
+  window.addEventListener("hashchange", () => {
+    const m = location.hash.match(/^#il-(\d\d|genel)$/);
+    const v = m ? m[1] : "";
+    if (v !== state.il) { state.il = v; render(); }
+  });
+
+  // Otomatik yenileme: sekme açıkken 5 dakikada bir, sekmeye dönünce de
+  setInterval(() => { if (!document.hidden) load(false); }, REFRESH_MS);
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden && Date.now() - lastOk > 60000) load(false);
+  });
+  setInterval(() => { setLive(); }, 60000);
+
+  load(true);
+})();
+</script>

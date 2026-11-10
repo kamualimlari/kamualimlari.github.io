@@ -1,0 +1,63 @@
+{
+  "_not": "Kaynakları buradan ekleyip çıkarabilirsin. Çalışmayan bir adres olursa betik onu atlar, diğerleriyle devam eder.",
+  "rss": [
+    {
+      "ad": "TRT Haber",
+      "url": "https://www.trthaber.com/sondakika.rss"
+    },
+    {
+      "ad": "Anadolu Ajansı",
+      "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel"
+    },
+    {
+      "ad": "Hürriyet",
+      "url": "https://www.hurriyet.com.tr/rss/gundem"
+    },
+    {
+      "ad": "Sabah",
+      "url": "https://www.sabah.com.tr/rss/gundem.xml"
+    },
+    {
+      "ad": "Milliyet",
+      "url": "https://www.milliyet.com.tr/rss/rssnew/gundemrss.xml"
+    },
+    {
+      "ad": "NTV",
+      "url": "https://www.ntv.com.tr/gundem.rss"
+    },
+    {
+      "ad": "CNN Türk",
+      "url": "https://www.cnnturk.com/feed/rss/all/news"
+    },
+    {
+      "ad": "Habertürk",
+      "url": "https://www.haberturk.com/rss"
+    },
+    {
+      "ad": "Cumhuriyet",
+      "url": "https://www.cumhuriyet.com.tr/rss/son_dakika.xml"
+    }
+  ],
+  "google_sorgular": [
+    "personel alımı",
+    "kamu personel alımı",
+    "işçi alımı",
+    "sürekli işçi alımı",
+    "memur alımı",
+    "sözleşmeli personel alımı",
+    "belediye personel alımı",
+    "zabıta alımı",
+    "KPSS tercihli alım",
+    "öğretmen ataması",
+    "sağlık personeli alımı",
+    "polis alımı",
+    "uzman erbaş alımı"
+  ],
+  "il_sorgusu": "{il} personel alımı",
+  "html_listeler": [
+    {
+      "ad": "Memurlar.net Mahalli İlanlar",
+      "url": "https://ilan.memurlar.net/kategori/mahalli-ilanlari/?Expire=false"
+    }
+  ]
+}

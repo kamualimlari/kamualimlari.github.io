@@ -1,0 +1,30 @@
+name: Haberleri güncelle
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # her 15 dakikada bir (GitHub gecikebilir)
+  workflow_dispatch: {}       # elle çalıştırma düğmesi
+
+permissions:
+  contents: write
+
+concurrency:
+  group: guncelle
+  cancel-in-progress: false
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Haberleri tara
+        run: python3 scraper/scrape.py
+      - name: Değişiklik varsa kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/ilanlar.json
+          git diff --cached --quiet || (git commit -m "Veriyi güncelle" && git push)
