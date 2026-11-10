@@ -244,7 +244,7 @@ button, select, input { font: inherit; color: inherit; }
     sel.textContent = "";
     const add = (v, t) => { const o = el("option", "", t); o.value = v; sel.appendChild(o); };
     add("", `Tüm Türkiye (${total})`);
-    add("genel", `Ülke geneli, il belirtilmemiş (${genel})`);
+    add("genel", `Bakanlıklar / Kurumlar (${genel})`);
     for (const p of DATA.provinces) add(p.plaka, `${p.plaka} ${p.ad} (${counts[p.plaka] || 0})`);
     sel.value = state.il;
     if (sel.value !== state.il) { state.il = ""; sel.value = ""; }
@@ -265,7 +265,7 @@ button, select, input { font: inherit; color: inherit; }
   function renderHero(count) {
     const prov = DATA.provinces.find((p) => p.plaka === state.il);
     $("#plateCode").textContent = prov ? prov.plaka : "TR";
-    $("#ilAd").textContent = prov ? prov.ad : state.il === "genel" ? "Ülke geneli" : "Tüm Türkiye";
+    $("#ilAd").textContent = prov ? prov.ad : state.il === "genel" ? "Bakanlıklar / Kurumlar" : "Tüm Türkiye";
     const span = { 1: "son 24 saat", 7: "son 7 gün", 30: "son 30 gün", 0: "tüm kayıtlar" }[state.gun];
     $("#ozet").textContent = count ? `${count} haber, ${span}` : `Bu aralıkta haber yok (${span})`;
   }
@@ -289,7 +289,7 @@ button, select, input { font: inherit; color: inherit; }
         for (const p of it.provinces.slice(0, 3)) badges.appendChild(el("div", "mini", p));
       } else {
         const g = el("div", "mini genel", "TR");
-        g.title = "Ülke geneli";
+        g.title = "Bakanlık / kurum, ülke geneli";
         badges.appendChild(g);
       }
       const body = el("div");
