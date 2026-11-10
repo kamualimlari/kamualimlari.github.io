@@ -10,7 +10,15 @@ head = ('<!doctype html>\n<html lang="tr">\n<meta charset="utf-8">\n'
         '<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">\n'
         '<meta name="theme-color" content="#1d232b">\n'
         '<meta name="apple-mobile-web-app-capable" content="yes">\n'
-        '<meta name="mobile-web-app-capable" content="yes">\n')
+        '<meta name="mobile-web-app-capable" content="yes">\n'
+        '<link rel="canonical" href="https://kamualimlari.github.io/">\n'
+        '<meta property="og:type" content="website">\n'
+        '<meta property="og:site_name" content="Kamu Alımları">\n'
+        '<meta property="og:title" content="Kamu Alımları: il il personel alımı ilanları">\n'
+        '<meta property="og:description" content="İlini seç, o ildeki kamu ve belediye personel alımlarını son başvuru tarihleriyle gör.">\n'
+        '<meta property="og:url" content="https://kamualimlari.github.io/">\n'
+        '<meta property="og:image" content="https://kamualimlari.github.io/icons/icon-512.png">\n'
+        '<meta property="og:locale" content="tr_TR">\n')
 sw = ('<script>if("serviceWorker" in navigator&&location.protocol!=="file:")'
       'addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));</script>\n')
 (root / "index.html").write_text(head + page + "\n" + sw + "</html>\n", "utf-8")

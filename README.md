@@ -6,7 +6,7 @@ Haber sitelerinin RSS akışlarını ve Google Haberler aramalarını tarar, per
 
 ```
 scraper/scrape.py  →  data/ilanlar.json  →  index.html
- (her 30 dk)           (haber listesi)       (açık sekmede 5 dk'da bir kendini yeniler)
+ (her 20 dk)           (haber listesi)       (açık sekmede 5 dk'da bir kendini yeniler)
 ```
 
 - `scraper/sources.json`: taranan haber siteleri ve arama sözcükleri. Kaynak ekleyip çıkarabilirsin.
@@ -18,7 +18,7 @@ scraper/scrape.py  →  data/ilanlar.json  →  index.html
 1. GitHub'da yeni bir depo aç, bu klasörün içindekileri yükle.
 2. Depo ayarları → **Pages** → kaynak olarak `main` dalını ve kök klasörü seç. Sayfa `https://kullaniciadin.github.io/depoadi/` adresinde yayınlanır.
 3. Depo → **Actions** sekmesi → "Haberleri güncelle" → **Run workflow** ile ilk taramayı elle başlat.
-4. Bundan sonra `.github/workflows/guncelle.yml` her 30 dakikada bir taramayı çalıştırır, `data/ilanlar.json` dosyasını günceller. Açık sayfalar 5 dakikada bir yeni veriyi çeker.
+4. Bundan sonra `.github/workflows/guncelle.yml` her 20 dakikada bir taramayı çalıştırır, `data/ilanlar.json` dosyasını günceller. Açık sayfalar 5 dakikada bir yeni veriyi çeker.
 
 Not: GitHub, zamanlanmış çalıştırmaları yoğun saatlerde geciktirebilir ve depoda 60 gün hiç etkinlik olmazsa zamanlamayı durdurur. Veri dosyası sürekli commit edildiği için bu pratikte olmaz.
 

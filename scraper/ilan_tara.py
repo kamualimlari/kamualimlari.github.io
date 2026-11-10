@@ -38,6 +38,21 @@ GRACE_DAYS = 30          # son başvurusu en fazla bu kadar önce dolmuş ilanla
 LINK = re.compile(r'href="((?:https?://ilan\.memurlar\.net)?/ilan/(\d+)/[^"#?]*\.html)"', re.I)
 
 
+KAYNAK_ADLARI = {
+    "memurlar.net": "Memurlar.net", "memurlar.net ilan": "Memurlar.net", "ilan.memurlar.net": "Memurlar.net",
+    "kamuilantakvimi.com": "Kamu İlan Takvimi", "kamu ilan takvimi": "Kamu İlan Takvimi",
+    "işinolsa": "İşin Olsa", "işin olsa": "İşin Olsa",
+}
+
+
+def kaynak_adi(ad: str) -> str:
+    """Aynı sitenin farklı yazılışlarını (Memurlar.Net, memurlar.net, adres) tek ada indirger."""
+    ad = (ad or "").strip()
+    if ad.startswith("http"):
+        ad = re.sub(r"^https?://(www\.)?", "", ad).split("/")[0]
+    return KAYNAK_ADLARI.get(ad.replace("İ", "i").replace("I", "ı").lower(), ad)
+
+
 def fetch(url: str, timeout: int = 25) -> str:
     last = None
     for i in range(3):
@@ -229,6 +244,9 @@ def main():
     cutoff = now - timedelta(days=KEEP_DAYS)
     items = [i for i in items if datetime.strptime(i["published"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc) >= cutoff]
     items.sort(key=lambda i: i["published"], reverse=True)
+    for i in items:
+        i["source"] = kaynak_adi(i.get("source"))
+        i["sources"] = list(dict.fromkeys(kaynak_adi(x) for x in i.get("sources") or [i["source"]]))
     data["items"] = items
     data["count"] = len(items)
     data["updated"] = iso(now)
