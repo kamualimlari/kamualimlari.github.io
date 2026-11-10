@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T18:05:03Z",
- "count": 244,
+ "updated": "2026-11-10T19:06:47Z",
+ "count": 251,
  "provinces": [
   {
    "plaka": "01",
@@ -334,23 +334,6 @@
  "hatalar": [],
  "items": [
   {
-   "id": "6771a9fa56a9",
-   "title": "Rize İl AFAD 20 TYP personeli alımı",
-   "url": "https://www.kamuilantakvimi.com/ilanlar/rize-afad-20-personel-alimi-typ-basvurusu-2026",
-   "source": "kamuilantakvimi.com",
-   "sources": [
-    "kamuilantakvimi.com"
-   ],
-   "published": "2026-11-10T17:58:50Z",
-   "deadline": null,
-   "first_seen": "2026-11-10T17:58:50Z",
-   "summary": "Rize İl Afet ve Acil Durum Müdürlüğü İŞKUR Toplum Yararına Program kapsamında 180 gün süreyle 20 kişi çalıştıracak. Rize il merkezinde ikamet şartı var, KPSS aranmıyor; katılımcılar 30 Ekim 2026'da liste yöntemiyle belirlenecek. Sayfada son başvuru tarihi çelişkili (başlıkta 23 Ekim, ayrıntıda 23 Kasım).",
-   "provinces": [
-    "53"
-   ],
-   "category": "İşçi"
-  },
-  {
    "id": "eda6045778ab",
    "title": "İstanbul Sultangazi Belediyesi 2 İşçi Alacak",
    "url": "https://ilan.memurlar.net/ilan/86957/istanbul-sultangazi-belediyesi-2-isci-alacak.html",
@@ -434,6 +417,74 @@
    "category": "İşçi"
   },
   {
+   "id": "8224f22953a6",
+   "title": "İzmir Byndr Turizm 1 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/86952/izmir-byndr-turizm-1-isci-alacak.html",
+   "source": "memurlar.net",
+   "sources": [
+    "https://ilan.memurlar.net/ilan/86952/izmir-byndr-turizm-1-isci-alacak.html"
+   ],
+   "published": "2026-11-09T22:59:00Z",
+   "deadline": "2026-11-12",
+   "first_seen": "2026-11-10T19:06:47Z",
+   "summary": "İzmir'deki Byndr Turizm 1 işçi alacak. Son başvuru 12 Kasım 2026. Başvuru yeri ve şartlar sayfada metin olarak yazılmamış, ilan belgesi görselinde yer alıyor; kaynak İŞKUR.",
+   "provinces": [
+    "35"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "9306d46d2daa",
+   "title": "İstanbul Çevre Yönetim 2 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/86951/istanbul-cevre-yonetim-2-isci-alacak.html",
+   "source": "memurlar.net",
+   "sources": [
+    "https://ilan.memurlar.net/ilan/86951/istanbul-cevre-yonetim-2-isci-alacak.html"
+   ],
+   "published": "2026-11-09T22:57:00Z",
+   "deadline": "2026-11-13",
+   "first_seen": "2026-11-10T19:06:47Z",
+   "summary": "İstanbul Çevre Yönetim 2 işçi alacak. Son başvuru 13 Kasım 2026. Başvuru yeri ve şartlar sayfada metin olarak yazılmamış, ilan belgesi görselinde yer alıyor; kaynak İŞKUR.",
+   "provinces": [
+    "34"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "41aa8d7a8bda",
+   "title": "Eskişehir Espark 3 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/86950/eskisehir-espark-3-isci-alacak.html",
+   "source": "memurlar.net",
+   "sources": [
+    "https://ilan.memurlar.net/ilan/86950/eskisehir-espark-3-isci-alacak.html"
+   ],
+   "published": "2026-11-09T22:54:00Z",
+   "deadline": "2026-11-12",
+   "first_seen": "2026-11-10T19:06:47Z",
+   "summary": "Eskişehir Espark 3 işçi alacak. Son başvuru 12 Kasım 2026. Başvuru yeri ve şartlar sayfada metin olarak yazılmamış, ilan belgesi görselinde yer alıyor; kaynak İŞKUR.",
+   "provinces": [
+    "26"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "6dcc97b46219",
+   "title": "Çorum Sunbeton 1 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/86949/corum-sunbeton-1-isci-alacak.html",
+   "source": "memurlar.net",
+   "sources": [
+    "https://ilan.memurlar.net/ilan/86949/corum-sunbeton-1-isci-alacak.html"
+   ],
+   "published": "2026-11-09T22:51:00Z",
+   "deadline": "2026-11-12",
+   "first_seen": "2026-11-10T19:06:47Z",
+   "summary": "Çorum Sunbeton 1 işçi alacak (daimi işçi). Son başvuru 12 Kasım 2026. Başvuru yeri ve şartlar sayfada metin olarak yazılmamış, ilan belgesi görselinde yer alıyor; kaynak İŞKUR.",
+   "provinces": [
+    "19"
+   ],
+   "category": "İşçi"
+  },
+  {
    "id": "85bd1968de97",
    "title": "Erzurum Aşkale SYDV 1 geçici işçi alımı",
    "url": "https://ilan.memurlar.net/ilan/86948/erzurum-askale-sydv-gecici-1-isci-alacak.html",
@@ -449,6 +500,40 @@
     "25"
    ],
    "category": "İşçi"
+  },
+  {
+   "id": "7daf39c29cb3",
+   "title": "Samsun Asarcık İmar 2 geçici işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/86947/samsun-asarcik-imar-gecici-2-isci-alacak.html",
+   "source": "memurlar.net",
+   "sources": [
+    "https://ilan.memurlar.net/ilan/86947/samsun-asarcik-imar-gecici-2-isci-alacak.html"
+   ],
+   "published": "2026-11-09T22:45:00Z",
+   "deadline": "2026-11-12",
+   "first_seen": "2026-11-10T19:06:47Z",
+   "summary": "Samsun Asarcık İmar 2 geçici işçi alacak. Son başvuru 12 Kasım 2026. Başvuru yeri ve şartlar sayfada metin olarak yazılmamış, ilan belgesi görselinde yer alıyor; kaynak İŞKUR.",
+   "provinces": [
+    "55"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "8ad7b89b98ec",
+   "title": "İstanbul Arnavutköy Belediyesi 4 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/86946/istanbul-arnavutkoy-belediyesi-4-isci-alacak.html",
+   "source": "memurlar.net",
+   "sources": [
+    "https://ilan.memurlar.net/ilan/86946/istanbul-arnavutkoy-belediyesi-4-isci-alacak.html"
+   ],
+   "published": "2026-11-09T22:42:00Z",
+   "deadline": "2026-11-13",
+   "first_seen": "2026-11-10T19:06:47Z",
+   "summary": "Arnavutköy Belediyesi 4 işçi alacak. Son başvuru 13 Kasım 2026. Başvuru yeri ve şartlar sayfada metin olarak yazılmamış, ilan belgesi görselinde yer alıyor; kaynak İŞKUR.",
+   "provinces": [
+    "34"
+   ],
+   "category": "Belediye"
   },
   {
    "id": "eb2f64db53f6",
@@ -804,6 +889,23 @@
    "category": "İşçi"
   },
   {
+   "id": "8e7c35d59d0f",
+   "title": "Adana Ceyhan SYDV 1 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/86919/adana-ceyhan-sydv-1-isci-alacak.html",
+   "source": "memurlar.net",
+   "sources": [
+    "https://ilan.memurlar.net/ilan/86919/adana-ceyhan-sydv-1-isci-alacak.html"
+   ],
+   "published": "2026-11-06T22:26:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-10T19:06:47Z",
+   "summary": "Ceyhan Sosyal Yardımlaşma ve Dayanışma Vakfı 1 daimi işçi alacak. Son başvuru tarihi, başvuru yeri ve şartlar sayfada metin olarak yok, ilan görselinde yer alıyor; kaynak İŞKUR.",
+   "provinces": [
+    "01"
+   ],
+   "category": "İşçi"
+  },
+  {
    "id": "ce639b783ac0",
    "title": "Adana Sarıçam SYDV 1 Geçici İşçi Alacak",
    "url": "https://ilan.memurlar.net/ilan/86918/adana-saricam-sydv-gecici-1-isci-alacak.html",
@@ -896,6 +998,23 @@
    "summary": "Akseki Belediye Başkanlığı 1 boş memur kadrosuna 2026 KPSS (B) puanıyla alım yapacak; ilan başlığında son başvuru 20 Kasım 2026 yazıyor, ilan metninde ise elektronik başvuru için 21-25 Aralık 2026 tarihleri geçtiği için resmi ilandan teyit edilmelidir. Başvuru belediye e-postasına veya şahsen/iadeli taahhütlü posta ile Fakılar Mah. Rasih Kaplan Cad. No:33/E Akseki'deki İnsan Kaynakları ve Eğitim Müdürlüğüne yapılır. Şartlar: Türk vatandaşı olmak, mezuniyet şartı, KPSS (B) asgari puanı, en az B sınıfı sürücü belgesi.",
    "provinces": [
     "07"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "ffeef4a14f4a",
+   "title": "Bozköy Belediyesi 1 itfaiye eri alacak",
+   "url": "https://ilan.memurlar.net/ilan/86913/bozkoy-belediyesi-1-irfaiye-eri-alacak.html",
+   "source": "memurlar.net",
+   "sources": [
+    "https://ilan.memurlar.net/ilan/86913/bozkoy-belediyesi-1-irfaiye-eri-alacak.html"
+   ],
+   "published": "2026-11-05T23:10:00Z",
+   "deadline": "2026-12-23",
+   "first_seen": "2026-11-10T19:06:47Z",
+   "summary": "Niğde Bozköy Belediyesi, 657 sayılı Kanun'a tabi 1 itfaiye eri alacak. Başvurular 21-23 Aralık 2026 arasında Yazı İşleri Müdürlüğü'ne şahsen yapılır; sözlü ve uygulamalı sınav 5 Ocak 2027. Şartlar: 2026 KPSS (B), sınav tarihinde 30 yaşını doldurmamış olmak, en az C sınıfı sürücü belgesi, erkeklerde en az 1,67 m, kadınlarda en az 1,60 m boy.",
+   "provinces": [
+    "51"
    ],
    "category": "Belediye"
   },
