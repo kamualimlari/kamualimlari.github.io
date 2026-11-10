@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T19:44:47Z",
- "count": 256,
+ "updated": "2026-11-10T20:26:43Z",
+ "count": 257,
  "provinces": [
   {
    "plaka": "01",
@@ -1279,6 +1279,23 @@
    "summary": "Necmettin Erbakan Üniversitesi öğretim görevlisi ve araştırma görevlisi alacak; birimler ve sayı sayfada yok. Önce akds.erbakan.edu.tr'de elektronik başvuru, ardından basılı form ve belgelerle ilgili birime şahsen veya posta ile başvuru; son başvuru 19 Kasım 2026. Araştırma görevlisi için 35 yaş altı ve lisansüstü öğrenci olmak aranıyor.",
    "provinces": [
     "42"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "5123f9005501",
+   "title": "İstanbul Kültür Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/86896/istanbul-kultur-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-04T21:35:00Z",
+   "deadline": "2026-11-19",
+   "first_seen": "2026-11-10T20:26:44Z",
+   "summary": "İstanbul Kültür Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 05.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 19.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "34"
    ],
    "category": "Eğitim"
   },
