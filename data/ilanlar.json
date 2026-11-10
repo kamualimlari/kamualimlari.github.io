@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T21:19:44Z",
- "count": 257,
+ "updated": "2026-11-10T21:59:27Z",
+ "count": 260,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,57 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "19b17ebabcfc",
+   "title": "Şırnak Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/86960/sirnak-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-10T21:28:00Z",
+   "deadline": "2026-11-25",
+   "first_seen": "2026-11-10T21:59:28Z",
+   "summary": "Şırnak Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 11.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 25.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "73"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "688d11f9138b",
+   "title": "İstanbul Beykent Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/86959/istanbul-beykent-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-10T21:18:00Z",
+   "deadline": "2026-11-25",
+   "first_seen": "2026-11-10T21:59:28Z",
+   "summary": "İstanbul Beykent Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 11.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 25.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "34"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "4aec17100f4c",
+   "title": "İstanbul Rumeli Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/86958/istanbul-rumeli-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-10T21:08:00Z",
+   "deadline": "2026-11-25",
+   "first_seen": "2026-11-10T21:59:29Z",
+   "summary": "İstanbul Rumeli Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 11.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 25.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "34"
+   ],
+   "category": "Eğitim"
+  },
   {
    "id": "eda6045778ab",
    "title": "İstanbul Sultangazi Belediyesi 2 İşçi Alacak",
