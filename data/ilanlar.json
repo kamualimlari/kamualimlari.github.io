@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T19:06:47Z",
- "count": 251,
+ "updated": "2026-11-10T19:44:47Z",
+ "count": 257,
  "provinces": [
   {
    "plaka": "01",
@@ -328,7 +328,7 @@
   }
  ],
  "kaynak_sayisi": {
-  "basarili": 41,
+  "basarili": 9,
   "hatali": 0
  },
  "hatalar": [],
@@ -581,6 +581,21 @@
    "deadline": "2026-11-25",
    "first_seen": "2026-11-10T17:42:25Z",
    "summary": "Sayıştay Başkanlığı 16 sözleşmeli personel alıyor: 3 çözümleyici, 13 programcı (9 lisans, 4 ön lisans). Başvuru 11-25 Kasım 2026 arasında; şahsen veya posta ile başvuru kabul edilmiyor. 2026 KPSS'den en az 60 puan (lisans P1, ön lisans P93).",
+   "provinces": [],
+   "category": "Memur / KPSS"
+  },
+  {
+   "id": "ac4dc701d280",
+   "title": "Sayıştay 16 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/86940/sayistay-16-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-09T21:26:00Z",
+   "deadline": "2026-11-25",
+   "first_seen": "2026-11-10T19:44:47Z",
+   "summary": "Sayıştay 16 sözleşmeli personel alacak. İlan Memurlar.net'te 10.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 25.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
    "provinces": [],
    "category": "Memur / KPSS"
   },
@@ -985,6 +1000,21 @@
    "category": "Memur / KPSS"
   },
   {
+   "id": "28eed3983949",
+   "title": "SGK 100 denetmen yardımcısı alacak: Başvuru 9 Kasım'da başlıyor",
+   "url": "https://ilan.memurlar.net/ilan/86902/sgk-100-denetmen-yardimcisi-alacak-basvuru-9-kasim-da-basliyor.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-06T05:20:00Z",
+   "deadline": "2026-11-22",
+   "first_seen": "2026-11-10T19:44:48Z",
+   "summary": "SGK 100 denetmen yardımcısı alacak: Başvuru 9 Kasım'da başlıyor. İlan Memurlar.net'te 06.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 22.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Memur / KPSS"
+  },
+  {
    "id": "3e30866c3915",
    "title": "Antalya Akseki Belediyesi 1 memur alacak",
    "url": "https://ilan.memurlar.net/ilan/86914/antalya-akseki-belediyesi-1-memur-alacak.html",
@@ -1249,6 +1279,23 @@
    "summary": "Necmettin Erbakan Üniversitesi öğretim görevlisi ve araştırma görevlisi alacak; birimler ve sayı sayfada yok. Önce akds.erbakan.edu.tr'de elektronik başvuru, ardından basılı form ve belgelerle ilgili birime şahsen veya posta ile başvuru; son başvuru 19 Kasım 2026. Araştırma görevlisi için 35 yaş altı ve lisansüstü öğrenci olmak aranıyor.",
    "provinces": [
     "42"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "5123f9005501",
+   "title": "İstanbul Kültür Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/86896/istanbul-kultur-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-04T21:35:00Z",
+   "deadline": "2026-11-19",
+   "first_seen": "2026-11-10T19:44:49Z",
+   "summary": "İstanbul Kültür Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 05.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 19.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "34"
    ],
    "category": "Eğitim"
   },
@@ -2093,6 +2140,21 @@
    "category": "Eğitim"
   },
   {
+   "id": "39209b5a7709",
+   "title": "Nükleer Düzenleme Kurumu 8 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/86840/nukleer-duzenleme-kurumu-8-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-10-29T21:26:00Z",
+   "deadline": "2026-11-23",
+   "first_seen": "2026-11-10T19:44:49Z",
+   "summary": "Nükleer Düzenleme Kurumu 8 sözleşmeli personel alacak. İlan Memurlar.net'te 30.10.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 23.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Memur / KPSS"
+  },
+  {
    "id": "a216cb8f1195",
    "title": "Kamu İhale Kurumu 25 Uzman Yardımcısı alacak",
    "url": "https://ilan.memurlar.net/ilan/86839/kamu-ihale-kurumu-25-uzman-yardimcisi-alacak.html",
@@ -2713,6 +2775,21 @@
    "deadline": "2026-11-16",
    "first_seen": "2026-11-10T17:42:25Z",
    "summary": "Kültür ve Turizm Bakanlığı taşra teşkilatı için 162 sözleşmeli kütüphaneci alıyor. Başvuru 2-16 Kasım 2026'da Kariyer Kapısı'ndan; aday yalnızca bir ile başvurabiliyor. Şartlar: ilgili lisans bölümü mezunu olmak, 2026 KPSS (B) P3 puanından en az 70. Alım sözlü sınavla yapılacak.",
+   "provinces": [],
+   "category": "Memur / KPSS"
+  },
+  {
+   "id": "d852c0ca4ed1",
+   "title": "Kültür ve Turizm Bakanlığı 162 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/86791/kultur-ve-turizm-bakanligi-162-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-10-22T21:19:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-10T19:44:50Z",
+   "summary": "Kültür ve Turizm Bakanlığı 162 sözleşmeli personel alacak. İlan Memurlar.net'te 23.10.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
    "provinces": [],
    "category": "Memur / KPSS"
   },
@@ -3668,6 +3745,21 @@
    "category": "Memur / KPSS"
   },
   {
+   "id": "976cdf0387eb",
+   "title": "Sarıidris Belediyesi 1 memur alacak",
+   "url": "https://ilan.memurlar.net/ilan/86689/sariidris-belediyesi-1-memur-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-10-11T22:05:00Z",
+   "deadline": "2026-11-20",
+   "first_seen": "2026-11-10T19:44:51Z",
+   "summary": "Sarıidris Belediyesi 1 memur alacak. İlan Memurlar.net'te 12.10.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Belediye"
+  },
+  {
    "id": "5c6224331fca",
    "title": "Şırnak Üniversitesi öğretim üyesi ve öğretim elemanı alacak",
    "url": "https://ilan.memurlar.net/ilan/86687/sirnak-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
@@ -4552,5 +4644,22 @@
    "provinces": [],
    "category": "Sağlık"
   }
+ ],
+ "atlanan_idler": [
+  "29967",
+  "41863",
+  "42149",
+  "46095",
+  "46209",
+  "46813",
+  "48143",
+  "50532",
+  "54707",
+  "54862",
+  "55225",
+  "55469",
+  "63464",
+  "65311",
+  "66164"
  ]
 }
