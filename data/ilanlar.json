@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T04:32:46Z",
- "count": 278,
+ "updated": "2026-11-11T05:06:30Z",
+ "count": 280,
  "provinces": [
   {
    "plaka": "01",
@@ -4522,6 +4522,23 @@
    "category": "Eğitim"
   },
   {
+   "title": "Atalan Belediyesi 1 Sözleşmeli Personel Alacak",
+   "url": "https://ilan.memurlar.net/ilan/86515/atalan-belediyesi-1-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-09-23T21:04:00Z",
+   "deadline": "2026-10-27",
+   "summary": "Atalan Belediye Başkanlığı (Osmaniye) 1 tam zamanlı sözleşmeli personel alacak. Başvurular 23-27 Ekim 2026 arasında e-posta ile ya da Mali Hizmetler Müdürlüğüne (Çukuroba Mah. Ahmet Donbaloğlu Bulvarı No:46) şahsen veya iadeli taahhütlü posta ile yapılır. Şartlar: 2024 KPSS (B) grubundan ilanda belirtilen asgari puan ve en az B sınıfı sürücü belgesi. Unvan ve puan bilgisi ilan görselinde olduğundan metinde yer almıyor.",
+   "provinces": [
+    "80"
+   ],
+   "category": "Belediye",
+   "id": "d3486ca31b25",
+   "first_seen": "2026-11-11T05:06:30Z"
+  },
+  {
    "id": "c7e4f05d55c9",
    "title": "Merkez Bankası 9 Bilişim Uzman Yardımcısı alacak",
    "url": "https://ilan.memurlar.net/ilan/86490/merkez-bankasi-9-bilisim-uzman-yardimcisi-alacak.html",
@@ -4651,6 +4668,23 @@
     "14"
    ],
    "category": "Memur / KPSS"
+  },
+  {
+   "title": "Aralık Belediyesi 3 İtfaiye Eri Alacak",
+   "url": "https://ilan.memurlar.net/ilan/86323/aralik-belediyesi-3-itfaiye-eri-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-09-09T21:22:00Z",
+   "deadline": "2026-10-21",
+   "summary": "Aralık Belediye Başkanlığı (Iğdır) 657 sayılı Kanun kapsamında 3 itfaiye eri alacak. Başvurular 19-21 Ekim 2026 arasında Yazı İşleri Müdürlüğüne şahsen yapılır, posta kabul edilmez. Şartlar: KPSS (B) asgari puanı, sınav tarihinde 30 yaşını doldurmamış olmak, en az B sınıfı sürücü belgesi, erkeklerde en az 1,67 m ve kadınlarda en az 1,60 m boy.",
+   "provinces": [
+    "76"
+   ],
+   "category": "Güvenlik",
+   "id": "a5d1aa7c846d",
+   "first_seen": "2026-11-11T05:06:30Z"
   },
   {
    "id": "224a6ba4e514",
