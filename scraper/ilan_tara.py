@@ -52,6 +52,9 @@ def kaynak_adi(ad: str) -> str:
         ad = re.sub(r"^https?://(www\.)?", "", ad).split("/")[0]
     return KAYNAK_ADLARI.get(ad.replace("İ", "i").replace("I", "ı").lower(), ad)
 
+# Vakıf (özel) üniversiteler ve özel okullar: kamu alımı değil, alınmaz. Katlanmış (fold) başlıkta aranır.
+VAKIF = re.compile(r"vakif(?!kebir)|ozel okul|" + r"acibadem|alanya hamdullah|alanya universitesi|altinbas|ankara bilim|ankara medipol|antalya belek|antalya bilim|atilim|avrasya|bahcesehir|baskent|beykent|beykoz|bezm-?i ?alem|bilkent|biruni|cag universitesi|cankaya|demiroglu bilim|dogus|fatih sultan mehmet|fenerbahce universitesi|gedik|gelisim|hali[cç] universitesi|hasan kalyoncu|isik universitesi|ibn haldun|istanbul 29 mayis|istanbul arel|istanbul atlas|istanbul aydin|istanbul bilgi|istanbul esenyurt|istanbul galata|istanbul gedik|istanbul kent|istanbul kultur|istanbul medipol|istanbul nisantasi|istanbul okan|istanbul rumeli|istanbul sabahattin zaim|istanbul saglik ve teknoloji|istanbul ticaret|istanbul topkapi|istanbul yeni yuzyil|istinye|izmir ekonomi|izmir tinaztepe|kadir has|kapadokya universitesi|koc universitesi|kocaeli saglik ve teknoloji|konya gida ve tarim|kto karatay|lokman hekim|maltepe universitesi|mef universitesi|mudanya universitesi|nuh naci yazgan|okan universitesi|ostim|ozyegin|piri reis|sabanci|sanko|tarsus universitesi ozel|ted universitesi|tobb|toros universitesi|turk hava kurumu|ufuk universitesi|uskudar universitesi|yasar universitesi|yeditepe|yuksek ihtisas|bilgi universitesi|kultur universitesi|medipol|nisantasi|rumeli universitesi")
+
 
 def fetch(url: str, timeout: int = 25) -> str:
     last = None
@@ -230,7 +233,7 @@ def main():
         if pub < now - timedelta(days=60) and not dl:
             skipped += 1
             continue
-        if re.search(r"vak[iıİ]f(?!kebir)|özel okul|kocaeli sağlık ve teknoloji|bilgi üniversitesi|kültür üniversitesi|bahçeşehir|sabancı|koç üniversitesi|özyeğin|medipol|atılım|başkent üniversitesi|bilkent|ostim|kadir has|yeditepe|maltepe üniversitesi|işık üniversitesi|okan üniversitesi|istinye|acıbadem|biruni|nişantaşı|altınbaş|haliç|üsküdar üniversitesi|fenerbahçe üniversitesi|hasan kalyoncu|çankaya üniversitesi|tobb|ufuk üniversitesi|lokman hekim|bezmialem", title, re.I):
+        if VAKIF.search(fold(title)):
             skipped += 1
             continue
         # Aynı başlık yalnızca yayın tarihi de yakınsa (3 gün) tekrar sayılır; kurumlar aynı başlıkla yeni ilan verir.

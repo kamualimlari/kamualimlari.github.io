@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-11T19:15:24Z",
- "count": 282,
+ "count": 277,
  "provinces": [
   {
    "plaka": "01",
@@ -347,40 +347,6 @@
    "summary": "Şırnak Üniversitesi Rektörlüğü öğretim üyesi alımı yapacak (ilan no 2026-05, Resmî Gazete). Son başvuru tarihi 25 Kasım 2026, mesai bitimidir. Başvurular başvurulan kadronun birimine şahsen ya da posta/kargo ile yapılır; 657 sayılı Kanun'un 48. maddesindeki genel şartlar ve üniversitenin atanma kriterleri aranır. Kadro sayısı ilan sayfasında yer almıyor.",
    "provinces": [
     "73"
-   ],
-   "category": "Eğitim"
-  },
-  {
-   "id": "688d11f9138b",
-   "title": "İstanbul Beykent Üniversitesi Öğretim Üyesi Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/86959/istanbul-beykent-universitesi-ogretim-uyesi-alim-ilani.html",
-   "source": "Memurlar.net",
-   "sources": [
-    "Memurlar.net"
-   ],
-   "published": "2026-11-10T21:18:00Z",
-   "deadline": "2026-11-25",
-   "first_seen": "2026-11-10T21:59:28Z",
-   "summary": "İstanbul Beykent Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 11.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 25.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [
-    "34"
-   ],
-   "category": "Eğitim"
-  },
-  {
-   "id": "4aec17100f4c",
-   "title": "İstanbul Rumeli Üniversitesi Öğretim Üyesi Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/86958/istanbul-rumeli-universitesi-ogretim-uyesi-alim-ilani.html",
-   "source": "Memurlar.net",
-   "sources": [
-    "Memurlar.net"
-   ],
-   "published": "2026-11-10T21:08:00Z",
-   "deadline": "2026-11-25",
-   "first_seen": "2026-11-10T21:59:29Z",
-   "summary": "İstanbul Rumeli Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 11.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 25.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [
-    "34"
    ],
    "category": "Eğitim"
   },
@@ -1166,23 +1132,6 @@
    "category": "Eğitim"
   },
   {
-   "id": "bc573e69f5e3",
-   "title": "Yüksek İhtisas Üniversitesi öğretim elemanı alım ilanı",
-   "url": "https://ilan.memurlar.net/ilan/86912/yuksek-ihtisas-universitesi-ogretim-uyesi-alim-ilani.html",
-   "source": "Memurlar.net",
-   "sources": [
-    "Memurlar.net"
-   ],
-   "published": "2026-11-05T21:55:00Z",
-   "deadline": "2026-11-23",
-   "first_seen": "2026-11-10T17:58:50Z",
-   "summary": "Yüksek İhtisas Üniversitesi profesör, doçent, doktor öğretim üyesi, öğretim görevlisi ve araştırma görevlisi alacak; sayı belirtilmemiş. İlan metnine göre son başvuru 23.11.2026 (sayfa başlığında 20 Kasım yazıyor). Başvurular ilgili fakülte dekanlığı veya yüksekokul müdürlüğüne şahsen ya da posta ile; ALES en az 70 aranıyor.",
-   "provinces": [
-    "06"
-   ],
-   "category": "Eğitim"
-  },
-  {
    "id": "92059201273f",
    "title": "Aksaray Üniversitesi öğretim üyesi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/86905/aksaray-universitesi-ogretim-uyesi-alim-ilani.html",
@@ -1921,23 +1870,6 @@
    "summary": "Türkiye Turizm Tanıtım ve Geliştirme Ajansı (TGA) 13 personel alacak. Başvurular 3 Kasım'da başladı, 4 Aralık 2026'da sona eriyor; yalnızca tga.gov.tr/kariyer üzerinden alınıyor. Müdür ve hizmet personeli için YDS/e-YDS en az B düzeyi aranıyor; ilk beş aday sözlü sınava çağrılacak.",
    "provinces": [],
    "category": "Memur / KPSS"
-  },
-  {
-   "id": "b4dffb8f046e",
-   "title": "Antalya Bilim Üniversitesi öğretim üyesi alım ilanı",
-   "url": "https://ilan.memurlar.net/ilan/86857/antalya-bilim-universitesi-ogretim-uyesi-alim-ilani.html",
-   "source": "Memurlar.net",
-   "sources": [
-    "Memurlar.net"
-   ],
-   "published": "2026-11-02T21:20:00Z",
-   "deadline": "2026-11-17",
-   "first_seen": "2026-11-10T17:58:50Z",
-   "summary": "Antalya Bilim Üniversitesi Rektörlüğü devamlı statüde öğretim üyesi alacak; son başvuru 17 Kasım 2026. Başvuru İnsan Kaynakları Müdürlüğüne şahsen veya posta ile (Çıplaklı Mah. Akdeniz Bulvarı No:290 Döşemealtı) yapılır. Dilekçe, YÖK formatında özgeçmiş, yayın listesi ve bilimsel çalışmalar USB bellekte istenir; kadro sayıları ilan görselinde.",
-   "provinces": [
-    "07"
-   ],
-   "category": "Eğitim"
   },
   {
    "id": "d03f1faedca9",
@@ -3572,23 +3504,6 @@
    "summary": "Atatürk Üniversitesi Rektörlüğü profesör, doçent ve doktor öğretim üyesi alımı için Resmi Gazete ilanı yayımladı; kadro sayısı sayfada yok. Başvurular ilanın Resmi Gazete'de yayımlanmasından itibaren 15 gün açıktı, son gün 29 Ekim 2026. Belgeler ilgili birime teslim ediliyor; 2547 sayılı Kanun ve 657 sayılı Kanun'un 48. maddesi şartları aranıyor, yabancı dil belgesi, yayın listesi ve askerlik belgesi isteniyor.",
    "provinces": [
     "25"
-   ],
-   "category": "Eğitim"
-  },
-  {
-   "id": "fdcc709f1748",
-   "title": "Antalya Belek Üniversitesi öğretim üyesi alım ilanı",
-   "url": "https://ilan.memurlar.net/ilan/86709/antalya-belek-universitesi-ogretim-uyesi-alim-ilani.html",
-   "source": "Memurlar.net",
-   "sources": [
-    "Memurlar.net"
-   ],
-   "published": "2026-10-14T21:26:00Z",
-   "deadline": "2026-10-29",
-   "first_seen": "2026-11-10T17:58:50Z",
-   "summary": "Antalya Belek Üniversitesi Rektörlüğü tam zamanlı öğretim üyesi alacak (Resmi Gazete); son başvuru 29 Ekim 2026 (süresi dolmuş). Profesör ve doçent için Rektörlüğe, doktor öğretim üyesi için ilgili dekanlık/müdürlüğe başvurulur. Dilekçe, özgeçmiş, yayın listesi ve noter onaylı doçentlik veya doktora belgesi istenir.",
-   "provinces": [
-    "07"
    ],
    "category": "Eğitim"
   },

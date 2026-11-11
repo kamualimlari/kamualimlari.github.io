@@ -71,6 +71,8 @@ button, select, input { font: inherit; color: inherit; }
   min-height: 36px; padding: 4px 14px; background: transparent; border: 1px solid var(--line);
   border-radius: 999px; cursor: pointer; font-size: 14px;
 }
+.chip.son { border-color: var(--signal); background: var(--signal); color: var(--signal-ink); font-weight: 600; }
+.chip.son[aria-pressed="true"] { outline: 3px solid var(--ink); outline-offset: 1px; background: var(--signal); color: var(--signal-ink); border-color: var(--signal); }
 .chip[aria-pressed="true"] { background: var(--chip-on-bg); color: var(--chip-on-ink); border-color: var(--chip-on-bg); }
 
 /* liste */
@@ -97,6 +99,7 @@ button, select, input { font: inherit; color: inherit; }
 .facts { display: flex; flex-wrap: wrap; gap: 4px 18px; font-size: 13px; color: var(--muted); }
 .facts b { color: var(--ink); font-weight: 600; }
 .open { justify-self: start; min-height: 40px; display: inline-flex; align-items: center; padding: 0 16px; border: 1px solid var(--ink); border-radius: 8px; text-decoration: none; font-size: 14px; }
+.acts { display: flex; flex-wrap: wrap; gap: 8px; }
 .open:hover { background: var(--ink); color: var(--bg); }
 .item.expired { opacity: .72; }
 .due { background: var(--signal); color: var(--signal-ink); border-radius: 4px; padding: 0 7px; font-weight: 600; }
@@ -171,7 +174,7 @@ button, select, input { font: inherit; color: inherit; }
   const $ = (s) => document.querySelector(s);
   const tr = (s) => (s || "").toLocaleLowerCase("tr");
 
-  const state = { il: "", q: "", kat: "", gun: "30", old: false, limit: PAGE };
+  const state = { il: "", q: "", kat: "", gun: "30", old: false, son: false, limit: PAGE };
   let DATA = null;
   let known = new Set();
   let lastOk = 0;
@@ -206,14 +209,21 @@ button, select, input { font: inherit; color: inherit; }
     return new Date(iso).toLocaleDateString("tr-TR", { day: "numeric", month: "long" });
   }
 
+  const daysLeft = (it) => Math.ceil((endOf(it.deadline) - Date.now()) / 864e5);
+  const closing = (it) => !!it.deadline && !expired(it) && daysLeft(it) <= 3;
+  const isBelediye = (it) => it.category === "Belediye" || /belediye|büyükşehir/.test(tr(it.title));
+  const inKat = (it) => !state.kat || (state.kat === "Belediye" ? isBelediye(it) : it.category === state.kat);
   function inPeriod(it) {
     const g = Number(state.gun);
     return !g || Date.now() - new Date(when(it)) <= g * 864e5;
   }
   function matches(it, withIl) {
-    if (!inPeriod(it)) return false;
-    if (!state.old && expired(it)) return false;
-    if (state.kat && it.category !== state.kat) return false;
+    if (state.son) { if (!closing(it)) return false; }
+    else {
+      if (!inPeriod(it)) return false;
+      if (!state.old && expired(it)) return false;
+    }
+    if (!inKat(it)) return false;
     if (state.q && !tr(it.title + " " + (it.summary || "")).includes(tr(state.q))) return false;
     if (!withIl) return true;
     if (state.il === "") return true;
@@ -243,6 +253,13 @@ button, select, input { font: inherit; color: inherit; }
   function renderChips() {
     const box = $("#chips");
     box.textContent = "";
+    const n = DATA.items.filter((it) => closing(it) && (state.il === "" || (state.il === "genel" ? !it.provinces.length : it.provinces.includes(state.il)))).length;
+    const sb = el("button", "chip son", `Son günler (${n})`);
+    sb.type = "button";
+    sb.title = "Başvurusu 3 gün içinde bitecek ilanlar";
+    sb.setAttribute("aria-pressed", String(state.son));
+    sb.addEventListener("click", () => { state.son = !state.son; state.limit = PAGE; render(); });
+    box.appendChild(sb);
     for (const c of ["", ...CATS]) {
       const b = el("button", "chip", c || "Tümü");
       b.type = "button";
@@ -257,7 +274,8 @@ button, select, input { font: inherit; color: inherit; }
     $("#plateCode").textContent = prov ? prov.plaka : "TR";
     $("#ilAd").textContent = prov ? prov.ad : state.il === "genel" ? "Bakanlıklar / Kurumlar" : "Tüm Türkiye";
     const span = { 1: "son 24 saat", 7: "son 7 gün", 30: "son 30 gün", 0: "tüm kayıtlar" }[state.gun];
-    $("#ozet").textContent = count ? `${count} haber, ${span}` : `Bu aralıkta haber yok (${span})`;
+    if (state.son) { $("#ozet").textContent = count ? `Başvurusu 3 gün içinde biten ${count} ilan` : "3 gün içinde biten ilan yok"; return; }
+    $("#ozet").textContent = count ? `${count} ilan, ${span}` : `Bu aralıkta ilan yok (${span})`;
   }
 
   function renderList(rows) {
@@ -265,8 +283,8 @@ button, select, input { font: inherit; color: inherit; }
     ul.textContent = "";
     if (!rows.length) {
       const li = el("li", "empty");
-      li.appendChild(el("strong", "", "Bu seçimde haber bulunamadı"));
-      li.appendChild(el("span", "", "Zaman aralığını genişlet ya da alım türünü “Tümü” yap. Sayfa yeni haberleri kendiliğinden getirir."));
+      li.appendChild(el("strong", "", "Bu seçimde ilan bulunamadı"));
+      li.appendChild(el("span", "", "Zaman aralığını genişlet ya da alım türünü “Tümü” yap. Sayfa yeni ilanları kendiliğinden getirir."));
       ul.appendChild(li);
       $("#more").hidden = true;
       return;
@@ -301,7 +319,7 @@ button, select, input { font: inherit; color: inherit; }
       if (it.deadline) {
         if (expired(it)) { li.classList.add("expired"); meta.appendChild(el("span", "gone", "Süresi doldu")); }
         else {
-          const left = Math.ceil((endOf(it.deadline) - Date.now()) / 864e5);
+          const left = daysLeft(it);
           const t = left <= 1 ? "Son gün bugün" : left <= 3 ? `Son ${left} gün` : "Son başvuru: " + fmtDay(it.deadline);
           meta.appendChild(el("span", left <= 3 ? "due" : "", t));
         }
@@ -309,7 +327,7 @@ button, select, input { font: inherit; color: inherit; }
 
       const panel = el("div", "panel");
       panel.id = pid; panel.hidden = true;
-      panel.appendChild(el("p", "sum", it.summary || "Bu kayıt için özet yok. Ayrıntı için haberin tamamını aç."));
+      panel.appendChild(el("p", "sum", it.summary || "Bu kayıt için özet yok. Ayrıntı için ilanın tamamını aç."));
       const facts = el("div", "facts");
       const fact = (k, v) => { const sp = el("span"); sp.appendChild(el("b", "", k + ": ")); sp.appendChild(document.createTextNode(v)); facts.appendChild(sp); };
       if (it.published) fact("Yayın tarihi", new Date(it.published).toLocaleDateString("tr-TR", { day: "numeric", month: "long", year: "numeric" }));
@@ -317,9 +335,16 @@ button, select, input { font: inherit; color: inherit; }
       fact("Kaynak", it.source);
       panel.appendChild(facts);
       if (safeUrl(it.url)) {
-        const a = el("a", "open", "Haberin tamamını aç");
+        const acts = el("div", "acts");
+        const a = el("a", "open", "İlanın tamamını aç");
         a.href = it.url; a.target = "_blank"; a.rel = "noopener noreferrer";
-        panel.appendChild(a);
+        acts.appendChild(a);
+        if (/^[A-Za-z0-9_-]+$/.test(it.id)) {
+          const d = el("a", "open", "İlan sayfası");
+          d.href = "ilan/" + it.id + "/";
+          acts.appendChild(d);
+        }
+        panel.appendChild(acts);
       }
       btn.addEventListener("click", () => {
         const on = btn.getAttribute("aria-expanded") !== "true";
@@ -341,7 +366,7 @@ button, select, input { font: inherit; color: inherit; }
     if (!DATA) return;
     renderSelect();
     renderChips();
-    const rows = DATA.items.filter((it) => matches(it, true)).sort((x, y) => new Date(when(y)) - new Date(when(x)));
+    const rows = DATA.items.filter((it) => matches(it, true)).sort((x, y) => state.son ? (x.deadline < y.deadline ? -1 : x.deadline > y.deadline ? 1 : 0) : new Date(when(y)) - new Date(when(x)));
     renderHero(rows.length);
     renderList(rows);
     const n = $("#notice");
@@ -374,8 +399,8 @@ button, select, input { font: inherit; color: inherit; }
       if (!first && fresh.length) {
         const here = fresh.filter((i) => state.il === "" || (state.il === "genel" ? !i.provinces.length : i.provinces.includes(state.il)));
         $("#durum").textContent = here.length
-          ? `${here.length} yeni haber eklendi`
-          : `${fresh.length} yeni haber eklendi, başka illerde`;
+          ? `${here.length} yeni ilan eklendi`
+          : `${fresh.length} yeni ilan eklendi, başka illerde`;
       }
       known = new Set(next.items.map((i) => i.id));
       DATA = next;

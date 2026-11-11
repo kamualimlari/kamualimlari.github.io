@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "haber-botu"
           git config user.email "bot@users.noreply.github.com"
-          git add data/ilanlar.json il sitemap.xml robots.txt
+          git add data/ilanlar.json il ilan sitemap.xml robots.txt
           if git diff --cached --quiet; then echo "Değişiklik yok"; exit 0; fi
           git commit -m "Veriyi güncelle"
           git pull --rebase -X theirs origin main || true
