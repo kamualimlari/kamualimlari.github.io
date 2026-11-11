@@ -51,4 +51,13 @@ sa = [i for i in d["items"] if "Sarıidris" in i["title"]]
 check("başlıkta il yok: metinden Isparta (32)", len(sa) == 1 and sa[0]["provinces"] == ["32"])
 before = len(d["items"]); t.main(); d = json.load(open(out))
 check("ikinci çalışma: tekrar eklemez", len(d["items"]) == before)
+# aynı başlıkla bir ay sonra yeni ilan: eklenmeli
+LISTE2 = LISTE + '<a href="/ilan/90009/antalya-akseki-belediyesi-1-memur-alacak.html">x</a>'
+SAYFA["90009"] = SAYFA["90001"].replace("06 Kasım 2026", "20 Ekim 2026").replace("20 Kasım", "25 Kasım")
+SAYFA["90010"] = SAYFA["90001"]
+_f = t.fetch
+t.fetch = lambda url, timeout=25: LISTE2 + '<a href="/ilan/90010/antalya-akseki-belediyesi-1-memur-alacak.html">y</a>' if "/kategori/mahalli-ilanlari/" in url else _f(url)
+t.main(); d = json.load(open(out))
+ak = [i for i in d["items"] if "Akseki" in i["title"]]
+check("aynı başlık, farklı tarih: yeni ilan eklenir; aynı tarihli kopya eklenmez", len(ak) == 2 and len({i["id"] for i in ak}) == 2)
 print(f"\n{'hepsi geçti' if not fails else str(fails)+' hata'}"); sys.exit(1 if fails else 0)

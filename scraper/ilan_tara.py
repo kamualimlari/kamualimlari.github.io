@@ -157,7 +157,7 @@ def build_item(title, url, pub, dl, cat_hint, extra_prov=None):
         parts.append(f"Sayfada son başvuru tarihi {dl.strftime('%d.%m.%Y')} olarak yazıyor.")
     parts.append("Başvuru yeri ve şartlar için ilanın tamamına bakın.")
     return {
-        "id": hashlib.sha1(title_key(title).encode()).hexdigest()[:12],
+        "id": hashlib.sha1((title_key(title) + url).encode()).hexdigest()[:12],
         "title": title, "url": url, "source": "Memurlar.net", "sources": ["Memurlar.net"],
         "published": iso(pub), "deadline": dl.isoformat() if dl else None,
         "first_seen": iso(datetime.now(timezone.utc)), "summary": " ".join(parts),
@@ -185,7 +185,9 @@ def main():
     items = data["items"]
     skipped_ids = set(data.get("atlanan_idler", []))
     known_ids = {ilan_id(i["url"]) for i in items if ilan_id(i["url"])} | skipped_ids
-    known_keys = {title_key(i["title"]) for i in items}
+    known_keys = {}  # başlık anahtarı -> o başlıkla kayıtlı yayın tarihleri
+    for i in items:
+        known_keys.setdefault(title_key(i["title"]), []).append(i["published"])
     errors, ok_lists = [], 0
 
     cands = []  # (id, url, kategori)
@@ -228,16 +230,18 @@ def main():
         if pub < now - timedelta(days=60) and not dl:
             skipped += 1
             continue
-        if re.search(r"vak[iıİ]f(?!kebir)|özel okul|bilgi üniversitesi|kültür üniversitesi|bahçeşehir|sabancı|koç üniversitesi|özyeğin|medipol|atılım|başkent üniversitesi|bilkent|ostim|kadir has|yeditepe|maltepe üniversitesi|işık üniversitesi|okan üniversitesi|istinye|acıbadem|biruni|nişantaşı|altınbaş|haliç|üsküdar üniversitesi|fenerbahçe üniversitesi|hasan kalyoncu|çankaya üniversitesi|tobb|ufuk üniversitesi|lokman hekim|bezmialem", title, re.I):
+        if re.search(r"vak[iıİ]f(?!kebir)|özel okul|kocaeli sağlık ve teknoloji|bilgi üniversitesi|kültür üniversitesi|bahçeşehir|sabancı|koç üniversitesi|özyeğin|medipol|atılım|başkent üniversitesi|bilkent|ostim|kadir has|yeditepe|maltepe üniversitesi|işık üniversitesi|okan üniversitesi|istinye|acıbadem|biruni|nişantaşı|altınbaş|haliç|üsküdar üniversitesi|fenerbahçe üniversitesi|hasan kalyoncu|çankaya üniversitesi|tobb|ufuk üniversitesi|lokman hekim|bezmialem", title, re.I):
             skipped += 1
             continue
-        if title_key(title) in known_keys:
+        # Aynı başlık yalnızca yayın tarihi de yakınsa (3 gün) tekrar sayılır; kurumlar aynı başlıkla yeni ilan verir.
+        if any(abs((pub - datetime.strptime(p, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)).days) < 3
+               for p in known_keys.get(title_key(title), [])):
             skipped += 1
             continue
         items.append(build_item(title, url, pub, dl, CAT_HINT.get(kat),
                                 body_province(sayfa) if not detect_provinces(title) else None))
         skipped_ids.discard(iid)
-        known_keys.add(title_key(title))
+        known_keys.setdefault(title_key(title), []).append(iso(pub))
         added += 1
         time.sleep(0.6)
 

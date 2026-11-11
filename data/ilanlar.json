@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-11T19:15:24Z",
- "count": 284,
+ "count": 282,
  "provinces": [
   {
    "plaka": "01",
@@ -766,23 +766,6 @@
    "summary": "Kırıkkale Üniversitesi akademik kadrolara alım yapacak (başlıkta öğretim üyesi, metinde öğretim görevlisi; birim ve sayı tabloda). Başvurular pdbilan.kku.edu.tr üzerinden çevrim içi, son başvuru 23 Kasım 2026 saat 18.00. Ayrıntılar başvuru kılavuzunda.",
    "provinces": [
     "71"
-   ],
-   "category": "Eğitim"
-  },
-  {
-   "id": "17e28678c2e0",
-   "title": "Kocaeli Sağlık ve Teknoloji Üniversitesi öğretim üyesi alım ilanı",
-   "url": "https://ilan.memurlar.net/ilan/86929/kocaeli-saglik-ve-teknoloji-universitesi-ogretim-uyesi-alim-ilani.html",
-   "source": "Memurlar.net",
-   "sources": [
-    "Memurlar.net"
-   ],
-   "published": "2026-11-08T21:28:00Z",
-   "deadline": "2026-11-23",
-   "first_seen": "2026-11-10T17:58:50Z",
-   "summary": "Kocaeli Sağlık ve Teknoloji Üniversitesi 4857 sayılı Kanun'a tabi tam zamanlı öğretim üyesi alacak; birim ve sayı görselde. Başvurular Başiskele'deki üniversite adresine şahsen yapılıyor, son başvuru 23 Kasım 2026. Eksik belgeli başvurular kabul edilmiyor.",
-   "provinces": [
-    "41"
    ],
    "category": "Eğitim"
   },
@@ -3525,23 +3508,6 @@
    "category": "İşçi"
   },
   {
-   "id": "b888bb431f38",
-   "title": "Kocaeli Sağlık ve Teknoloji Üniversitesi öğretim üyesi ve öğretim elemanı alım ilanı",
-   "url": "https://ilan.memurlar.net/ilan/86722/kocaeli-saglik-ve-teknoloji-universitesi-ogretim-uyesi-alim-ilani.html",
-   "source": "Memurlar.net",
-   "sources": [
-    "Memurlar.net"
-   ],
-   "published": "2026-10-15T22:15:00Z",
-   "deadline": "2026-10-30",
-   "first_seen": "2026-11-10T17:58:50Z",
-   "summary": "Kocaeli Sağlık ve Teknoloji Üniversitesi Rektörlüğü, Resmi Gazete'de yayımlanan ilanla profesör, doçent, doktor öğretim üyesi ve öğretim elemanı alacaktır; kadro sayıları sayfada görsel olarak verilmiştir. Başvuru son günü 30 Ekim 2026'dır; başvurular Yeniköy Merkez Mah. Ilıca Cad. Bizim Sok. No:29 Başiskele/Kocaeli adresine yapılır (öğretim elemanı kadrolarında posta ile de başvuru mümkündür). Öğretim elemanı için ALES ve en az 50 puan yabancı dil belgesi aranır.",
-   "provinces": [
-    "41"
-   ],
-   "category": "Eğitim"
-  },
-  {
    "id": "a1e5fee04cc2",
    "title": "Bursa Uludağ Üniversitesi öğretim üyesi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/86719/bursa-uludag-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
@@ -5112,26 +5078,5 @@
    "category": "Eğitim"
   }
  ],
- "atlanan_idler": [
-  "29967",
-  "41859",
-  "41860",
-  "41862",
-  "41863",
-  "42149",
-  "45764",
-  "46095",
-  "46209",
-  "46813",
-  "48143",
-  "50532",
-  "54707",
-  "54862",
-  "55225",
-  "55469",
-  "63464",
-  "65311",
-  "66164",
-  "86896"
- ]
+ "atlanan_idler": []
 }
