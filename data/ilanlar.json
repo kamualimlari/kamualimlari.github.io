@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T10:48:43Z",
- "count": 285,
+ "updated": "2026-11-11T11:44:43Z",
+ "count": 286,
  "provinces": [
   {
    "plaka": "01",
@@ -649,6 +649,23 @@
    "summary": "Sayıştay 16 sözleşmeli personel alacak. İlan Memurlar.net'te 10.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 25.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
    "provinces": [],
    "category": "Memur / KPSS"
+  },
+  {
+   "id": "e73949ba23fb",
+   "title": "İstanbul Bilgi Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/86944/istanbul-bilgi-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-09T21:05:00Z",
+   "deadline": "2026-11-24",
+   "first_seen": "2026-11-11T11:44:43Z",
+   "summary": "İstanbul Bilgi Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 10.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 24.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "34"
+   ],
+   "category": "Eğitim"
   },
   {
    "id": "763238eb3a97",
