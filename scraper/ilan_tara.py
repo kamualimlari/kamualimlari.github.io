@@ -228,7 +228,7 @@ def main():
         if pub < now - timedelta(days=60) and not dl:
             skipped += 1
             continue
-        if re.search(r"vak[iıİ]f|özel okul", title, re.I):
+        if re.search(r"vak[iıİ]f(?!kebir)|özel okul|bilgi üniversitesi|kültür üniversitesi|bahçeşehir|sabancı|koç üniversitesi|özyeğin|medipol|atılım|başkent üniversitesi|bilkent|ostim|kadir has|yeditepe|maltepe üniversitesi|işık üniversitesi|okan üniversitesi|istinye|acıbadem|biruni|nişantaşı|altınbaş|haliç|üsküdar üniversitesi|fenerbahçe üniversitesi|hasan kalyoncu|çankaya üniversitesi|tobb|ufuk üniversitesi|lokman hekim|bezmialem", title, re.I):
             skipped += 1
             continue
         if title_key(title) in known_keys:
