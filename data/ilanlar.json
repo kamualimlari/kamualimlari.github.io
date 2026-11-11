@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T20:12:40Z",
- "count": 284,
+ "updated": "2026-11-11T21:47:23Z",
+ "count": 285,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,21 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "e779ee054aed",
+   "title": "Savunma Sanayii Başkanlığı 26 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/86963/savunma-sanayii-baskanligi-26-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-11T21:10:00Z",
+   "deadline": "2026-12-21",
+   "first_seen": "2026-11-11T21:47:24Z",
+   "summary": "Savunma Sanayii Başkanlığı 26 sözleşmeli personel alacak. İlan Memurlar.net'te 12.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 21.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Memur / KPSS"
+  },
   {
    "id": "6c9133305058",
    "title": "Şırnak Üniversitesi Öğretim Üyesi Alım İlanı",
@@ -5131,6 +5146,8 @@
   "66164",
   "86896",
   "86958",
-  "86959"
+  "86959",
+  "86961",
+  "86962"
  ]
 }
