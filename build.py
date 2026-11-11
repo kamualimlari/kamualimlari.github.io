@@ -21,9 +21,9 @@ head = ('<!doctype html>\n<html lang="tr">\n<meta charset="utf-8">\n'
         '<meta property="og:locale" content="tr_TR">\n')
 sw = ('<script>if("serviceWorker" in navigator&&location.protocol!=="file:")'
       'addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));</script>\n')
-page = page.replace("<title>Kamu Alımları</title>", "<title>Kamu Alımları: İl İl Kamu ve Belediye Personel Alımı İş İlanları</title>")
+page = page.replace("<title>Kamu Alımları</title>", "<title>Kamu Alımları: Memur, İşçi, Belediye Personel Alımı ve Kamu İş İlanları 2026</title>")
 page = page.replace('<meta name="description" content="Haber sitelerinden derlenen kamu ve belediye personel alımı haberleri. İl seçip o ilin alımlarını gör.">',
-                    '<meta name="description" content="81 ilde güncel kamu, belediye, memur, işçi, zabıta ve öğretmen personel alımı ilanları. İlini seç, yayın ve son başvuru tarihlerini gör.">')
+                    '<meta name="description" content="81 ilde güncel kamu iş ilanları: belediye personel alımı, memur alımı, işçi alımı, zabıta, KPSS ve sağlık personeli ilanları. İlini seç, son başvuru tarihini gör.">')
 import sys
 sys.path.insert(0, str(root / "scraper"))
 from scrape import PROVINCES, fold

@@ -95,18 +95,18 @@ def main():
     yil = bugun.year
     for plaka, ad, s in girisler:
         sec = [i for i in items if plaka in i["provinces"]]
-        baslik = f"{ad} Kamu Personel Alımı ve Belediye İş İlanları {yil}"
-        ac = f"{ad} ilindeki güncel kamu, belediye, işçi, memur ve zabıta personel alım ilanları; yayın ve son başvuru tarihleriyle. Şu an {len(sec)} açık ilan."
+        baslik = f"{ad} İş İlanları {yil}: Belediye, Memur, İşçi ve Kamu Personel Alımı"
+        ac = f"{ad} iş ilanları {yil}: güncel belediye personel alımı, memur alımı, işçi alımı, zabıta, KPSS ve kamu iş ilanları. Son başvuru tarihleriyle {len(sec)} açık ilan."
         yol = f"il/{s}/"
         (out / s).mkdir(parents=True, exist_ok=True)
-        (out / s / "index.html").write_text(sayfa(baslik, f"{ad} personel alımı ve iş ilanları", ac, yol, sec, bugun, nav, plaka), "utf-8")
+        (out / s / "index.html").write_text(sayfa(baslik, f"{ad} iş ilanları ve kamu personel alımı {yil}", ac, yol, sec, bugun, nav, plaka), "utf-8")
         urls.append((f"{BASE}/{yol}", sec[0]["published"][:10] if sec else data["updated"][:10]))
     sec = [i for i in items if not i["provinces"]]
     yol = "il/bakanliklar-kurumlar/"
     (out / "bakanliklar-kurumlar").mkdir(parents=True, exist_ok=True)
     (out / "bakanliklar-kurumlar" / "index.html").write_text(sayfa(
-        f"Bakanlık ve Kurum Personel Alımı İlanları {yil}", "Bakanlıklar ve kurumların personel alımı ilanları",
-        f"Bakanlık, kurum ve kuruluşların ülke geneli sözleşmeli personel, memur ve işçi alım ilanları. Şu an {len(sec)} açık ilan.",
+        f"Bakanlık ve Kurum Personel Alımı {yil}: KPSS, Sözleşmeli Personel ve Memur İlanları", f"Bakanlık ve kurum personel alımı {yil}",
+        f"{yil} bakanlık ve kurum personel alımı: ülke geneli sözleşmeli personel, memur alımı, KPSS ve işçi alım ilanları. Şu an {len(sec)} açık ilan.",
         yol, sec, bugun, nav, "genel"), "utf-8")
     urls.append((f"{BASE}/{yol}", sec[0]["published"][:10] if sec else data["updated"][:10]))
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
