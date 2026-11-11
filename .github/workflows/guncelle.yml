@@ -33,8 +33,11 @@ jobs:
         run: |
           git config user.name "haber-botu"
           git config user.email "bot@users.noreply.github.com"
-          git add data/ilanlar.json il ilan sitemap.xml robots.txt
+          git add data/ilanlar.json il ilan zabita-alimi itfaiye-eri-alimi isci-alimi memur-alimi belediye-personel-alimi sozlesmeli-personel-alimi akademik-personel-alimi saglik-personeli-alimi guvenlik-gorevlisi-alimi son-gun-ilanlar sitemap.xml robots.txt
           if git diff --cached --quiet; then echo "Değişiklik yok"; exit 0; fi
           git commit -m "Veriyi güncelle"
           git pull --rebase -X theirs origin main || true
           git push
+      - name: Yeni ilanları arama motorlarına bildir (IndexNow)
+        if: always()
+        run: python3 indexnow.py 150 || true

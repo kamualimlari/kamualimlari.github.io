@@ -130,6 +130,33 @@ def sayfa(baslik, h1, aciklama, yol, items, bugun, nav, plaka):
 """
 
 
+# Ülke geneli konu sayfaları: (adres, başlık kalıbı, h1, eşleşme)
+def _k(it):
+    return fold(it["title"])
+
+
+KONULAR = [
+    ("zabita-alimi", "Zabıta Alımı {yil}: Belediye Zabıta Memuru Alım İlanları", "Zabıta memuru alımı ilanları",
+     "zabıta memuru alımı", lambda i: "zabita" in _k(i)),
+    ("itfaiye-eri-alimi", "İtfaiye Eri Alımı {yil}: Belediye İtfaiye Personeli İlanları", "İtfaiye eri alımı ilanları",
+     "itfaiye eri alımı", lambda i: "itfaiye" in _k(i)),
+    ("isci-alimi", "İşçi Alımı {yil}: Kamu ve Belediye İşçi Alım İlanları (İŞKUR)", "Kamu işçi alımı ilanları",
+     "kamu ve belediye işçi alımı", lambda i: i["category"] == "İşçi" or "isci" in _k(i)),
+    ("memur-alimi", "Memur Alımı {yil}: KPSS'li ve KPSS'siz Memur Alım İlanları", "Memur alımı ilanları",
+     "memur alımı", lambda i: i["category"] == "Memur / KPSS" or "memur" in _k(i)),
+    ("belediye-personel-alimi", "Belediye Personel Alımı {yil}: Güncel Belediye İş İlanları", "Belediye personel alımı ilanları",
+     "belediye personel alımı", lambda i: i["category"] == "Belediye" or "belediye" in _k(i) or "buyuksehir" in _k(i)),
+    ("sozlesmeli-personel-alimi", "Sözleşmeli Personel Alımı {yil}: 4/B ve Kurum İlanları", "Sözleşmeli personel alımı ilanları",
+     "sözleşmeli personel alımı", lambda i: "sozlesmeli" in _k(i) or "4/b" in _k(i)),
+    ("akademik-personel-alimi", "Akademik Personel Alımı {yil}: Öğretim Üyesi ve Öğretim Elemanı İlanları", "Üniversite akademik personel alımı ilanları",
+     "devlet üniversitelerinin öğretim üyesi ve öğretim elemanı alımı", lambda i: i["category"] == "Eğitim"),
+    ("saglik-personeli-alimi", "Sağlık Personeli Alımı {yil}: Hemşire, Ebe ve Sağlık Teknikeri İlanları", "Sağlık personeli alımı ilanları",
+     "sağlık personeli alımı", lambda i: i["category"] == "Sağlık" or "hemsire" in _k(i) or "saglik" in _k(i)),
+    ("guvenlik-gorevlisi-alimi", "Güvenlik Görevlisi ve Koruma Alımı {yil}: Kamu İlanları", "Güvenlik görevlisi alımı ilanları",
+     "kamu güvenlik görevlisi, bekçi ve koruma alımı", lambda i: i["category"] == "Güvenlik" and "zabita" not in _k(i) and "itfaiye" not in _k(i)),
+]
+
+
 def main():
     data = json.loads((ROOT / "data" / "ilanlar.json").read_text("utf-8"))
     bugun = datetime.now(TR).date()
@@ -139,7 +166,8 @@ def main():
     if out.exists():
         shutil.rmtree(out)
     girisler = [(p[0], p[1], slug(p[1])) for p in PROVINCES]
-    nav = "".join(f'<a href="{BASE}/il/{s}/">{esc(ad)}</a>' for _, ad, s in girisler) + f'<a href="{BASE}/il/bakanliklar-kurumlar/">Bakanlıklar / Kurumlar</a>'
+    nav = ("".join(f'<a href="{BASE}/{k[0]}/">{esc(k[2])}</a>' for k in KONULAR) + f'<a href="{BASE}/son-gun-ilanlar/">Son günü yaklaşan ilanlar</a>'
+           + "".join(f'<a href="{BASE}/il/{s}/">{esc(ad)}</a>' for _, ad, s in girisler) + f'<a href="{BASE}/il/bakanliklar-kurumlar/">Bakanlıklar / Kurumlar</a>')
     urls = [(f"{BASE}/", data["updated"][:10])]
     yil = bugun.year
     for plaka, ad, s in girisler:
@@ -158,6 +186,27 @@ def main():
         f"{yil} bakanlık ve kurum personel alımı: ülke geneli sözleşmeli personel, memur alımı, KPSS ve işçi alım ilanları. Şu an {len(sec)} açık ilan.",
         yol, sec, bugun, nav, "genel"), "utf-8")
     urls.append((f"{BASE}/{yol}", sec[0]["published"][:10] if sec else data["updated"][:10]))
+    # konu sayfaları (ülke geneli)
+    ay_yil = f"{AY[bugun.month - 1]} {yil}"
+    for adres, bas, h1, soz, f in KONULAR:
+        sec = [i for i in items if f(i)]
+        ac = f"{ay_yil} güncel {soz} ilanları, 81 il. Yayın ve son başvuru tarihleriyle {len(sec)} açık ilan; sayfa gün içinde sürekli güncellenir."
+        d = ROOT / adres
+        if d.exists():
+            shutil.rmtree(d)
+        d.mkdir()
+        (d / "index.html").write_text(sayfa(bas.format(yil=yil), f"{h1} ({ay_yil})", ac, f"{adres}/", sec, bugun, nav, ""), "utf-8")
+        urls.append((f"{BASE}/{adres}/", sec[0]["published"][:10] if sec else data["updated"][:10]))
+    lim = (bugun + timedelta(days=3)).isoformat()
+    sec = sorted([i for i in items if i.get("deadline") and i["deadline"] <= lim], key=lambda i: i["deadline"])
+    d = ROOT / "son-gun-ilanlar"
+    if d.exists():
+        shutil.rmtree(d)
+    d.mkdir()
+    (d / "index.html").write_text(sayfa(f"Başvurusu Bitmek Üzere Olan Kamu İlanları ({ay_yil})", "Son günü yaklaşan kamu personel alımı ilanları",
+                                         f"Son başvuru tarihi 3 gün içinde dolacak kamu, belediye, memur ve işçi alım ilanları. Şu an {len(sec)} ilan.",
+                                         "son-gun-ilanlar/", sec, bugun, nav, ""), "utf-8")
+    urls.append((f"{BASE}/son-gun-ilanlar/", bugun.isoformat()))
     # tek ilan sayfaları (süresi dolanlar dahil; site haritasına yalnızca açık olanlar girer)
     iout = ROOT / "ilan"
     if iout.exists():

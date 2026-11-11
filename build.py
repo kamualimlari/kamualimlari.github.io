@@ -28,6 +28,7 @@ import sys
 sys.path.insert(0, str(root / "scraper"))
 from scrape import PROVINCES, fold
 nav = ('<nav style="max-width:892px;margin:0 auto;padding:8px 16px 40px;display:flex;flex-wrap:wrap;gap:6px 14px;font-size:14px" aria-label="İller">'
+       + "".join(f'<a href="{a}/">{t}</a>' for a, t in [("zabita-alimi", "Zabıta alımı"), ("itfaiye-eri-alimi", "İtfaiye eri alımı"), ("isci-alimi", "İşçi alımı"), ("memur-alimi", "Memur alımı"), ("belediye-personel-alimi", "Belediye personel alımı"), ("sozlesmeli-personel-alimi", "Sözleşmeli personel alımı"), ("akademik-personel-alimi", "Akademik personel alımı"), ("saglik-personeli-alimi", "Sağlık personeli alımı"), ("guvenlik-gorevlisi-alimi", "Güvenlik görevlisi alımı"), ("son-gun-ilanlar", "Son günü yaklaşan ilanlar")])
        + "".join(f'<a href="il/{fold(p[1]).replace(" ", "-")}/">{p[1]} iş ilanları</a>' for p in PROVINCES)
        + '<a href="il/bakanliklar-kurumlar/">Bakanlıklar / Kurumlar</a></nav>\n')
 (root / "index.html").write_text(head + page + "\n" + nav + sw + "</html>\n", "utf-8")
