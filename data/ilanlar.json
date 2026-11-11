@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T23:48:21Z",
- "count": 260,
+ "updated": "2026-11-11T00:05:49Z",
+ "count": 261,
  "provinces": [
   {
    "plaka": "01",
@@ -4494,6 +4494,24 @@
    "summary": "Jandarma Genel Komutanlığı'nın 2027 uzman erbaş alımı için resmî kılavuz henüz yayımlanmadı; yaklaşık 7 bin kişilik kontenjan iddiası resmen doğrulanmış değil. Başvurunun geçmiş yıllardaki gibi Personel Temin Sistemi üzerinden e-Devlet girişiyle alınması bekleniyor. Şartlar yeni kılavuzla netleşecek.",
    "provinces": [],
    "category": "Güvenlik"
+  },
+  {
+   "id": "4bf058237e74",
+   "title": "Bolu Gerede Belediyesi 1 sözleşmeli mühendis alacak",
+   "url": "https://www.gerede.bel.tr/duyuru/1/66/sozlesmeli-personel-alimi-ilani-2026",
+   "source": "Gerede Belediyesi",
+   "sources": [
+    "Gerede Belediyesi",
+    "Memurlar.Net"
+   ],
+   "published": "2026-09-14T22:11:00Z",
+   "deadline": "2026-10-22",
+   "first_seen": "2026-11-11T00:05:49Z",
+   "summary": "Gerede Belediye Başkanlığı ilk defa atanmak üzere 1 sözleşmeli mühendis (İnşaat Mühendisi, TH, derece 8) alacak. Adayların İnşaat Mühendisliği lisans mezunu olması, en az B sınıfı sürücü belgesine sahip olması ve 2026 KPSS (B) P3 puan türünden en az 75 puan alması gerekiyor. Başvurular insankaynaklari@gerede.bel.tr adresine veya İnsan Kaynakları ve Eğitim Müdürlüğü'ne yapılıyor. Sözlü sınav 19 Kasım 2026'da Gerede Belediyesi Hizmet Binası'nda yapılacak.",
+   "provinces": [
+    "14"
+   ],
+   "category": "Memur / KPSS"
   },
   {
    "id": "b5933f70f987",
