@@ -21,5 +21,14 @@ head = ('<!doctype html>\n<html lang="tr">\n<meta charset="utf-8">\n'
         '<meta property="og:locale" content="tr_TR">\n')
 sw = ('<script>if("serviceWorker" in navigator&&location.protocol!=="file:")'
       'addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));</script>\n')
-(root / "index.html").write_text(head + page + "\n" + sw + "</html>\n", "utf-8")
+page = page.replace("<title>Kamu Alımları</title>", "<title>Kamu Alımları: İl İl Kamu ve Belediye Personel Alımı İş İlanları</title>")
+page = page.replace('<meta name="description" content="Haber sitelerinden derlenen kamu ve belediye personel alımı haberleri. İl seçip o ilin alımlarını gör.">',
+                    '<meta name="description" content="81 ilde güncel kamu, belediye, memur, işçi, zabıta ve öğretmen personel alımı ilanları. İlini seç, yayın ve son başvuru tarihlerini gör.">')
+import sys
+sys.path.insert(0, str(root / "scraper"))
+from scrape import PROVINCES, fold
+nav = ('<nav style="max-width:892px;margin:0 auto;padding:8px 16px 40px;display:flex;flex-wrap:wrap;gap:6px 14px;font-size:14px" aria-label="İller">'
+       + "".join(f'<a href="il/{fold(p[1]).replace(" ", "-")}/">{p[1]} iş ilanları</a>' for p in PROVINCES)
+       + '<a href="il/bakanliklar-kurumlar/">Bakanlıklar / Kurumlar</a></nav>\n')
+(root / "index.html").write_text(head + page + "\n" + nav + sw + "</html>\n", "utf-8")
 print("index.html yazıldı")

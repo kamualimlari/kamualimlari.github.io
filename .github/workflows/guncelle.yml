@@ -27,11 +27,13 @@ jobs:
           python3 -I scraper/test_ilan_tara.py
       - name: İlanları tara ve doğrula
         run: python3 scraper/ilan_tara.py --en-fazla 40
+      - name: Arama motoru sayfalarını üret
+        run: python3 seo_uret.py
       - name: Değişiklik varsa kaydet
         run: |
           git config user.name "haber-botu"
           git config user.email "bot@users.noreply.github.com"
-          git add data/ilanlar.json
+          git add data/ilanlar.json il sitemap.xml robots.txt
           if git diff --cached --quiet; then echo "Değişiklik yok"; exit 0; fi
           git commit -m "Veriyi güncelle"
           git pull --rebase -X theirs origin main || true
