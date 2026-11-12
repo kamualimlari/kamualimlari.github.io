@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T20:26:41Z",
- "count": 285,
+ "updated": "2026-11-12T21:25:19Z",
+ "count": 287,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,40 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "b9c5105493f4",
+   "title": "Hazine ve Maliye Bakanlığı 10 Stajyer Hazine Kontrolörü Alacak",
+   "url": "https://ilan.memurlar.net/ilan/86965/hazine-ve-maliye-bakanligi-10-stajyer-hazine-kontroloru-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-12T21:17:00Z",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-12T21:25:19Z",
+   "summary": "Hazine ve Maliye Bakanlığı 10 Stajyer Hazine Kontrolörü Alacak. İlan Memurlar.net'te 13.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "31d8de9ee674",
+   "title": "Bursa Teknik Üniversitesi 1 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/86964/bursa-teknik-universitesi-1-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-12T21:07:00Z",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-12T21:25:20Z",
+   "summary": "Bursa Teknik Üniversitesi 1 sözleşmeli personel alacak. İlan Memurlar.net'te 13.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "16"
+   ],
+   "category": "Eğitim"
+  },
   {
    "id": "e779ee054aed",
    "title": "Savunma Sanayii Başkanlığı 26 sözleşmeli personel alacak",
