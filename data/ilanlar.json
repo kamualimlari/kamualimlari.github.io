@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T21:25:19Z",
- "count": 287,
+ "updated": "2026-11-12T22:23:00Z",
+ "count": 291,
  "provinces": [
   {
    "plaka": "01",
@@ -334,6 +334,55 @@
  "hatalar": [],
  "items": [
   {
+   "id": "c12c2850501b",
+   "title": "Karamanoğlu Mehmetbey Üniversitesi Öğretim Üyesi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/86972/karamanoglu-mehmetbey-universitesi-ogretim-uyesi-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-12T22:17:00Z",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-12T22:23:01Z",
+   "summary": "Karamanoğlu Mehmetbey Üniversitesi Öğretim Üyesi Alacak. İlan Memurlar.net'te 13.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Eğitim"
+  },
+  {
+   "id": "04731d75bf4e",
+   "title": "Çankırı Karatekin Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/86970/cankiri-karatekin-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-12T21:53:00Z",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-12T22:23:02Z",
+   "summary": "Çankırı Karatekin Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 13.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "18"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "42f5331d5b83",
+   "title": "Yükseköğretim Kalite Kurulu Başkanlığı 5 Uzman Yardımcısı Alacak",
+   "url": "https://ilan.memurlar.net/ilan/86967/yuksekogretim-kalite-kurulu-baskanligi-5-uzman-yardimcisi-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-12T21:37:00Z",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-12T22:23:04Z",
+   "summary": "Yükseköğretim Kalite Kurulu Başkanlığı 5 Uzman Yardımcısı Alacak. İlan Memurlar.net'te 13.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06"
+   ],
+   "category": "Belediye"
+  },
+  {
    "id": "b9c5105493f4",
    "title": "Hazine ve Maliye Bakanlığı 10 Stajyer Hazine Kontrolörü Alacak",
    "url": "https://ilan.memurlar.net/ilan/86965/hazine-ve-maliye-bakanligi-10-stajyer-hazine-kontroloru-alacak.html",
@@ -366,6 +415,21 @@
     "16"
    ],
    "category": "Eğitim"
+  },
+  {
+   "id": "8e7cf7dd0cd4",
+   "title": "Sahil Güvenlik Komutanlığı 10 Memur Alacak",
+   "url": "https://ilan.memurlar.net/ilan/86969/sahil-guvenlik-komutanligi-10-memur-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-12T21:03:00Z",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-12T22:23:03Z",
+   "summary": "Sahil Güvenlik Komutanlığı 10 Memur Alacak. İlan Memurlar.net'te 13.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Güvenlik"
   },
   {
    "id": "e779ee054aed",
@@ -5182,6 +5246,8 @@
   "86958",
   "86959",
   "86961",
-  "86962"
+  "86962",
+  "86968",
+  "86971"
  ]
 }
