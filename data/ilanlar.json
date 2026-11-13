@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T21:24:47Z",
- "count": 291,
+ "updated": "2026-11-13T22:21:48Z",
+ "count": 293,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,38 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "36510ee6b5a0",
+   "title": "Akdeniz Üniversitesi 3 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/86974/akdeniz-universitesi-3-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-13T21:22:00Z",
+   "deadline": "2026-11-20",
+   "first_seen": "2026-11-13T22:21:50Z",
+   "summary": "Akdeniz Üniversitesi 3 İşçi Alacak. İlan Memurlar.net'te 14.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "07"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "f8949f650abd",
+   "title": "Dicle Kalkınma Ajansı 4 uzman personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/86975/dicle-kalkinma-ajansi-4-uzman-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-13T21:12:00Z",
+   "deadline": "2026-12-18",
+   "first_seen": "2026-11-13T22:21:49Z",
+   "summary": "Dicle Kalkınma Ajansı 4 uzman personel alacak. İlan Memurlar.net'te 14.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 18.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Belediye"
+  },
   {
    "id": "c12c2850501b",
    "title": "Karamanoğlu Mehmetbey Üniversitesi Öğretim Üyesi Alacak",
@@ -5249,6 +5281,7 @@
   "86962",
   "86966",
   "86968",
-  "86971"
+  "86971",
+  "86976"
  ]
 }
