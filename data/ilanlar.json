@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:26:31Z",
- "count": 313,
+ "updated": "2026-11-15T22:15:09Z",
+ "count": 317,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,70 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "9125798795b5",
+   "title": "Erzurum Teknik Üniversitesi Öğretim Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87002/erzurum-teknik-universitesi-ogretim-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-15T22:15:00Z",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-15T22:15:09Z",
+   "summary": "Erzurum Teknik Üniversitesi Öğretim Elemanı Alım İlanı. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "25"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "023c0231dd78",
+   "title": "Atatürk Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87000/ataturk-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-15T21:55:00Z",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-15T22:15:10Z",
+   "summary": "Atatürk Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Eğitim"
+  },
+  {
+   "id": "b5fc09118f82",
+   "title": "Anadolu Üniversitesi 1 Sözleşmeli Personel Alacak",
+   "url": "https://ilan.memurlar.net/ilan/86999/anadolu-universitesi-1-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-15T21:45:00Z",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-15T22:15:11Z",
+   "summary": "Anadolu Üniversitesi 1 Sözleşmeli Personel Alacak. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Eğitim"
+  },
+  {
+   "id": "cb834034b75b",
+   "title": "AFAD 20 uzman yardımcısı alacak",
+   "url": "https://ilan.memurlar.net/ilan/86998/afad-20-uzman-yardimcisi-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-15T21:35:00Z",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-15T22:15:12Z",
+   "summary": "AFAD 20 uzman yardımcısı alacak. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06"
+   ],
+   "category": "Belediye"
+  },
   {
    "id": "06c90d335ef7",
    "title": "Mersin Yenişehir İşletmecilik 1 İşçi Alacak",
@@ -5625,6 +5689,7 @@
   "86968",
   "86971",
   "86976",
-  "86985"
+  "86985",
+  "87001"
  ]
 }
