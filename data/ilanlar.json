@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T22:43:01Z",
- "count": 334,
+ "updated": "2026-11-17T23:39:30Z",
+ "count": 336,
  "provinces": [
   {
    "plaka": "01",
@@ -334,6 +334,23 @@
  "hatalar": [],
  "items": [
   {
+   "id": "ed4134b38d18",
+   "title": "Burdur Mehmet Akif Ersoy Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87021/burdur-mehmet-akif-ersoy-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T22:46:00Z",
+   "deadline": "2026-12-02",
+   "first_seen": "2026-11-17T23:39:31Z",
+   "summary": "Burdur Mehmet Akif Ersoy Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 02.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "15"
+   ],
+   "category": "Eğitim"
+  },
+  {
    "id": "2abf377b3c6d",
    "title": "Bilecik Şeyh Edebali Üniversitesi Öğretim Üyesi Alım İlanı",
    "url": "https://ilan.memurlar.net/ilan/87020/bilecik-seyh-edebali-universitesi-ogretim-uyesi-alim-ilani.html",
@@ -366,6 +383,23 @@
     "69"
    ],
    "category": "Eğitim"
+  },
+  {
+   "id": "5e2443c36750",
+   "title": "Bolu Mudurnu Belediyesi 1 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/87022/bolu-mudurnu-belediyesi-1-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T22:10:00Z",
+   "deadline": "2026-12-25",
+   "first_seen": "2026-11-17T23:39:30Z",
+   "summary": "Bolu Mudurnu Belediyesi 1 sözleşmeli personel alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 25.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "14"
+   ],
+   "category": "Belediye"
   },
   {
    "id": "2d6d1cb2864e",
