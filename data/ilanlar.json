@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T20:42:07Z",
- "count": 321,
+ "updated": "2026-11-17T21:41:03Z",
+ "count": 332,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,193 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "2d6d1cb2864e",
+   "title": "Tekirdağ Su ve Kanalizasyon İdaresi 16 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87018/tekirdag-su-ve-kanalizasyon-idaresi-16-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:39:00Z",
+   "deadline": "2026-11-20",
+   "first_seen": "2026-11-17T21:41:04Z",
+   "summary": "Tekirdağ Su ve Kanalizasyon İdaresi 16 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "59"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "70ac01fad779",
+   "title": "Manisa Sarbel 4 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87017/manisa-sarbel-4-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:36:00Z",
+   "deadline": "2026-11-20",
+   "first_seen": "2026-11-17T21:41:04Z",
+   "summary": "Manisa Sarbel 4 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "45"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "90e44b66a727",
+   "title": "Erzincan Mollaköy Personel Temizlik 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87016/erzincan-mollakoy-personel-temizlik-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:33:00Z",
+   "deadline": "2026-11-20",
+   "first_seen": "2026-11-17T21:41:05Z",
+   "summary": "Erzincan Mollaköy Personel Temizlik 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "24"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "a0bca0900ef1",
+   "title": "Çanakkale Küçükkuyu Kent Hizmetleri Geçici 3 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87015/canakkale-kucukkuyu-kent-hizmetleri-gecici-3-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:30:00Z",
+   "deadline": "2026-11-20",
+   "first_seen": "2026-11-17T21:41:06Z",
+   "summary": "Çanakkale Küçükkuyu Kent Hizmetleri Geçici 3 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "17"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "3ea2a963ddda",
+   "title": "Kocaeli Belde Özel Sağlık Hizmetleri 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87014/kocaeli-belde-ozel-saglik-hizmetleri-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:27:00Z",
+   "deadline": "2026-11-18",
+   "first_seen": "2026-11-17T21:41:07Z",
+   "summary": "Kocaeli Belde Özel Sağlık Hizmetleri 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 18.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "41"
+   ],
+   "category": "Sağlık"
+  },
+  {
+   "id": "49c64a1da887",
+   "title": "Kırklareli Çakıllı Belediyesi 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87013/kirklareli-cakilli-belediyesi-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:24:00Z",
+   "deadline": "2026-11-20",
+   "first_seen": "2026-11-17T21:41:08Z",
+   "summary": "Kırklareli Çakıllı Belediyesi 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "39"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "1f09927d54a5",
+   "title": "Kahramanmaraş Kazanbel 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87012/kahramanmaras-kazanbel-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:21:00Z",
+   "deadline": "2026-11-20",
+   "first_seen": "2026-11-17T21:41:09Z",
+   "summary": "Kahramanmaraş Kazanbel 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "46"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "52fa48d5f9fc",
+   "title": "İzmir İzenerji Geçici 15 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87011/izmir-izenerji-gecici-15-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:18:00Z",
+   "deadline": "2026-11-22",
+   "first_seen": "2026-11-17T21:41:10Z",
+   "summary": "İzmir İzenerji Geçici 15 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 22.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "35"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "9a8b1fb5531e",
+   "title": "Eskişehir Espark 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87010/eskisehir-espark-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:16:00Z",
+   "deadline": "2026-11-20",
+   "first_seen": "2026-11-17T21:41:11Z",
+   "summary": "Eskişehir Espark 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "26"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "8ac56df68df8",
+   "title": "Diyarbakır Eğil Belediyesi 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87009/diyarbakir-egil-belediyesi-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:13:00Z",
+   "deadline": "2026-11-19",
+   "first_seen": "2026-11-17T21:41:12Z",
+   "summary": "Diyarbakır Eğil Belediyesi 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 19.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "21"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "ddbd1e061e5a",
+   "title": "Burdur Mehmet Akif Ersoy Öğretmenevi Geçici 2 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87008/burdur-mehmet-akif-ersoy-ogretmenevi-gecici-2-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-17T21:10:00Z",
+   "deadline": "2026-11-22",
+   "first_seen": "2026-11-17T21:41:13Z",
+   "summary": "Burdur Mehmet Akif Ersoy Öğretmenevi Geçici 2 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 22.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "15"
+   ],
+   "category": "Eğitim"
+  },
   {
    "id": "57a9c0b2148e",
    "title": "Süleyman Demirel Üniversitesi Öğretim Üyesi Alım İlanı",
