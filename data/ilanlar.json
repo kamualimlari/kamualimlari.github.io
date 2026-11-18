@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T20:43:26Z",
- "count": 336,
+ "updated": "2026-11-18T21:42:14Z",
+ "count": 339,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,57 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "1073ae1c698d",
+   "title": "SGK, 50 Müfettiş Yardımcısı Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87026/sgk-50-mufettis-yardimcisi-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-18T21:35:00Z",
+   "deadline": "2026-12-18",
+   "first_seen": "2026-11-18T21:42:16Z",
+   "summary": "SGK, 50 Müfettiş Yardımcısı Alacak. İlan Memurlar.net'te 19.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 18.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "76f6e825905d",
+   "title": "Bilecik Şeyh Edebali Üniversitesi Öğretim Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87024/bilecik-seyh-edebali-universitesi-ogretim-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-18T21:15:00Z",
+   "deadline": "2026-12-03",
+   "first_seen": "2026-11-18T21:42:17Z",
+   "summary": "Bilecik Şeyh Edebali Üniversitesi Öğretim Elemanı Alım İlanı. İlan Memurlar.net'te 19.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 03.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "11"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "00555a14ed75",
+   "title": "İçişleri Bakanlığı 60 Kaymakam Adayı Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87027/icisleri-bakanligi-60-kaymakam-adayi-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-18T21:05:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-18T21:42:15Z",
+   "summary": "İçişleri Bakanlığı 60 Kaymakam Adayı Alacak. İlan Memurlar.net'te 19.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06"
+   ],
+   "category": "Belediye"
+  },
   {
    "id": "ed4134b38d18",
    "title": "Burdur Mehmet Akif Ersoy Üniversitesi Öğretim Üyesi Alım İlanı",
@@ -6011,6 +6062,7 @@
   "86976",
   "86985",
   "87001",
-  "87007"
+  "87007",
+  "87025"
  ]
 }
