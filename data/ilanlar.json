@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:06:35Z",
- "count": 371,
+ "updated": "2026-11-19T22:29:37Z",
+ "count": 377,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,121 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "5ce8269bdd8f",
+   "title": "Necmettin Erbakan Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87035/necmettin-erbakan-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-19T22:15:00Z",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-19T22:29:38Z",
+   "summary": "Necmettin Erbakan Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "42"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "6de57177c205",
+   "title": "Adli Tıp Kurumu Başkanlığı 181 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/87034/adli-tip-kurumu-baskanligi-181-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-19T22:08:00Z",
+   "deadline": "2026-12-06",
+   "first_seen": "2026-11-19T22:29:39Z",
+   "summary": "Adli Tıp Kurumu Başkanlığı 181 sözleşmeli personel alacak. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 06.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Memur / KPSS"
+  },
+  {
+   "id": "251e08c1e5e3",
+   "title": "Mardin Artuklu Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87033/mardin-artuklu-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-19T21:58:00Z",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-19T22:29:40Z",
+   "summary": "Mardin Artuklu Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "47"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "a4123e36c283",
+   "title": "Abdullah Gül Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87032/abdullah-gul-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-19T21:48:00Z",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-19T22:29:41Z",
+   "summary": "Abdullah Gül Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Eğitim"
+  },
+  {
+   "id": "ba2a7fd28ad3",
+   "title": "Bartın Üniversitesi 1 Sözleşmeli Personel Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87031/bartin-universitesi-1-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-19T21:38:00Z",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-19T22:29:42Z",
+   "summary": "Bartın Üniversitesi 1 Sözleşmeli Personel Alacak. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "74"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "1d91578404db",
+   "title": "Bartın Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87038/bartin-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-19T21:30:00Z",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-19T22:29:37Z",
+   "summary": "Bartın Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "74"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "0cf6e24dd802",
+   "title": "Balıkesir Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87030/balikesir-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-19T21:28:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-19T22:29:42Z",
+   "summary": "Balıkesir Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "10"
+   ],
+   "category": "Eğitim"
+  },
   {
    "id": "b8f1dbb703e2",
    "title": "İstanbul Üniversitesi-Cerrahpaşa Öğretim Üyesi ve Elemanı Alım İlanı",
@@ -4277,7 +4392,7 @@
    "url": "https://www.kamuilantakvimi.com/ilanlar/roketsan-itfaiye-eri-alimi-basvuru-sartlari",
    "source": "Kamu İlan Takvimi",
    "sources": [
-    "https://www.kamuilantakvimi.com/ilanlar/roketsan-itfaiye-eri-alimi-basvuru-sartlari"
+    "Kamu İlan Takvimi"
    ],
    "published": "2026-10-20T21:00:00Z",
    "deadline": "2026-12-31",
@@ -4579,7 +4694,7 @@
   {
    "title": "Karabağlar Belediyesi 2 Çevre Mühendisi (sözleşmeli personel) alımı",
    "url": "https://www.isinolsa.com/pdf-ilan/karabaglar-belediyesi-2-cevre-muhendisi-sozlesmeli-personel-alimi/",
-   "source": "İşinOlsa",
+   "source": "İşin Olsa",
    "published": "2026-10-16T21:21:00Z",
    "deadline": "2026-12-04",
    "summary": "Karabağlar Belediyesi 2 sözleşmeli Çevre Mühendisi alacak. Başvurular 30 Kasım - 4 Aralık 2026 arasında yalnızca Kariyer Kapısı platformu üzerinden alınır. Şartlar: çevre mühendisliği lisans mezunu olmak, 2026 KPSS (B) P3 puan türünden en az 60 puan, en az B sınıfı sürücü belgesi. Sözlü sınav 16 Aralık 2026'da Karabağlar Belediyesi ana hizmet binasında yapılacaktır.",
@@ -4589,7 +4704,7 @@
    "category": "Belediye",
    "id": "dba2934b522e",
    "sources": [
-    "İşinOlsa"
+    "İşin Olsa"
    ],
    "first_seen": "2026-11-12T17:05:09Z"
   },
@@ -6553,23 +6668,6 @@
     "47"
    ],
    "category": "Eğitim"
-  },
-  {
-   "title": "Aksaray Eskil Belediyesi 14 Memur Alacak",
-   "url": "https://ilan.memurlar.net/ilan/85045/aksaray-eskil-belediyesi-14-memur-alacak.html",
-   "published": "2026-05-22T21:45:00Z",
-   "deadline": "2026-07-03",
-   "summary": "Eskil Belediyesi memur ve zabıta memuru kadrolarına 657 sayılı Kanun kapsamında toplam 14 personel alacak. Başvurular 1-3 Temmuz 2026 arasında elektronik ortamda, posta ile ya da şahsen yapılır; zabıta başvuruları şahsen alınır. 2024 KPSS (B) puanı aranır, zabıta için 30 yaş altı ve boy şartı vardır. Sözlü sınav 16 Temmuz 2026'da Eskil'de yapılır; unvan bazlı kadro dağılımı ilan görselindedir.",
-   "provinces": [
-    "68"
-   ],
-   "category": "Belediye",
-   "id": "55460d8bea4d",
-   "source": "Memurlar.net",
-   "sources": [
-    "Memurlar.net"
-   ],
-   "first_seen": "2026-11-13T01:43:07Z"
   }
  ],
  "atlanan_idler": [
@@ -6607,6 +6705,7 @@
   "87001",
   "87007",
   "87023",
-  "87025"
+  "87025",
+  "87036"
  ]
 }
