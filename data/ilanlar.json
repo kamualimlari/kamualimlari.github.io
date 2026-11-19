@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:44:20Z",
- "count": 341,
+ "updated": "2026-11-19T21:39:39Z",
+ "count": 342,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,23 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "b8f1dbb703e2",
+   "title": "İstanbul Üniversitesi-Cerrahpaşa Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87029/istanbul-universitesi-cerrahpasa-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-19T21:18:00Z",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-19T21:39:39Z",
+   "summary": "İstanbul Üniversitesi-Cerrahpaşa Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "34"
+   ],
+   "category": "Eğitim"
+  },
   {
    "id": "8c2af536af80",
    "title": "Samsun Anakent İmar 2 Greyder Operatörü (işçi) alımı",
