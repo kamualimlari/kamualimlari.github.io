@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:29:37Z",
- "count": 377,
+ "updated": "2026-11-19T23:21:46Z",
+ "count": 378,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,21 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "78eb76ef28ef",
+   "title": "Atatürk Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87037/ataturk-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-19T22:45:00Z",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-19T23:21:46Z",
+   "summary": "Atatürk Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Eğitim"
+  },
   {
    "id": "5ce8269bdd8f",
    "title": "Necmettin Erbakan Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
@@ -6706,6 +6721,7 @@
   "87007",
   "87023",
   "87025",
+  "87028",
   "87036"
  ]
 }
