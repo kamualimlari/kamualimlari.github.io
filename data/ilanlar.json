@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T21:29:54Z",
- "count": 378,
+ "updated": "2026-11-20T22:24:38Z",
+ "count": 393,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,260 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "512bab2137f4",
+   "title": "Yozgat Sorgun İş Geliştirme 2 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87053/yozgat-sorgun-is-gelistirme-2-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:51:00Z",
+   "deadline": "2026-11-23",
+   "first_seen": "2026-11-20T22:24:38Z",
+   "summary": "Yozgat Sorgun İş Geliştirme 2 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 23.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "66"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "c9a4a16214d1",
+   "title": "Tekirdağ Saraykent Turizm Geçici 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87052/tekirdag-saraykent-turizm-gecici-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:48:00Z",
+   "deadline": "2026-11-24",
+   "first_seen": "2026-11-20T22:24:39Z",
+   "summary": "Tekirdağ Saraykent Turizm Geçici 1 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 24.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "59",
+    "66"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "aea67c4ccde2",
+   "title": "Bursa Mustafa Kemal paşa Turizm 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87051/bursa-mustafa-kemal-pasa-turizm-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:45:00Z",
+   "deadline": "2026-11-23",
+   "first_seen": "2026-11-20T22:24:39Z",
+   "summary": "Bursa Mustafa Kemal paşa Turizm 1 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 23.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "16"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "ff2e00e0f8e5",
+   "title": "İzmir İzenerji Geçici 15 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87050/izmir-izenerji-gecici-15-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:45:00Z",
+   "deadline": "2026-11-22",
+   "first_seen": "2026-11-20T22:24:40Z",
+   "summary": "İzmir İzenerji Geçici 15 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 22.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "35"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "a15d3a23405d",
+   "title": "İstanbul Personel Yönetim Aş. 4 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87049/istanbul-personel-yonetim-as-4-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:42:00Z",
+   "deadline": "2026-11-22",
+   "first_seen": "2026-11-20T22:24:41Z",
+   "summary": "İstanbul Personel Yönetim Aş. 4 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 22.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "34"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "44880951e092",
+   "title": "Eskişehir Halk Ekmek 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87047/eskisehir-halk-ekmek-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:35:00Z",
+   "deadline": "2026-11-24",
+   "first_seen": "2026-11-20T22:24:43Z",
+   "summary": "Eskişehir Halk Ekmek 1 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 24.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "26"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "9cde4b67b20f",
+   "title": "Dşyarbakır Kocaköy Geçici 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87046/dsyarbakir-kocakoy-gecici-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:32:00Z",
+   "deadline": "2026-11-24",
+   "first_seen": "2026-11-20T22:24:44Z",
+   "summary": "Dşyarbakır Kocaköy Geçici 1 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 24.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "İşçi"
+  },
+  {
+   "id": "8b0dcdefad6c",
+   "title": "Zonguldak Çaycuma KöylereHizmet Götürme Birliği 4 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87045/zonguldak-caycuma-koylerehizmet-goturme-birligi-4-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:29:00Z",
+   "deadline": "2026-11-23",
+   "first_seen": "2026-11-20T22:24:45Z",
+   "summary": "Zonguldak Çaycuma KöylereHizmet Götürme Birliği 4 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 23.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "67"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "2f506e5aace6",
+   "title": "Erzurum Çat SYDV Geçici 4 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87044/erzurum-cat-sydv-gecici-4-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:26:00Z",
+   "deadline": "2026-11-24",
+   "first_seen": "2026-11-20T22:24:45Z",
+   "summary": "Erzurum Çat SYDV Geçici 4 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 24.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "25"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "d92b725a3ae9",
+   "title": "Burdur Çavdır Temizlik Geçici 5 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87043/burdur-cavdir-temizlik-gecici-5-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:23:00Z",
+   "deadline": "2026-11-24",
+   "first_seen": "2026-11-20T22:24:46Z",
+   "summary": "Burdur Çavdır Temizlik Geçici 5 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 24.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "15"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "1875df1fd796",
+   "title": "Bolu Boltur 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87042/bolu-boltur-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:20:00Z",
+   "deadline": "2026-11-23",
+   "first_seen": "2026-11-20T22:24:47Z",
+   "summary": "Bolu Boltur 1 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 23.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "14"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "6ecaeca7e8b5",
+   "title": "Edirne Meriç Turizm 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87041/edirne-meric-turizm-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:17:00Z",
+   "deadline": "2026-11-24",
+   "first_seen": "2026-11-20T22:24:48Z",
+   "summary": "Edirne Meriç Turizm 1 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 24.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "22"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "45a38537cbab",
+   "title": "Bayburt İl Özel İdaresi 9 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87040/bayburt-il-ozel-idaresi-9-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:14:00Z",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-20T22:24:48Z",
+   "summary": "Bayburt İl Özel İdaresi 9 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "69"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "adb95b046924",
+   "title": "Aydın Büyükşehir Belediyesi 9 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87039/aydin-buyuksehir-belediyesi-9-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:11:00Z",
+   "deadline": "2026-11-23",
+   "first_seen": "2026-11-20T22:24:49Z",
+   "summary": "Aydın Büyükşehir Belediyesi 9 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 23.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "09"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "8de37544015b",
+   "title": "İstanbul Medeniyet Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87048/istanbul-medeniyet-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-20T21:05:00Z",
+   "deadline": "2026-12-05",
+   "first_seen": "2026-11-20T22:24:42Z",
+   "summary": "İstanbul Medeniyet Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 05.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "34"
+   ],
+   "category": "Eğitim"
+  },
   {
    "id": "78eb76ef28ef",
    "title": "Atatürk Üniversitesi Öğretim Üyesi Alım İlanı",
