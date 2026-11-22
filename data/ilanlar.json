@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T22:22:11Z",
- "count": 398,
+ "updated": "2026-11-22T23:21:15Z",
+ "count": 402,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,73 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "f0b4f026d3b2",
+   "title": "Milli Savunma Bakanlığı Engelli ve TMSY Statüsünde Sürekli İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87066/milli-savunma-bakanligi-engelli-ve-tmsy-statusunde-surekli-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-22T23:05:00Z",
+   "deadline": "2026-12-16",
+   "first_seen": "2026-11-22T23:21:15Z",
+   "summary": "Milli Savunma Bakanlığı Engelli ve TMSY Statüsünde Sürekli İşçi Alacak. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 16.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "e12d502205ab",
+   "title": "Ankara Yıldırım Beyazıt Üniversitesi 1 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/87065/ankara-yildirim-beyazit-universitesi-1-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-22T23:00:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-22T23:21:16Z",
+   "summary": "Ankara Yıldırım Beyazıt Üniversitesi 1 sözleşmeli personel alacak. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06",
+    "16"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "2197c244839c",
+   "title": "Tarsus Üniversitesi Öğretim Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87064/tarsus-universitesi-ogretim-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-22T22:50:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-22T23:21:16Z",
+   "summary": "Tarsus Üniversitesi Öğretim Elemanı Alım İlanı. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "33"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "e81e7258855b",
+   "title": "Ondokuz Mayıs Üniversitesi 21 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87062/ondokuz-mayis-universitesi-21-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-22T22:30:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-22T23:21:17Z",
+   "summary": "Ondokuz Mayıs Üniversitesi 21 İşçi Alacak. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Eğitim"
+  },
   {
    "id": "27fb084f8965",
    "title": "Kütahya Dumlupınar Üniversitesi Öğretim Üyesi Alım İlanı",
@@ -7061,6 +7128,7 @@
   "87028",
   "87036",
   "87057",
-  "87059"
+  "87059",
+  "87063"
  ]
 }
