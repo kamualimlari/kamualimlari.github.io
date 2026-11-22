@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T21:31:17Z",
- "count": 393,
+ "updated": "2026-11-22T22:22:11Z",
+ "count": 398,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,89 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "27fb084f8965",
+   "title": "Kütahya Dumlupınar Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87061/kutahya-dumlupinar-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-22T22:20:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-22T22:22:12Z",
+   "summary": "Kütahya Dumlupınar Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "43"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "07e54f3d02e8",
+   "title": "Düzce Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87060/duzce-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-22T22:10:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-22T22:22:12Z",
+   "summary": "Düzce Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "81"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "77d5fd60ce30",
+   "title": "Yozgat Bozok Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87058/yozgat-bozok-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-22T21:50:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-22T22:22:14Z",
+   "summary": "Yozgat Bozok Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "66"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "268814d74acc",
+   "title": "Türk Akreditasyon Kurumu sözleşmeli 3 personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/87056/turk-akreditasyon-kurumu-sozlesmeli-3-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-22T21:30:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-22T22:22:15Z",
+   "summary": "Türk Akreditasyon Kurumu sözleşmeli 3 personel alacak. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06"
+   ],
+   "category": "Memur / KPSS"
+  },
+  {
+   "id": "844b85c7cc9b",
+   "title": "İçişleri Bakanlığı 1.170 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/87054/icisleri-bakanligi-1-170-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-22T21:10:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-22T22:22:16Z",
+   "summary": "İçişleri Bakanlığı 1.170 sözleşmeli personel alacak. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Memur / KPSS"
+  },
   {
    "id": "512bab2137f4",
    "title": "Yozgat Sorgun İş Geliştirme 2 İşçi Alacak",
@@ -6976,6 +7059,8 @@
   "87023",
   "87025",
   "87028",
-  "87036"
+  "87036",
+  "87057",
+  "87059"
  ]
 }
