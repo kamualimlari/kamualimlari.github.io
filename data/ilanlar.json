@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T20:28:19Z",
- "count": 403,
+ "updated": "2026-11-23T21:27:32Z",
+ "count": 404,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,23 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "2430a56df2f0",
+   "title": "Çanakkale Onsekiz Mart Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87067/canakkale-onsekiz-mart-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-23T21:12:00Z",
+   "deadline": "2026-12-08",
+   "first_seen": "2026-11-23T21:27:34Z",
+   "summary": "Çanakkale Onsekiz Mart Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 24.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 08.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "17"
+   ],
+   "category": "Eğitim"
+  },
   {
    "id": "f0b4f026d3b2",
    "title": "Milli Savunma Bakanlığı Engelli ve TMSY Statüsünde Sürekli İşçi Alacak",
@@ -7146,6 +7163,7 @@
   "87036",
   "87057",
   "87059",
-  "87063"
+  "87063",
+  "87068"
  ]
 }
