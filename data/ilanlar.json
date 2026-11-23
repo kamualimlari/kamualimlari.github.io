@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T21:27:32Z",
- "count": 404,
+ "updated": "2026-11-23T22:28:05Z",
+ "count": 405,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,21 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "1613c5ef76f8",
+   "title": "Marmara Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87069/marmara-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-23T21:33:00Z",
+   "deadline": "2026-12-08",
+   "first_seen": "2026-11-23T22:28:06Z",
+   "summary": "Marmara Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 24.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 08.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Eğitim"
+  },
   {
    "id": "2430a56df2f0",
    "title": "Çanakkale Onsekiz Mart Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
