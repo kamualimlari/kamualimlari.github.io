@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T01:56:23Z",
- "count": 402,
+ "updated": "2026-11-23T02:48:23Z",
+ "count": 403,
  "provinces": [
   {
    "plaka": "01",
@@ -467,6 +467,23 @@
     "06"
    ],
    "category": "Memur / KPSS"
+  },
+  {
+   "id": "3389b3ffaa3e",
+   "title": "Jandarma 9 bin uzman erbaş alacak: Başvurular 7 Aralık'ta bitiyor",
+   "url": "https://ilan.memurlar.net/ilan/87055/jandarma-9-bin-uzman-erbas-alacak-basvurular-7-aralik-ta-bitiyor.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-22T21:20:00Z",
+   "deadline": null,
+   "first_seen": "2026-11-23T02:48:23Z",
+   "summary": "Jandarma 9 bin uzman erbaş alacak: Başvurular 7 Aralık'ta bitiyor. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06"
+   ],
+   "category": "Güvenlik"
   },
   {
    "id": "844b85c7cc9b",
