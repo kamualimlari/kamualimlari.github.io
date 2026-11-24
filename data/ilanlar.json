@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T21:30:34Z",
- "count": 413,
+ "updated": "2026-11-24T22:32:57Z",
+ "count": 416,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,55 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "9082840ec2e4",
+   "title": "Rekabet Kurumu 55 uzman yardımcısı alacak",
+   "url": "https://ilan.memurlar.net/ilan/87081/rekabet-kurumu-55-uzman-yardimcisi-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-24T21:42:00Z",
+   "deadline": "2026-12-21",
+   "first_seen": "2026-11-24T22:32:57Z",
+   "summary": "Rekabet Kurumu 55 uzman yardımcısı alacak. İlan Memurlar.net'te 25.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 21.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "05d011eeedc8",
+   "title": "Kültür ve Turizm Bakanlığı 20 Uzman Yardımcısı Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87080/kultur-ve-turizm-bakanligi-20-uzman-yardimcisi-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-24T21:30:00Z",
+   "deadline": "2026-12-23",
+   "first_seen": "2026-11-24T22:32:58Z",
+   "summary": "Kültür ve Turizm Bakanlığı 20 Uzman Yardımcısı Alacak. İlan Memurlar.net'te 25.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 23.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Belediye"
+  },
+  {
+   "id": "767b11c549ae",
+   "title": "Manisa Celal Bayar Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87079/manisa-celal-bayar-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-24T21:22:00Z",
+   "deadline": "2026-12-09",
+   "first_seen": "2026-11-24T22:32:59Z",
+   "summary": "Manisa Celal Bayar Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 25.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 09.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "45"
+   ],
+   "category": "Eğitim"
+  },
   {
    "id": "1b6708c74d73",
    "title": "Tekirdağ Büyükşehir Belediyesi 2 İşçi Alacak",
