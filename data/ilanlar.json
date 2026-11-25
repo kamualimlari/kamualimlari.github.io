@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T20:30:25Z",
- "count": 416,
+ "updated": "2026-11-25T21:34:49Z",
+ "count": 417,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,21 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "81f92c0de4d4",
+   "title": "Türkiye Su Enstitüsü Başkanlığı 1 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/87086/turkiye-su-enstitusu-baskanligi-1-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T21:22:00Z",
+   "deadline": "2026-12-29",
+   "first_seen": "2026-11-25T21:34:50Z",
+   "summary": "Türkiye Su Enstitüsü Başkanlığı 1 sözleşmeli personel alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 29.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Memur / KPSS"
+  },
   {
    "id": "9082840ec2e4",
    "title": "Rekabet Kurumu 55 uzman yardımcısı alacak",
