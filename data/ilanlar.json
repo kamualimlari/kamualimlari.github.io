@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T21:34:49Z",
- "count": 417,
+ "updated": "2026-11-25T22:30:02Z",
+ "count": 420,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,55 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "58738d7aa729",
+   "title": "Boğaziçi Üniversitesi Öğretim Üyesi Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87084/bogazici-universitesi-ogretim-uyesi-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T21:55:00Z",
+   "deadline": "2026-12-10",
+   "first_seen": "2026-11-25T22:30:02Z",
+   "summary": "Boğaziçi Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 10.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [],
+   "category": "Eğitim"
+  },
+  {
+   "id": "a5c78e63f3fd",
+   "title": "Afyonkarahisar Sağlık Bilimleri Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87083/afyonkarahisar-saglik-bilimleri-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T21:44:00Z",
+   "deadline": "2026-12-10",
+   "first_seen": "2026-11-25T22:30:03Z",
+   "summary": "Afyonkarahisar Sağlık Bilimleri Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 10.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "03"
+   ],
+   "category": "Sağlık"
+  },
+  {
+   "id": "0e9f2df036b5",
+   "title": "Kahramanmaraş Sütçü İmam Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87082/kahramanmaras-sutcu-imam-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T21:33:00Z",
+   "deadline": "2026-12-10",
+   "first_seen": "2026-11-25T22:30:05Z",
+   "summary": "Kahramanmaraş Sütçü İmam Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 10.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "46"
+   ],
+   "category": "Eğitim"
+  },
   {
    "id": "81f92c0de4d4",
    "title": "Türkiye Su Enstitüsü Başkanlığı 1 sözleşmeli personel alacak",
@@ -7380,6 +7429,7 @@
   "87059",
   "87063",
   "87068",
-  "87078"
+  "87078",
+  "87085"
  ]
 }
