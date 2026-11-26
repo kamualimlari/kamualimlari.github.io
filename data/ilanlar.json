@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T23:26:52Z",
- "count": 420,
+ "updated": "2026-11-26T00:27:32Z",
+ "count": 428,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,142 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "71f7c5bd6d0c",
+   "title": "Erzincan Çayırlı Belediyesi 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87096/erzincan-cayirli-belediyesi-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T23:25:00Z",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-26T00:27:32Z",
+   "summary": "Erzincan Çayırlı Belediyesi 1 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "24"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "a09e59b9119d",
+   "title": "Mersin Su ve Kanalizasyon İdaresi 14 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87095/mersin-su-ve-kanalizasyon-idaresi-14-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T23:22:00Z",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-26T00:27:33Z",
+   "summary": "Mersin Su ve Kanalizasyon İdaresi 14 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "33"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "d8744b6c2d8d",
+   "title": "Mersin Büyükşehir Belediyesi 2 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87094/mersin-buyuksehir-belediyesi-2-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T23:10:00Z",
+   "deadline": "2026-11-28",
+   "first_seen": "2026-11-26T00:27:34Z",
+   "summary": "Mersin Büyükşehir Belediyesi 2 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 28.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "33"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "16121b6019e5",
+   "title": "İstanbul Personel Yönetim Aş. 5 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87093/istanbul-personel-yonetim-as-5-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T23:00:00Z",
+   "deadline": "2026-11-29",
+   "first_seen": "2026-11-26T00:27:35Z",
+   "summary": "İstanbul Personel Yönetim Aş. 5 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 29.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "34"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "b42bfc131c75",
+   "title": "Balıkesir Gömeç Belediyesi 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87092/balikesir-gomec-belediyesi-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T22:57:00Z",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-26T00:27:36Z",
+   "summary": "Balıkesir Gömeç Belediyesi 1 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "10"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "9ece3d4a6669",
+   "title": "Antalya Ebton İnşaat 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87091/antalya-ebton-insaat-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T22:54:00Z",
+   "deadline": "2026-11-28",
+   "first_seen": "2026-11-26T00:27:36Z",
+   "summary": "Antalya Ebton İnşaat 1 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 28.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "07"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "8b3a2460d630",
+   "title": "Çanakkale Biga Kent Hizmetleri Geçici 3 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87090/canakkale-biga-kent-hizmetleri-gecici-3-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T22:51:00Z",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-26T00:27:37Z",
+   "summary": "Çanakkale Biga Kent Hizmetleri Geçici 3 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "17"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "e975dc5d2b7a",
+   "title": "İstanbul Beylikdüzü Belediyesi 10 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87089/istanbul-beylikduzu-belediyesi-10-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T22:48:00Z",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-26T00:27:38Z",
+   "summary": "İstanbul Beylikdüzü Belediyesi 10 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "34"
+   ],
+   "category": "Belediye"
+  },
   {
    "id": "58738d7aa729",
    "title": "Boğaziçi Üniversitesi Öğretim Üyesi Alım İlanı",
