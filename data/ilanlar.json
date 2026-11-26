@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T00:27:32Z",
- "count": 428,
+ "updated": "2026-11-26T01:56:59Z",
+ "count": 430,
  "provinces": [
   {
    "plaka": "01",
@@ -466,6 +466,40 @@
    "summary": "İstanbul Beylikdüzü Belediyesi 10 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
    "provinces": [
     "34"
+   ],
+   "category": "Belediye"
+  },
+  {
+   "id": "3dd010df8c16",
+   "title": "İzmir Bağkent Geçici 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87088/izmir-bagkent-gecici-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T22:45:00Z",
+   "deadline": "2026-11-28",
+   "first_seen": "2026-11-26T01:57:00Z",
+   "summary": "İzmir Bağkent Geçici 1 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 28.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "35"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "0072ef863510",
+   "title": "Aydın Yenipazar Belediyesi 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87087/aydin-yenipazar-belediyesi-1-isci-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-25T22:42:00Z",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-26T01:57:00Z",
+   "summary": "Aydın Yenipazar Belediyesi 1 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "09"
    ],
    "category": "Belediye"
   },
