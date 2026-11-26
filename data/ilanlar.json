@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T12:58:02Z",
- "count": 444,
+ "updated": "2026-11-26T13:08:47Z",
+ "count": 446,
  "provinces": [
   {
    "plaka": "01",
@@ -334,6 +334,40 @@
  "hatalar": [],
  "items": [
   {
+   "id": "70e4e864fcac",
+   "title": "BİNTED A.Ş. (Bursa Büyükşehir Belediyesi şirketi) 40 itfaiye destek personeli alacak",
+   "url": "https://bursaisofisi.bursa.bel.tr/Home/ilangoruntule?pOId=11530",
+   "source": "Bursa İş Ofisi (Bursa Büyükşehir Belediyesi)",
+   "sources": [
+    "Bursa İş Ofisi (Bursa Büyükşehir Belediyesi)"
+   ],
+   "published": "2026-11-26T06:00:00Z",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-26T13:08:47Z",
+   "summary": "BİNTED A.Ş. 40 itfaiye destek personeli (itfaiye aracı şoförü) alacak; ilan Bursa Büyükşehir Belediyesi'nin Bursa İş Ofisi portalında yayımlandı. Şartlar arasında 18-40 yaş, en az lise mezuniyeti, en az 2 yıldır Bursa'da ikamet, C/CE/C1/C1E ehliyet, psikoteknik raporu ile SRC 2 ve SRC 4 belgeleri ve vardiyalı çalışabilmek var. Başvurular Bursa İş Ofisi sitesi üzerinden online yapılıyor; ilan metninde son başvuru 30.11.2026 saat 23:59 olarak yazıyor.",
+   "provinces": [
+    "16"
+   ],
+   "category": "Güvenlik"
+  },
+  {
+   "id": "26380ac9485f",
+   "title": "Safranbolu Belediyesi şirketi Saf Bel A.Ş. otopark görevlisi alacak",
+   "url": "https://www.safranbolu.bel.tr/duyurular/saf-bel-kultur-turizm-ticaret-anonim-sirketi-personel-alim-ilani",
+   "source": "Safranbolu Belediyesi",
+   "sources": [
+    "Safranbolu Belediyesi"
+   ],
+   "published": "2026-11-26T06:00:00Z",
+   "deadline": "2026-11-28",
+   "first_seen": "2026-11-26T13:08:47Z",
+   "summary": "Safranbolu Belediyesi şirketi Saf Bel Kültür Turizm Ticaret A.Ş., otopark görevlisi pozisyonunda personel alımı yapacak. Başvurular 26.11.2026-28.11.2026 tarihleri arasında, son gün saat 17:30'a kadar alınıyor. Kadro sayısı, şartlar ve başvuru yeri duyurudaki PDF ekinde yer alıyor.",
+   "provinces": [
+    "78"
+   ],
+   "category": "İşçi"
+  },
+  {
    "id": "71f7c5bd6d0c",
    "title": "Erzincan Çayırlı Belediyesi 1 İşçi Alacak",
    "url": "https://ilan.memurlar.net/ilan/87096/erzincan-cayirli-belediyesi-1-isci-alacak.html",
@@ -351,8 +385,8 @@
    "category": "Belediye"
   },
   {
-   "id": "a09e59b9119d",
-   "title": "Mersin Su ve Kanalizasyon İdaresi 14 İşçi Alacak",
+   "id": "a8750967f691",
+   "title": "MESKİ 14 silahlı güvenlik görevlisi alacak",
    "url": "https://ilan.memurlar.net/ilan/87095/mersin-su-ve-kanalizasyon-idaresi-14-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
@@ -361,12 +395,12 @@
    ],
    "published": "2026-11-25T23:22:00Z",
    "deadline": "2026-11-30",
-   "first_seen": "2026-11-26T00:27:33Z",
-   "summary": "Mersin Su ve Kanalizasyon İdaresi 14 İşçi Alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Mersin Su ve Kanalizasyon İdaresi (MESKİ) personel şirketi daimi statüde 14 silahlı güvenlik görevlisi alacak (6'sı Mersin merkez ilçeleri, 8'i Tarsus; kaynak İŞKUR). Başvurular 26-30 Kasım 2026 arasında yalnızca meskipersonelas.com.tr üzerinden çevrim içi yapılacak, elden başvuru kabul edilmiyor. En az lise mezuniyeti ve geçerli silahlı özel güvenlik kimlik kartı gerekiyor, KPSS şartı yok.",
    "provinces": [
     "33"
    ],
-   "category": "İşçi"
+   "category": "Güvenlik"
   },
   {
    "id": "d8744b6c2d8d",
@@ -505,8 +539,8 @@
    "category": "Belediye"
   },
   {
-   "id": "58738d7aa729",
-   "title": "Boğaziçi Üniversitesi Öğretim Üyesi Alım İlanı",
+   "id": "7d17fcc3dcb5",
+   "title": "Boğaziçi Üniversitesi öğretim görevlisi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87084/bogazici-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -514,14 +548,16 @@
    ],
    "published": "2026-11-25T21:55:00Z",
    "deadline": "2026-12-10",
-   "first_seen": "2026-11-25T22:30:02Z",
-   "summary": "Boğaziçi Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 10.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Boğaziçi Üniversitesi öğretim görevlisi alacak (sayfa başlığında öğretim üyesi yazıyor); kadro sayısı, başvuru yeri ve şartlar taranmış ilan görsellerinde, sayfa metninde yazmıyor. Son başvuru tarihi 10 Aralık 2026. İlan 2547 sayılı Kanun ve 657 sayılı Kanun'un 48. maddesine dayanıyor.",
+   "provinces": [
+    "34"
+   ],
    "category": "Eğitim"
   },
   {
-   "id": "a5c78e63f3fd",
-   "title": "Afyonkarahisar Sağlık Bilimleri Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "f81af2bde20f",
+   "title": "Afyonkarahisar Sağlık Bilimleri Üniversitesi öğretim üyesi ve öğretim elemanı alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87083/afyonkarahisar-saglik-bilimleri-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -529,16 +565,16 @@
    ],
    "published": "2026-11-25T21:44:00Z",
    "deadline": "2026-12-10",
-   "first_seen": "2026-11-25T22:30:03Z",
-   "summary": "Afyonkarahisar Sağlık Bilimleri Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 10.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Afyonkarahisar Sağlık Bilimleri Üniversitesi akademik kadrolar için alım yapacak; kadro sayısı ve unvanlar ilan görsellerinde, sayfa metninde yazmıyor. Başvurular 26 Kasım - 10 Aralık 2026 arasında Rektörlük Personel Daire Başkanlığı'na (Zafer Sağlık Külliyesi) şahsen ya da posta ile yapılacak. ALES en az 70 puan aranıyor; sınav 24 Aralık 2026.",
    "provinces": [
     "03"
    ],
-   "category": "Sağlık"
+   "category": "Eğitim"
   },
   {
-   "id": "0e9f2df036b5",
-   "title": "Kahramanmaraş Sütçü İmam Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "686382cabe00",
+   "title": "Kahramanmaraş Sütçü İmam Üniversitesi öğretim üyesi ve öğretim görevlisi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87082/kahramanmaras-sutcu-imam-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -546,16 +582,16 @@
    ],
    "published": "2026-11-25T21:33:00Z",
    "deadline": "2026-12-10",
-   "first_seen": "2026-11-25T22:30:05Z",
-   "summary": "Kahramanmaraş Sütçü İmam Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 10.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Kahramanmaraş Sütçü İmam Üniversitesi öğretim görevlisi ve öğretim üyesi alacak; birimlere göre kadro sayıları sayfa metninde yazmıyor. Son başvuru 10 Aralık 2026; başvurular yalnızca basvuru.ksu.edu.tr üzerinden çevrim içi yapılıyor. Öğretim görevlisi için ALES en az 70, yabancı dil en az 50 puan ve tezli yüksek lisans aranıyor.",
    "provinces": [
     "46"
    ],
    "category": "Eğitim"
   },
   {
-   "id": "81f92c0de4d4",
-   "title": "Türkiye Su Enstitüsü Başkanlığı 1 sözleşmeli personel alacak",
+   "id": "be0370675e04",
+   "title": "Türkiye Su Enstitüsü 1 sözleşmeli bilgisayar mühendisi alacak",
    "url": "https://ilan.memurlar.net/ilan/87086/turkiye-su-enstitusu-baskanligi-1-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
@@ -563,9 +599,11 @@
    ],
    "published": "2026-11-25T21:22:00Z",
    "deadline": "2026-12-29",
-   "first_seen": "2026-11-25T21:34:50Z",
-   "summary": "Türkiye Su Enstitüsü Başkanlığı 1 sözleşmeli personel alacak. İlan Memurlar.net'te 26.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 29.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Tarım ve Orman Bakanlığı Türkiye Su Enstitüsü Başkanlığı 1 sözleşmeli bilgisayar mühendisi alacak. Son başvuru 29 Aralık 2026; başvurular yalnızca e-Devlet ya da kariyerkapisi.gov.tr üzerinden yapılıyor. Bilgisayar mühendisliği lisansı, KPSS P3'ten en az 70 ve İngilizceden en az 60 puan gerekiyor; yazılı ve sözlü sınav İstanbul'da.",
+   "provinces": [
+    "34"
+   ],
    "category": "Memur / KPSS"
   },
   {
@@ -603,9 +641,9 @@
    "category": "İşçi"
   },
   {
-   "id": "9082840ec2e4",
-   "title": "Rekabet Kurumu 55 uzman yardımcısı alacak",
-   "url": "https://ilan.memurlar.net/ilan/87081/rekabet-kurumu-55-uzman-yardimcisi-alacak.html",
+   "id": "45452c4496df",
+   "title": "Rekabet Kurumu 55 rekabet uzman yardımcısı alacak",
+   "url": "https://ilan.memurlar.net/ilan/87081/rekabet-kurumu-55-uzman-yardimcisi-alacak-basvuru-7-aralik-ta.html",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net",
@@ -613,16 +651,16 @@
    ],
    "published": "2026-11-24T21:42:00Z",
    "deadline": "2026-12-21",
-   "first_seen": "2026-11-24T22:32:57Z",
-   "summary": "Rekabet Kurumu 55 uzman yardımcısı alacak. İlan Memurlar.net'te 25.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 21.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Rekabet Kurumu genel (15), iktisat (15), hukuk (15) ve bilişim (10) alanlarında toplam 55 rekabet uzman yardımcısı alacak. Başvurular 7-21 Aralık 2026 arasında e-Devlet ya da kariyerkapisi.gov.tr üzerinden yapılacak. İlgili lisans, 2025 ya da 2026 KPSS'den en az 80 puan ve 1 Ocak 2027 itibarıyla 35 yaşından küçük olmak gerekiyor; yazılı sınav 23 Ocak 2027'de Ankara'da.",
    "provinces": [
     "06"
    ],
-   "category": "Belediye"
+   "category": "Memur / KPSS"
   },
   {
-   "id": "05d011eeedc8",
-   "title": "Kültür ve Turizm Bakanlığı 20 Uzman Yardımcısı Alacak",
+   "id": "2162d4b4912d",
+   "title": "Kültür ve Turizm Bakanlığı 20 uzman yardımcısı alacak",
    "url": "https://ilan.memurlar.net/ilan/87080/kultur-ve-turizm-bakanligi-20-uzman-yardimcisi-alacak.html",
    "source": "Memurlar.net",
    "sources": [
@@ -630,14 +668,14 @@
    ],
    "published": "2026-11-24T21:30:00Z",
    "deadline": "2026-12-23",
-   "first_seen": "2026-11-24T22:32:58Z",
-   "summary": "Kültür ve Turizm Bakanlığı 20 Uzman Yardımcısı Alacak. İlan Memurlar.net'te 25.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 23.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Kültür ve Turizm Bakanlığı mimarlık, şehir planlama, makine ve çevre mühendisliği, iktisat-işletme, kamu yönetimi, uluslararası ilişkiler ve sanat tarihi alanlarında 20 kültür ve turizm uzman yardımcısı alacak. Başvurular 9-23 Aralık 2026 arasında e-Devlet ya da Kariyer Kapısı üzerinden yapılacak. 35 yaşını doldurmamış olmak ve ilgili 2025 ya da 2026 KPSS puan türünden en az 80 almak gerekiyor; sınav Ankara'da sözlü.",
    "provinces": [],
-   "category": "Belediye"
+   "category": "Memur / KPSS"
   },
   {
-   "id": "767b11c549ae",
-   "title": "Manisa Celal Bayar Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "e5b43bcbe80f",
+   "title": "Manisa Celal Bayar Üniversitesi öğretim üyesi ve öğretim elemanı alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87079/manisa-celal-bayar-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -646,8 +684,8 @@
    ],
    "published": "2026-11-24T21:22:00Z",
    "deadline": "2026-12-09",
-   "first_seen": "2026-11-24T22:32:59Z",
-   "summary": "Manisa Celal Bayar Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 25.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 09.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Manisa Celal Bayar Üniversitesi profesör, doçent, doktor öğretim üyesi, öğretim görevlisi ve araştırma görevlisi alacak; Kamu İlan Takvimi toplam 22 kadro olarak veriyor, memurlar.net sayfasında sayı yazmıyor. Elektronik başvuru 25 Kasım - 9 Aralık 2026, dosya teslimi 16 Aralık 2026 mesai bitimine kadar; öğretim üyeleri aed-basvuru.mcbu.edu.tr'ye belge yüklüyor, öğretim ve araştırma görevlileri birime şahsen ya da posta ile başvuruyor. ALES en az 70 ve yabancı dil en az 50 puan aranıyor; giriş sınavı 22 Aralık 2026.",
    "provinces": [
     "45"
    ],
@@ -773,8 +811,8 @@
    "category": "İşçi"
   },
   {
-   "id": "a59fc8cda5f8",
-   "title": "Afyonkarahisar Bolgiysan 10 İşçi Alacak",
+   "id": "0e7921524b8e",
+   "title": "Afyonkarahisar Bolgiysan 10 beden işçisi alacak",
    "url": "https://ilan.memurlar.net/ilan/87070/afyonkarahisar-bolgiysan-10-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
@@ -783,16 +821,16 @@
    ],
    "published": "2026-11-23T23:36:00Z",
    "deadline": "2026-11-27",
-   "first_seen": "2026-11-24T00:26:01Z",
-   "summary": "Afyonkarahisar Bolgiysan 10 İşçi Alacak. İlan Memurlar.net'te 24.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Bolvadin Belediyesi iştiraki Bolgiysan Yatırım A.Ş. daimi ve belirsiz süreli 10 beden işçisi (genel) alacak (kaynak İŞKUR). Başvurular 22-27 Kasım 2026 arasında Bolvadin Belediye Hizmet Binası 2. katta şahsen yapılacak; Bolvadin'de ikamet ediyor olmak ve emekli olmamak gerekiyor, KPSS şartı yok. Mülakat 28 Kasım 2026.",
    "provinces": [
     "03"
    ],
    "category": "İşçi"
   },
   {
-   "id": "1613c5ef76f8",
-   "title": "Marmara Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "8914c8f56a1d",
+   "title": "Marmara Üniversitesi öğretim görevlisi ve araştırma görevlisi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87069/marmara-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -800,14 +838,16 @@
    ],
    "published": "2026-11-23T21:33:00Z",
    "deadline": "2026-12-08",
-   "first_seen": "2026-11-23T22:28:06Z",
-   "summary": "Marmara Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 24.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 08.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Marmara Üniversitesi araştırma görevlisi ve öğretim görevlisi alacak; kadro sayısı sayfada yazmıyor. Başvurular 24 Kasım - 8 Aralık 2026 arasında yalnızca basvuru.marmara.edu.tr/personel üzerinden yapılacak. Özel şart yoksa ALES en az 70 puan aranıyor; ön değerlendirme 15 Aralık, sözlü sınav 22 Aralık 2026.",
+   "provinces": [
+    "34"
+   ],
    "category": "Eğitim"
   },
   {
-   "id": "2430a56df2f0",
-   "title": "Çanakkale Onsekiz Mart Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "cb06bb15f217",
+   "title": "Çanakkale Onsekiz Mart Üniversitesi öğretim üyesi ve öğretim elemanı alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87067/canakkale-onsekiz-mart-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -815,8 +855,8 @@
    ],
    "published": "2026-11-23T21:12:00Z",
    "deadline": "2026-12-08",
-   "first_seen": "2026-11-23T21:27:34Z",
-   "summary": "Çanakkale Onsekiz Mart Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 24.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 08.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Çanakkale Onsekiz Mart Üniversitesi profesör, doçent, doktor öğretim üyesi, öğretim görevlisi ve araştırma görevlisi alacak; kadro sayısı sayfada yazmıyor. Başvurular Resmî Gazete'de yayımdan itibaren 15 gün içinde yalnızca ilan.comu.edu.tr üzerinden yapılıyor; sayfada son tarih 8 Aralık 2026. Öğretim görevlisi ve araştırma görevlisi için ALES en az 70 ve yabancı dil en az 50 puan aranıyor.",
    "provinces": [
     "17"
    ],
@@ -840,43 +880,42 @@
    "category": "İşçi"
   },
   {
-   "id": "e12d502205ab",
-   "title": "Ankara Yıldırım Beyazıt Üniversitesi 1 sözleşmeli personel alacak",
+   "id": "def7600edd7a",
+   "title": "Ankara Yıldırım Beyazıt Üniversitesi 1 sözleşmeli bilişim personeli alacak",
    "url": "https://ilan.memurlar.net/ilan/87065/ankara-yildirim-beyazit-universitesi-1-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-22T23:00:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-22T23:21:16Z",
-   "summary": "Ankara Yıldırım Beyazıt Üniversitesi 1 sözleşmeli personel alacak. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "deadline": "2026-12-07",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Ankara Yıldırım Beyazıt Üniversitesi Bilgi İşlem Daire Başkanlığı için 1 sözleşmeli sistem uzmanı alacak. Başvurular 23 Kasım 2026 (09.00) - 7 Aralık 2026 (13.00) arasında e-Devlet/Kariyer Kapısı üzerinden yapılacak. İlgili mühendislik lisansı, en az 5 yıl deneyim ve sistem yönetimi bilgisi aranıyor; sıralama KPSS P3 (%70) ve YDS (%30) ile yapılıyor.",
    "provinces": [
-    "06",
-    "16"
+    "06"
    ],
-   "category": "Eğitim"
+   "category": "Memur / KPSS"
   },
   {
-   "id": "2197c244839c",
-   "title": "Tarsus Üniversitesi Öğretim Elemanı Alım İlanı",
+   "id": "0d9a44f6c3d9",
+   "title": "Tarsus Üniversitesi öğretim görevlisi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87064/tarsus-universitesi-ogretim-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-22T22:50:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-22T23:21:16Z",
-   "summary": "Tarsus Üniversitesi Öğretim Elemanı Alım İlanı. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "deadline": "2026-12-07",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Tarsus Üniversitesi ilanda belirtilen birimlerine öğretim görevlisi alacak; birimler ve kadro sayısı sayfa metninde yazmıyor. Son başvuru 7 Aralık 2026; başvurular şahsen ya da posta ile yapılıyor, tek kadroya başvurulabiliyor. ALES ve yabancı dil belgesi ile 2547 ve 657 sayılı kanunlardaki şartlar aranıyor.",
    "provinces": [
     "33"
    ],
    "category": "Eğitim"
   },
   {
-   "id": "e81e7258855b",
-   "title": "Ondokuz Mayıs Üniversitesi 21 İşçi Alacak",
+   "id": "b69a41d7cb65",
+   "title": "Ondokuz Mayıs Üniversitesi 21 sürekli işçi alacak",
    "url": "https://ilan.memurlar.net/ilan/87062/ondokuz-mayis-universitesi-21-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
@@ -884,78 +923,80 @@
    ],
    "published": "2026-11-22T22:30:00Z",
    "deadline": null,
-   "first_seen": "2026-11-22T23:21:17Z",
-   "summary": "Ondokuz Mayıs Üniversitesi 21 İşçi Alacak. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
-   "category": "Eğitim"
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Ondokuz Mayıs Üniversitesi temizlik görevlisi, kaynakçı, oto bakım onarımcısı, elektrikçi, tarım işçisi, park bahçe ve mutfak görevlisi unvanlarında 21 sürekli işçi alacak. Başvurular İŞKUR'da yayımdan itibaren 5 gün içinde esube.iskur.gov.tr üzerinden yapılacak; kesin son başvuru tarihi sayfada açıkça yazmıyor (başlıkta 7 Aralık 2026 geçiyor). Samsun'da ikamet, ortaöğretim mezuniyeti, 18-35 yaş aralığı aranıyor; seçim noter kurası ve sözlü/uygulamalı sınavla, KPSS şartı yok.",
+   "provinces": [
+    "55"
+   ],
+   "category": "İşçi"
   },
   {
-   "id": "27fb084f8965",
-   "title": "Kütahya Dumlupınar Üniversitesi Öğretim Üyesi Alım İlanı",
+   "id": "af53b6ee93a4",
+   "title": "Kütahya Dumlupınar Üniversitesi öğretim üyesi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87061/kutahya-dumlupinar-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-22T22:20:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-22T22:22:12Z",
-   "summary": "Kütahya Dumlupınar Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "deadline": "2026-12-07",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Kütahya Dumlupınar Üniversitesi çeşitli birimlerine profesör, doçent ve doktor öğretim üyesi alacak; kadro sayısı sayfada yazmıyor. Başvurular Resmî Gazete'de yayımdan itibaren 15 gün içinde yalnızca ilan.dpu.edu.tr üzerinden yapılıyor; sayfa başlığında son tarih 7 Aralık 2026. 657 sayılı Kanun'un 48. maddesindeki şartlar aranıyor.",
    "provinces": [
     "43"
    ],
    "category": "Eğitim"
   },
   {
-   "id": "07e54f3d02e8",
-   "title": "Düzce Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "26e04d6f5a35",
+   "title": "Düzce Üniversitesi öğretim üyesi ve öğretim elemanı alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87060/duzce-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-22T22:10:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-22T22:22:12Z",
-   "summary": "Düzce Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "deadline": "2026-12-07",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Düzce Üniversitesi öğretim üyesi ve öğretim elemanı alacak; kadro sayıları ve bölümler ilan görsellerinde, sayfa metninde yazmıyor. Başvurular 23 Kasım - 7 Aralık 2026 arasında yalnızca abas.duzce.edu.tr üzerinden yapılacak, tek kadroya başvurulabiliyor. Ön değerlendirme 10 Aralık, giriş sınavı 14 Aralık 2026.",
    "provinces": [
     "81"
    ],
    "category": "Eğitim"
   },
   {
-   "id": "77d5fd60ce30",
-   "title": "Yozgat Bozok Üniversitesi Öğretim Üyesi Alım İlanı",
+   "id": "b23a10c7d225",
+   "title": "Yozgat Bozok Üniversitesi öğretim üyesi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87058/yozgat-bozok-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-22T21:50:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-22T22:22:14Z",
-   "summary": "Yozgat Bozok Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "Yozgat Bozok Üniversitesi çeşitli birimlerine öğretim üyesi alacak; kadro sayısı sayfa metninde yazmıyor. İlan süresi 23 Kasım - 11 Aralık 2026 olarak verilmiş, sayfa başlığında ise 7 Aralık 2026 geçiyor. Başvurular personelbasvuru.bozok.edu.tr adresinden e-Devlet şifresiyle yalnızca elektronik yapılıyor; 2547 sayılı Kanun ve üniversite yönergesindeki şartlar aranıyor.",
    "provinces": [
     "66"
    ],
    "category": "Eğitim"
   },
   {
-   "id": "268814d74acc",
-   "title": "Türk Akreditasyon Kurumu sözleşmeli 3 personel alacak",
+   "id": "55eb0d25e496",
+   "title": "Türk Akreditasyon Kurumu 3 sözleşmeli koruma ve güvenlik görevlisi alacak",
    "url": "https://ilan.memurlar.net/ilan/87056/turk-akreditasyon-kurumu-sozlesmeli-3-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-22T21:30:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-22T22:22:15Z",
-   "summary": "Türk Akreditasyon Kurumu sözleşmeli 3 personel alacak. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "deadline": "2026-12-07",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "TÜRKAK sözlü sınavla 3 sözleşmeli koruma ve güvenlik görevlisi alacak. Başvurular 23 Kasım - 7 Aralık 2026 (23.59) arasında e-Devlet ya da kariyerkapisi.gov.tr üzerinden yapılacak. 2026 KPSS (B) ön lisans puanından en az 70, 01.01.2026 itibarıyla 35 yaşını doldurmamış olmak ve geçerli özel güvenlik kimlik kartı gerekiyor; sözlü sınav 23 Aralık 2026'da Ankara'da.",
    "provinces": [
     "06"
    ],
-   "category": "Memur / KPSS"
+   "category": "Güvenlik"
   },
   {
    "id": "3389b3ffaa3e",
@@ -975,7 +1016,7 @@
    "category": "Güvenlik"
   },
   {
-   "id": "844b85c7cc9b",
+   "id": "2e9b456753a3",
    "title": "İçişleri Bakanlığı 1.170 sözleşmeli personel alacak",
    "url": "https://ilan.memurlar.net/ilan/87054/icisleri-bakanligi-1-170-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
@@ -983,9 +1024,9 @@
     "Memurlar.net"
    ],
    "published": "2026-11-22T21:10:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-22T22:22:16Z",
-   "summary": "İçişleri Bakanlığı 1.170 sözleşmeli personel alacak. İlan Memurlar.net'te 23.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-26T07:06:03Z",
+   "summary": "İçişleri Bakanlığı merkez (119) ve taşra (1.051) teşkilatına toplam 1.170 4/B sözleşmeli personel alacak; avukat, mühendis, programcı, tekniker, teknisyen, büro personeli, silahlı güvenlik görevlisi, şoför ve temizlik görevlisi gibi unvanlar var. Başvurular 7-11 Aralık 2026 (saat 16.00) arasında yalnızca e-Devlet üzerinden yapılacak, en fazla 30 tercih yapılabilecek. 2026 KPSS (B) P3/P93/P94 puan türünden en az 60 puan ve 18 yaşını doldurmuş olmak gerekiyor.",
    "provinces": [],
    "category": "Memur / KPSS"
   },
@@ -1143,7 +1184,7 @@
    "category": "İşçi"
   },
   {
-   "id": "9cde4b67b20f",
+   "id": "d86f8bcbbeca",
    "title": "Dşyarbakır Kocaköy Geçici 1 İşçi Alacak",
    "url": "https://ilan.memurlar.net/ilan/87046/dsyarbakir-kocakoy-gecici-1-isci-alacak.html",
    "source": "Memurlar.net",
@@ -1152,9 +1193,11 @@
    ],
    "published": "2026-11-20T21:32:00Z",
    "deadline": "2026-11-24",
-   "first_seen": "2026-11-20T22:24:44Z",
-   "summary": "Dşyarbakır Kocaköy Geçici 1 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 24.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "first_seen": "2026-11-21T01:43:42Z",
+   "summary": "Diyarbakır Kocaköy 1 geçici işçi alacak (kaynak İŞKUR). Son başvuru tarihi 24 Kasım 2026. Kadro adı, başvuru yeri ve şartlar ilan metninde yazmıyor, ilan belgesi görsel olarak eklenmiş.",
+   "provinces": [
+    "21"
+   ],
    "category": "İşçi"
   },
   {
@@ -1175,7 +1218,7 @@
    "category": "İşçi"
   },
   {
-   "id": "2f506e5aace6",
+   "id": "0d12d25d126a",
    "title": "Erzurum Çat SYDV Geçici 4 İşçi Alacak",
    "url": "https://ilan.memurlar.net/ilan/87044/erzurum-cat-sydv-gecici-4-isci-alacak.html",
    "source": "Memurlar.net",
@@ -1184,8 +1227,8 @@
    ],
    "published": "2026-11-20T21:26:00Z",
    "deadline": "2026-11-24",
-   "first_seen": "2026-11-20T22:24:45Z",
-   "summary": "Erzurum Çat SYDV Geçici 4 İşçi Alacak. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 24.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-21T01:43:42Z",
+   "summary": "Erzurum Çat Sosyal Yardımlaşma ve Dayanışma Vakfı (SYDV) 4 geçici işçi alacak (kaynak İŞKUR). Son başvuru tarihi 24 Kasım 2026. Kadro adı, başvuru yeri ve şartlar ilan metninde yazmıyor, ilan belgesi görsel olarak eklenmiş.",
    "provinces": [
     "25"
    ],
@@ -1277,7 +1320,7 @@
    "category": "Belediye"
   },
   {
-   "id": "8de37544015b",
+   "id": "3305afb82d13",
    "title": "İstanbul Medeniyet Üniversitesi Öğretim Üyesi Alım İlanı",
    "url": "https://ilan.memurlar.net/ilan/87048/istanbul-medeniyet-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
@@ -1286,16 +1329,16 @@
    ],
    "published": "2026-11-20T21:05:00Z",
    "deadline": "2026-12-05",
-   "first_seen": "2026-11-20T22:24:42Z",
-   "summary": "İstanbul Medeniyet Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 21.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 05.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-21T01:43:42Z",
+   "summary": "İstanbul Medeniyet Üniversitesi Rektörlüğü profesör, doçent ve doktor öğretim üyesi alacak; kadro sayısı ilan metninde belirtilmemiş. Başvurular yalnızca çevrimiçi, üniversitenin UBYS sistemi üzerinden yapılıyor; posta ile başvuru kabul edilmiyor. Son başvuru 5 Aralık 2026. Adaylar yalnızca bir kadroya başvurabiliyor.",
    "provinces": [
     "34"
    ],
    "category": "Eğitim"
   },
   {
-   "id": "78eb76ef28ef",
-   "title": "Atatürk Üniversitesi Öğretim Üyesi Alım İlanı",
+   "id": "584431146bad",
+   "title": "Atatürk Üniversitesi öğretim üyesi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87037/ataturk-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -1303,14 +1346,16 @@
    ],
    "published": "2026-11-19T22:45:00Z",
    "deadline": "2026-12-04",
-   "first_seen": "2026-11-19T23:21:46Z",
-   "summary": "Atatürk Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "first_seen": "2026-11-20T03:03:31Z",
+   "summary": "Atatürk Üniversitesi Rektörlüğü doktor öğretim üyesi alacak; kadro sayısı ilan metninde belirtilmemiş. Başvuru süresi Resmî Gazete'deki yayından itibaren 15 gün olup son tarih 4 Aralık 2026. Adaylar dilekçe, yabancı dil belgesi, özgeçmiş, yayın listesi ve diploma gibi belgeleri dijital dosya olarak ilgili birime teslim edecek; 2547 sayılı Kanun ve 657 sayılı Kanun'un 48. maddesindeki şartlar aranıyor.",
+   "provinces": [
+    "25"
+   ],
    "category": "Eğitim"
   },
   {
-   "id": "5ce8269bdd8f",
-   "title": "Necmettin Erbakan Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "cad6a745969b",
+   "title": "Necmettin Erbakan Üniversitesi öğretim üyesi ve elemanı alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87035/necmettin-erbakan-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -1318,15 +1363,15 @@
    ],
    "published": "2026-11-19T22:15:00Z",
    "deadline": "2026-12-04",
-   "first_seen": "2026-11-19T22:29:38Z",
-   "summary": "Necmettin Erbakan Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-20T03:03:31Z",
+   "summary": "Necmettin Erbakan Üniversitesi Rektörlüğü öğretim üyesi ve öğretim elemanı alacak; kadro sayısı ve birimler ilan metninde belirtilmemiş. Son başvuru 4 Aralık 2026. Profesör ve doçent adayları Rektörlük Personel Daire Başkanlığı'na (Meram, Konya), doktor öğretim üyesi adayları ilgili birime şahsen ya da posta ile başvuracak. 657 sayılı Kanun'un 48. maddesindeki genel şartlar ve Eğiticilerin Eğitimi Sertifikası şartı aranıyor.",
    "provinces": [
     "42"
    ],
    "category": "Eğitim"
   },
   {
-   "id": "6de57177c205",
+   "id": "d90b3d0a290c",
    "title": "Adli Tıp Kurumu Başkanlığı 181 sözleşmeli personel alacak",
    "url": "https://ilan.memurlar.net/ilan/87034/adli-tip-kurumu-baskanligi-181-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
@@ -1335,14 +1380,14 @@
    ],
    "published": "2026-11-19T22:08:00Z",
    "deadline": "2026-12-06",
-   "first_seen": "2026-11-19T22:29:39Z",
-   "summary": "Adli Tıp Kurumu Başkanlığı 181 sözleşmeli personel alacak. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 06.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-20T03:03:31Z",
+   "summary": "Adalet Bakanlığı Adli Tıp Kurumu Başkanlığı, 657 sayılı Kanun'un 4/B maddesi uyarınca 181 sözleşmeli personel alacak. Başvurular 30 Kasım 2026 saat 09.00 ile 6 Aralık 2026 saat 23.59 arasında e-Devlet üzerinden Kariyer Kapısı'ndan alınacak; şahsen veya posta ile başvuru kabul edilmeyecek. Adaylarda 2026 KPSS'den pozisyonun puan türünde en az 70 puan aranıyor; her pozisyon için ilan edilen sayının 3 katı aday sözlü sınava çağrılacak. Pozisyon listesi ilanın Ek-1 bölümünde yer alıyor.",
    "provinces": [],
    "category": "Memur / KPSS"
   },
   {
-   "id": "251e08c1e5e3",
-   "title": "Mardin Artuklu Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "8b3c22a76249",
+   "title": "Mardin Artuklu Üniversitesi öğretim üyesi ve öğretim görevlisi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87033/mardin-artuklu-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -1350,16 +1395,16 @@
    ],
    "published": "2026-11-19T21:58:00Z",
    "deadline": "2026-12-04",
-   "first_seen": "2026-11-19T22:29:40Z",
-   "summary": "Mardin Artuklu Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-20T06:03:55Z",
+   "summary": "Mardin Artuklu Üniversitesi Rektörlüğü profesör, doçent ve doktor öğretim üyesi ile öğretim görevlisi alacak; kadro sayısı ilan metninde belirtilmemiş. Başvuru süresi Resmî Gazete'deki yayından itibaren 15 gün olup son tarih 4 Aralık 2026. Profesör ve doçent başvuruları Personel Daire Başkanlığına, doktor öğretim üyesi başvuruları ilgili birime şahsen yapılacak. 657 sayılı Kanun'un 48. maddesindeki şartlar aranıyor; öğretim görevlisi için en az tezli yüksek lisans, ALES ve yabancı dil puanı isteniyor.",
    "provinces": [
     "47"
    ],
    "category": "Eğitim"
   },
   {
-   "id": "a4123e36c283",
-   "title": "Abdullah Gül Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "4fc86bccd8d3",
+   "title": "Abdullah Gül Üniversitesi öğretim üyesi ve öğretim elemanı alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87032/abdullah-gul-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -1367,31 +1412,33 @@
    ],
    "published": "2026-11-19T21:48:00Z",
    "deadline": "2026-12-04",
-   "first_seen": "2026-11-19T22:29:41Z",
-   "summary": "Abdullah Gül Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "first_seen": "2026-11-20T06:03:55Z",
+   "summary": "Abdullah Gül Üniversitesi Rektörlüğü profesör, doçent, doktor öğretim üyesi, araştırma görevlisi ve öğretim görevlisi alacak; kadro sayısı ilan metninde belirtilmemiş. Son başvuru tarihi 4 Aralık 2026. Öğretim üyesi başvuruları şahsen yapılacak, posta kabul edilmeyecek; araştırma görevlisi için 35 yaş sınırı ve lisansüstü öğrenci olma şartı aranıyor. 2547 ve 657 sayılı Kanun'daki şartlar geçerli.",
+   "provinces": [
+    "38"
+   ],
    "category": "Eğitim"
   },
   {
-   "id": "ba2a7fd28ad3",
-   "title": "Bartın Üniversitesi 1 Sözleşmeli Personel Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87031/bartin-universitesi-1-sozlesmeli-personel-alacak.html",
+   "id": "ef3f4a95087b",
+   "title": "Bartın Üniversitesi 1 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/87031/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-19T21:38:00Z",
-   "deadline": "2026-12-04",
-   "first_seen": "2026-11-19T22:29:42Z",
-   "summary": "Bartın Üniversitesi 1 Sözleşmeli Personel Alacak. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "deadline": "2026-12-05",
+   "first_seen": "2026-11-20T04:03:33Z",
+   "summary": "Bartın Üniversitesi Rektörlüğü, 657 sayılı Kanun 4/B kapsamında 1 sözleşmeli personel alacak. Başvurular Kariyer Kapısı Kamu İşe Alım sitesi ya da e-Devlet üzerinden 5 Aralık 2026 saat 13.00'e kadar yapılıyor; ilan başlığında son gün 4 Aralık 2026 yazsa da ilan metninde 5 Aralık 2026 geçiyor. Başvuru formunun çıktısı 8 Aralık 2026 saat 17.30'a kadar Personel Daire Başkanlığı'na elden ya da noter vekaletiyle teslim edilmeli. Adaylarda 2026 KPSS (B) sınavına girmiş olma, 657 sayılı Kanun'un 48. maddesindeki genel şartlar ve güvenlik soruşturması olumlu olma aranıyor; yerleştirme KPSS puan sırasına göre yapılıyor.",
    "provinces": [
     "74"
    ],
-   "category": "Eğitim"
+   "category": "Memur / KPSS"
   },
   {
-   "id": "1d91578404db",
-   "title": "Bartın Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "18feedb76dc3",
+   "title": "Bartın Üniversitesi öğretim üyesi ve öğretim elemanı alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87038/bartin-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -1399,33 +1446,33 @@
    ],
    "published": "2026-11-19T21:30:00Z",
    "deadline": "2026-12-04",
-   "first_seen": "2026-11-19T22:29:37Z",
-   "summary": "Bartın Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-20T06:03:55Z",
+   "summary": "Bartın Üniversitesi Rektörlüğü öğretim üyesi ve öğretim görevlisi alacak; kadro sayısı ilan metninde belirtilmemiş. Başvurular Resmî Gazete'deki yayından itibaren 15 gün içinde, son tarih 4 Aralık 2026, yalnızca çevrimiçi UBYS üzerinden yapılacak; şahsen ve posta başvurusu kabul edilmeyecek. 657 sayılı Kanun'un 48. maddesindeki şartlar aranıyor; öğretim görevlisi için ALES belgesi ve SGK hizmet dökümü isteniyor.",
    "provinces": [
     "74"
    ],
    "category": "Eğitim"
   },
   {
-   "id": "0cf6e24dd802",
-   "title": "Balıkesir Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "88f0c2e64e9b",
+   "title": "Balıkesir Üniversitesi öğretim üyesi ve öğretim elemanı alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87030/balikesir-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-19T21:28:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-19T22:29:42Z",
-   "summary": "Balıkesir Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-20T06:03:55Z",
+   "summary": "Balıkesir Üniversitesi Rektörlüğü profesör, doçent, doktor öğretim üyesi ve öğretim elemanı alacak; kadro sayısı ilan metninde belirtilmemiş. Öğretim elemanı ilanında başvuru 20 Kasım 2026 ile 4 Aralık 2026 arasında; öğretim üyesi ilanında süre Resmî Gazete'den itibaren 15 gün. Başvurular şahsen veya posta ile yapılacak, internetten başvuru işleme alınmayacak. Öğretim elemanı için ALES en az 70 ve yabancı dil en az 50 puan aranıyor.",
    "provinces": [
     "10"
    ],
    "category": "Eğitim"
   },
   {
-   "id": "b8f1dbb703e2",
-   "title": "İstanbul Üniversitesi-Cerrahpaşa Öğretim Üyesi ve Elemanı Alım İlanı",
+   "id": "808034f05d4d",
+   "title": "İstanbul Üniversitesi-Cerrahpaşa öğretim üyesi ve öğretim elemanı alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/87029/istanbul-universitesi-cerrahpasa-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -1433,8 +1480,8 @@
    ],
    "published": "2026-11-19T21:18:00Z",
    "deadline": "2026-12-04",
-   "first_seen": "2026-11-19T21:39:39Z",
-   "summary": "İstanbul Üniversitesi-Cerrahpaşa Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 20.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 04.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-20T06:03:55Z",
+   "summary": "İstanbul Üniversitesi-Cerrahpaşa Rektörlüğü profesör, doçent, doktor öğretim üyesi, öğretim görevlisi ve araştırma görevlisi alacak; kadro sayısı ilan metninde belirtilmemiş. Son başvuru tarihi 4 Aralık 2026 saat 17:00. Başvurular yalnızca apbs.iuc.edu.tr üzerinden çevrimiçi yapılacak; şahsen ve posta başvurusu kabul edilmeyecek. Yabancı diplomalar için denklik belgesi ve bir adayın en fazla bir kadroya başvurması şartı var.",
    "provinces": [
     "34"
    ],
@@ -1526,21 +1573,19 @@
    "category": "Eğitim"
   },
   {
-   "id": "00555a14ed75",
-   "title": "İçişleri Bakanlığı 60 Kaymakam Adayı Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87027/icisleri-bakanligi-60-kaymakam-adayi-alacak.html",
+   "id": "3b265c03519d",
+   "title": "İçişleri Bakanlığı 60 kaymakam adayı alacak",
+   "url": "https://ilan.memurlar.net/ilan/87027/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-18T21:05:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-18T21:42:15Z",
-   "summary": "İçişleri Bakanlığı 60 Kaymakam Adayı Alacak. İlan Memurlar.net'te 19.11.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [
-    "06"
-   ],
-   "category": "Belediye"
+   "deadline": "2026-12-07",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "İçişleri Bakanlığı 60 kaymakam adayı alacak. ÖSYM üzerinden ön başvuru 1-7 Aralık 2026, nihai başvuru 16-21 Aralık 2026 arasındadır; geç başvuru günü 29 Aralık 2026. Lisans mezunu olmak, 1 Ocak 2027 itibarıyla 35 yaşını doldurmamak ve KPSSP32'den en az 70 puan almak gerekir. Sınav 31 Ocak 2027'de Ankara'da.",
+   "provinces": [],
+   "category": "Memur / KPSS"
   },
   {
    "id": "18cb1a7760a8",
@@ -1662,68 +1707,68 @@
    "category": "Eğitim"
   },
   {
-   "id": "5e2443c36750",
+   "id": "da51c19cd3bf",
    "title": "Bolu Mudurnu Belediyesi 1 sözleşmeli personel alacak",
-   "url": "https://ilan.memurlar.net/ilan/87022/bolu-mudurnu-belediyesi-1-sozlesmeli-personel-alacak.html",
+   "url": "https://ilan.memurlar.net/ilan/87022/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T22:10:00Z",
    "deadline": "2026-12-25",
-   "first_seen": "2026-11-17T23:39:30Z",
-   "summary": "Bolu Mudurnu Belediyesi 1 sözleşmeli personel alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 25.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Mudurnu Belediye Başkanlığı 1 tam zamanlı sözleşmeli personel alacak. Elektronik başvurular 14 Aralık 2026 ile 25 Aralık 2026 arasında e-posta ile ya da şahsen/iadeli taahhütlü postayla Seyrancık Mah. Belediye Cad. No:1 adresindeki Yazı İşleri Müdürlüğü'ne yapılır. 2026 KPSS (B) puanı ve en az B sınıfı sürücü belgesi aranır; unvan bilgisi ilan görselinde olduğundan metinde yazmıyor.",
    "provinces": [
     "14"
    ],
    "category": "Belediye"
   },
   {
-   "id": "2d6d1cb2864e",
-   "title": "Tekirdağ Su ve Kanalizasyon İdaresi 16 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87018/tekirdag-su-ve-kanalizasyon-idaresi-16-isci-alacak.html",
+   "id": "d30966b13acc",
+   "title": "Tekirdağ Su ve Kanalizasyon İdaresi 16 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87018/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T21:39:00Z",
    "deadline": "2026-11-20",
-   "first_seen": "2026-11-17T21:41:04Z",
-   "summary": "Tekirdağ Su ve Kanalizasyon İdaresi 16 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Tekirdağ Su ve Kanalizasyon İdaresi 16 işçi alacak. Son başvuru tarihi 20 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "59"
    ],
    "category": "İşçi"
   },
   {
-   "id": "70ac01fad779",
-   "title": "Manisa Sarbel 4 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87017/manisa-sarbel-4-isci-alacak.html",
+   "id": "b963f7b16e77",
+   "title": "Manisa Sarbel 4 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87017/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T21:36:00Z",
    "deadline": "2026-11-20",
-   "first_seen": "2026-11-17T21:41:04Z",
-   "summary": "Manisa Sarbel 4 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Manisa Sarbel 4 işçi alacak. Son başvuru tarihi 20 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "45"
    ],
    "category": "İşçi"
   },
   {
-   "id": "90e44b66a727",
-   "title": "Erzincan Mollaköy Personel Temizlik 1 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87016/erzincan-mollakoy-personel-temizlik-1-isci-alacak.html",
+   "id": "b9b3259f5798",
+   "title": "Erzincan Mollaköy Personel Temizlik 1 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87016/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T21:33:00Z",
    "deadline": "2026-11-20",
-   "first_seen": "2026-11-17T21:41:05Z",
-   "summary": "Erzincan Mollaköy Personel Temizlik 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Erzincan Mollaköy Personel Temizlik 1 işçi alacak. Son başvuru tarihi 20 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "24"
    ],
@@ -1781,34 +1826,34 @@
    "category": "Sağlık"
   },
   {
-   "id": "49c64a1da887",
-   "title": "Kırklareli Çakıllı Belediyesi 1 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87013/kirklareli-cakilli-belediyesi-1-isci-alacak.html",
+   "id": "3894cf8767f9",
+   "title": "Kırklareli Çakıllı Belediyesi 1 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87013/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T21:24:00Z",
    "deadline": "2026-11-20",
-   "first_seen": "2026-11-17T21:41:08Z",
-   "summary": "Kırklareli Çakıllı Belediyesi 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Çakıllı Belediyesi (Kırklareli) 1 işçi alacak. Son başvuru tarihi 20 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "39"
    ],
-   "category": "Belediye"
+   "category": "İşçi"
   },
   {
-   "id": "1f09927d54a5",
-   "title": "Kahramanmaraş Kazanbel 1 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87012/kahramanmaras-kazanbel-1-isci-alacak.html",
+   "id": "b7458f95d282",
+   "title": "Kahramanmaraş Kazanbel 1 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87012/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T21:21:00Z",
    "deadline": "2026-11-20",
-   "first_seen": "2026-11-17T21:41:09Z",
-   "summary": "Kahramanmaraş Kazanbel 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Kahramanmaraş Kazanbel 1 işçi alacak. Son başvuru tarihi 20 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "46"
    ],
@@ -1849,38 +1894,38 @@
    "category": "İşçi"
   },
   {
-   "id": "9a8b1fb5531e",
-   "title": "Eskişehir Espark 1 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87010/eskisehir-espark-1-isci-alacak.html",
+   "id": "fd390999e1ca",
+   "title": "Eskişehir Espark 1 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87010/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T21:16:00Z",
    "deadline": "2026-11-20",
-   "first_seen": "2026-11-17T21:41:11Z",
-   "summary": "Eskişehir Espark 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Eskişehir Espark 1 işçi alacak. Son başvuru tarihi 20 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "26"
    ],
    "category": "İşçi"
   },
   {
-   "id": "8ac56df68df8",
-   "title": "Diyarbakır Eğil Belediyesi 1 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87009/diyarbakir-egil-belediyesi-1-isci-alacak.html",
+   "id": "033e83739347",
+   "title": "Diyarbakır Eğil Belediyesi 1 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87009/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T21:13:00Z",
    "deadline": "2026-11-19",
-   "first_seen": "2026-11-17T21:41:12Z",
-   "summary": "Diyarbakır Eğil Belediyesi 1 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 19.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Eğil Belediyesi (Diyarbakır) 1 işçi alacak. Son başvuru tarihi 19 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "21"
    ],
-   "category": "Belediye"
+   "category": "İşçi"
   },
   {
    "id": "ddbd1e061e5a",
@@ -2149,19 +2194,21 @@
    "category": "Eğitim"
   },
   {
-   "id": "b5fc09118f82",
-   "title": "Anadolu Üniversitesi 1 Sözleşmeli Personel Alacak",
-   "url": "https://ilan.memurlar.net/ilan/86999/anadolu-universitesi-1-sozlesmeli-personel-alacak.html",
+   "id": "feb6809d3a82",
+   "title": "Anadolu Üniversitesi 1 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/86999/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-15T21:45:00Z",
    "deadline": "2026-11-30",
-   "first_seen": "2026-11-15T22:15:11Z",
-   "summary": "Anadolu Üniversitesi 1 Sözleşmeli Personel Alacak. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
-   "category": "Eğitim"
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Anadolu Üniversitesi Rektörlüğü 1 sözleşmeli personel alacak; unvan ilan tablosundaki görselde olduğundan metinde yazmıyor. Başvurular 16 Kasım 2026'da başlıyor, 30 Kasım 2026 saat 13.00'te bitiyor; yalnızca e-Devlet üzerinden Kariyer Kapısı ile yapılır. 2026 KPSS (B) KPSSP3 puan türünden en az 60 puan aranır.",
+   "provinces": [
+    "26"
+   ],
+   "category": "Memur / KPSS"
   },
   {
    "id": "cb834034b75b",
@@ -2298,7 +2345,7 @@
    "category": "İşçi"
   },
   {
-   "id": "d4618e3654ce",
+   "id": "00f886ab846c",
    "title": "Osmaniye Hasanbeyli SYDV Geçici 2 İşçi Alacak",
    "url": "https://ilan.memurlar.net/ilan/86992/osmaniye-hasanbeyli-sydv-gecici-2-isci-alacak.html",
    "source": "Memurlar.net",
@@ -2307,8 +2354,8 @@
    ],
    "published": "2026-11-13T22:27:00Z",
    "deadline": "2026-11-15",
-   "first_seen": "2026-11-13T23:18:11Z",
-   "summary": "Osmaniye Hasanbeyli SYDV Geçici 2 İşçi Alacak. İlan Memurlar.net'te 14.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 15.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-13T23:03:19Z",
+   "summary": "Osmaniye Hasanbeyli Sosyal Yardımlaşma ve Dayanışma Vakfı (SYDV) 2 geçici işçi alacak. Son başvuru tarihi 15 Kasım 2026; kaynak İŞKUR. Kadro adı, başvuru yeri ve şartlar ilan metninde yazmıyor, ilan belgesi görsel olarak eklenmiş.",
    "provinces": [
     "80"
    ],
@@ -2320,7 +2367,8 @@
    "url": "https://ilan.memurlar.net/ilan/86991/mugla-milas-belediyesi-16-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-11-13T22:24:00Z",
    "deadline": "2026-11-18",
@@ -2337,7 +2385,8 @@
    "url": "https://ilan.memurlar.net/ilan/86990/edirne-kuplu-belediyesi-gecici-6-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-11-13T22:21:00Z",
    "deadline": "2026-11-17",
@@ -2354,7 +2403,8 @@
    "url": "https://ilan.memurlar.net/ilan/86989/kirklareli-kiyikoy-belediyesi-gecici-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-11-13T22:18:00Z",
    "deadline": "2026-11-16",
@@ -2519,24 +2569,24 @@
    "category": "İşçi"
   },
   {
-   "id": "8bcfd7730f69",
-   "title": "Çankırı Bayramören Belediyesi 2 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/86979/cankiri-bayramoren-belediyesi-2-isci-alacak.html",
+   "id": "246c6543e10b",
+   "title": "Çankırı Bayramören Belediyesi 2 işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/86979/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-13T21:47:00Z",
    "deadline": "2026-11-20",
-   "first_seen": "2026-11-13T23:18:22Z",
-   "summary": "Çankırı Bayramören Belediyesi 2 İşçi Alacak. İlan Memurlar.net'te 14.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Bayramören Belediyesi (Çankırı) 2 işçi alacak. Son başvuru tarihi 20 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "18"
    ],
-   "category": "Belediye"
+   "category": "İşçi"
   },
   {
-   "id": "d437ae9febde",
+   "id": "39fc0f46d447",
    "title": "Mersin Akdeniz SYDV Geçici 1 İşçi Alacak",
    "url": "https://ilan.memurlar.net/ilan/86978/mersin-akdeniz-sydv-gecici-1-isci-alacak.html",
    "source": "Memurlar.net",
@@ -2545,8 +2595,8 @@
    ],
    "published": "2026-11-13T21:44:00Z",
    "deadline": "2026-11-18",
-   "first_seen": "2026-11-13T23:18:23Z",
-   "summary": "Mersin Akdeniz SYDV Geçici 1 İşçi Alacak. İlan Memurlar.net'te 14.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 18.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-13T23:03:19Z",
+   "summary": "Mersin Akdeniz Sosyal Yardımlaşma ve Dayanışma Vakfı (SYDV) 1 geçici işçi alacak. Son başvuru tarihi 18 Kasım 2026; kaynak İŞKUR. Kadro adı, başvuru yeri ve şartlar ilan metninde yazmıyor, ilan belgesi görsel olarak eklenmiş.",
    "provinces": [
     "33"
    ],
@@ -2570,7 +2620,7 @@
    "category": "Belediye"
   },
   {
-   "id": "36510ee6b5a0",
+   "id": "8458daae0e95",
    "title": "Akdeniz Üniversitesi 3 İşçi Alacak",
    "url": "https://ilan.memurlar.net/ilan/86974/akdeniz-universitesi-3-isci-alacak.html",
    "source": "Memurlar.net",
@@ -2579,16 +2629,16 @@
    ],
    "published": "2026-11-13T21:22:00Z",
    "deadline": "2026-11-20",
-   "first_seen": "2026-11-13T22:21:50Z",
-   "summary": "Akdeniz Üniversitesi 3 İşçi Alacak. İlan Memurlar.net'te 14.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-13T22:03:57Z",
+   "summary": "Akdeniz Üniversitesi Rektörlüğü Ziraat Fakültesi bünyesinde 3 işçi alacak. Başvurular 16-20 Kasım 2026 arasında yalnızca çevrimiçi, İŞKUR (esube.iskur.gov.tr) üzerinden alınır; şahsen, posta ya da e-posta başvurusu kabul edilmez. Antalya ilinde ikamet edenlerin başvuruları dikkate alınır; her aday listedeki yalnızca bir meslek koluna başvurabilir. Kadro dağılımı ilanda görsel olarak yer aldığı için kadro adları okunamadı.",
    "provinces": [
     "07"
    ],
-   "category": "Eğitim"
+   "category": "İşçi"
   },
   {
-   "id": "f8949f650abd",
-   "title": "Dicle Kalkınma Ajansı 4 uzman personel alacak",
+   "id": "97cad807adef",
+   "title": "Dicle Kalkınma Ajansı 4 Uzman Personel Alacak",
    "url": "https://ilan.memurlar.net/ilan/86975/dicle-kalkinma-ajansi-4-uzman-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
@@ -2596,14 +2646,19 @@
    ],
    "published": "2026-11-13T21:12:00Z",
    "deadline": "2026-12-18",
-   "first_seen": "2026-11-13T22:21:49Z",
-   "summary": "Dicle Kalkınma Ajansı 4 uzman personel alacak. İlan Memurlar.net'te 14.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 18.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
-   "category": "Belediye"
+   "first_seen": "2026-11-13T22:03:57Z",
+   "summary": "Dicle Kalkınma Ajansı (DİKA) 4 uzman personel alacak; görev yeri Mardin, Batman, Siirt ve Şırnak illeri. Son başvuru tarihi 18 Aralık 2026'dır. Sözlü yarışma sınavı Mardin'deki Merkez Hizmet Binası'nda yapılacak, geçme notu 100 üzerinden 70'tir; sınav tarihi sonradan duyurulacak ve iki aylık deneme süresi uygulanır. Başvuru kanalı ve asgari şartlar ilan görsellerinde olduğu için okunamadı; bilgi için 0482 212 11 07 (dahili 160).",
+   "provinces": [
+    "47",
+    "72",
+    "56",
+    "73"
+   ],
+   "category": "Memur / KPSS"
   },
   {
-   "id": "c12c2850501b",
-   "title": "Karamanoğlu Mehmetbey Üniversitesi Öğretim Üyesi Alacak",
+   "id": "e0d5858e2140",
+   "title": "Karamanoğlu Mehmetbey Üniversitesi Öğretim Üyesi Alım İlanı",
    "url": "https://ilan.memurlar.net/ilan/86972/karamanoglu-mehmetbey-universitesi-ogretim-uyesi-alacak.html",
    "source": "Memurlar.net",
    "sources": [
@@ -2611,14 +2666,16 @@
    ],
    "published": "2026-11-12T22:17:00Z",
    "deadline": "2026-11-27",
-   "first_seen": "2026-11-12T22:23:01Z",
-   "summary": "Karamanoğlu Mehmetbey Üniversitesi Öğretim Üyesi Alacak. İlan Memurlar.net'te 13.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "first_seen": "2026-11-13T00:03:35Z",
+   "summary": "Karamanoğlu Mehmetbey Üniversitesi Rektörlüğü öğretim üyesi alımı yapacak; ilanda doktor öğretim üyesi kadroları yer alıyor. Son başvuru tarihi 27 Kasım 2026'dır. Başvuru www.kmu.edu.tr üzerinden elektronik ortamda yapılır, belgeler ilgili birime şahsen ya da posta ile son gün saat 17.00'ye kadar ulaştırılır. 657 sayılı Kanun'un 48. maddesindeki genel şartlar ve üniversitenin atanma ölçütleri aranır; kadro sayısı ilan metninde yazmıyor (ilan görselinde).",
+   "provinces": [
+    "70"
+   ],
    "category": "Eğitim"
   },
   {
-   "id": "04731d75bf4e",
-   "title": "Çankırı Karatekin Üniversitesi Öğretim Üyesi Alım İlanı",
+   "id": "a23b76648514",
+   "title": "Çankırı Karatekin Üniversitesi Öğretim Üyesi Alım İlanı (13-27 Kasım 2026)",
    "url": "https://ilan.memurlar.net/ilan/86970/cankiri-karatekin-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
@@ -2626,8 +2683,8 @@
    ],
    "published": "2026-11-12T21:53:00Z",
    "deadline": "2026-11-27",
-   "first_seen": "2026-11-12T22:23:02Z",
-   "summary": "Çankırı Karatekin Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 13.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 27.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-13T00:03:35Z",
+   "summary": "Çankırı Karatekin Üniversitesi Rektörlüğü öğretim üyesi alımı yapacak. Başvurular 13 Kasım 2026 ile 27 Kasım 2026 arasında yalnızca çevrim içi olarak ilan.karatekin.edu.tr adresindeki sistemden alınır. 657 sayılı Kanun'un 48/A maddesindeki genel şartlar, üniversitenin atanma yönergesindeki asgari koşullar ve YÖK'ün kabul ettiği yabancı dil sınavından en az 55 puan aranır; kadro sayısı ilan metninde yazmıyor.",
    "provinces": [
     "18"
    ],
@@ -2717,8 +2774,8 @@
    "category": "İşçi"
   },
   {
-   "id": "e779ee054aed",
-   "title": "Savunma Sanayii Başkanlığı 26 sözleşmeli personel alacak",
+   "id": "6d2521a373c3",
+   "title": "Savunma Sanayii Başkanlığı 26 Proje Bazlı Sözleşmeli Personel Alacak",
    "url": "https://ilan.memurlar.net/ilan/86963/savunma-sanayii-baskanligi-26-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
@@ -2726,8 +2783,8 @@
    ],
    "published": "2026-11-11T21:10:00Z",
    "deadline": "2026-12-21",
-   "first_seen": "2026-11-11T21:47:24Z",
-   "summary": "Savunma Sanayii Başkanlığı 26 sözleşmeli personel alacak. İlan Memurlar.net'te 12.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 21.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-12T00:03:19Z",
+   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı 26 proje bazlı sözleşmeli personel alacak. Başvurular 20 Kasım 2026 saat 10.00 ile 21 Aralık 2026 saat 23.59 arasında yalnızca Kariyer Kapısı üzerinden e-Devlet girişiyle alınacak. Aranan şartlar: dört yıllık lisans, YDS en az 70 puan ve ilanda sayılan 21 uzmanlık alanından birinde en az 5 yıl deneyim. Sınav yalnızca sözlüdür.",
    "provinces": [],
    "category": "Memur / KPSS"
   },
@@ -2754,7 +2811,8 @@
    "url": "https://ilan.memurlar.net/ilan/86957/istanbul-sultangazi-belediyesi-2-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-09T23:15:00Z",
    "deadline": "2026-11-13",
@@ -2788,7 +2846,8 @@
    "url": "https://ilan.memurlar.net/ilan/86955/antalya-mavi-nar-emlak-10-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-09T23:08:00Z",
    "deadline": "2026-11-11",
@@ -2805,7 +2864,8 @@
    "url": "https://ilan.memurlar.net/ilan/86954/kirbel-kent-hizmetleri-gecici-4-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-09T23:05:00Z",
    "deadline": "2026-11-13",
@@ -2820,7 +2880,8 @@
    "url": "https://ilan.memurlar.net/ilan/86953/izmir-bornova-belediyesi-10-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-09T23:02:00Z",
    "deadline": "2026-11-13",
@@ -2837,7 +2898,8 @@
    "url": "https://ilan.memurlar.net/ilan/86952/izmir-byndr-turizm-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "https://ilan.memurlar.net/ilan/86952/izmir-byndr-turizm-1-isci-alacak.html"
    ],
    "published": "2026-11-09T22:59:00Z",
    "deadline": "2026-11-12",
@@ -2854,7 +2916,8 @@
    "url": "https://ilan.memurlar.net/ilan/86951/istanbul-cevre-yonetim-2-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "https://ilan.memurlar.net/ilan/86951/istanbul-cevre-yonetim-2-isci-alacak.html"
    ],
    "published": "2026-11-09T22:57:00Z",
    "deadline": "2026-11-13",
@@ -2871,7 +2934,8 @@
    "url": "https://ilan.memurlar.net/ilan/86950/eskisehir-espark-3-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "https://ilan.memurlar.net/ilan/86950/eskisehir-espark-3-isci-alacak.html"
    ],
    "published": "2026-11-09T22:54:00Z",
    "deadline": "2026-11-12",
@@ -2888,7 +2952,8 @@
    "url": "https://ilan.memurlar.net/ilan/86949/corum-sunbeton-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "https://ilan.memurlar.net/ilan/86949/corum-sunbeton-1-isci-alacak.html"
    ],
    "published": "2026-11-09T22:51:00Z",
    "deadline": "2026-11-12",
@@ -2922,7 +2987,8 @@
    "url": "https://ilan.memurlar.net/ilan/86947/samsun-asarcik-imar-gecici-2-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "https://ilan.memurlar.net/ilan/86947/samsun-asarcik-imar-gecici-2-isci-alacak.html"
    ],
    "published": "2026-11-09T22:45:00Z",
    "deadline": "2026-11-12",
@@ -2939,7 +3005,8 @@
    "url": "https://ilan.memurlar.net/ilan/86946/istanbul-arnavutkoy-belediyesi-4-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "https://ilan.memurlar.net/ilan/86946/istanbul-arnavutkoy-belediyesi-4-isci-alacak.html"
    ],
    "published": "2026-11-09T22:42:00Z",
    "deadline": "2026-11-13",
@@ -3001,8 +3068,8 @@
    "category": "Memur / KPSS"
   },
   {
-   "id": "ac4dc701d280",
-   "title": "Sayıştay 16 sözleşmeli personel alacak",
+   "id": "9f714c5bb96d",
+   "title": "Sayıştay Başkanlığı 16 Sözleşmeli Personel Alacak (Çözümleyici ve Programcı)",
    "url": "https://ilan.memurlar.net/ilan/86940/sayistay-16-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
@@ -3011,8 +3078,8 @@
    ],
    "published": "2026-11-09T21:26:00Z",
    "deadline": "2026-11-25",
-   "first_seen": "2026-11-10T19:44:47Z",
-   "summary": "Sayıştay 16 sözleşmeli personel alacak. İlan Memurlar.net'te 10.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 25.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-13T20:03:51Z",
+   "summary": "Sayıştay Başkanlığı 16 sözleşmeli personel alacak: 3 çözümleyici, 9 programcı (lisans), 4 programcı (ön lisans). Başvurular 11-25 Kasım 2026 arasında e-Devlet'teki Kariyer Kapısı üzerinden elektronik ortamda alınır; şahsen veya posta ile başvuru kabul edilmez. 657 sayılı Kanun'un 48. maddesindeki genel şartlar, 2026 KPSS'den lisans için KPSSP1, ön lisans için KPSSP93 puan türünde en az 60 puan ve ilgili alanda diploma aranır. Adaylar KPSS puanına göre sıralanır, kadro sayısının 10 katı aday sözlü sınava çağrılır.",
    "provinces": [],
    "category": "Memur / KPSS"
   },
@@ -3173,7 +3240,8 @@
    "url": "https://www.kamuilantakvimi.com/haber/ibb-ipa-50-personel-alimi-basvuru-sartlari",
    "source": "Kamu İlan Takvimi",
    "sources": [
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "kamuilantakvimi.com"
    ],
    "published": "2026-11-08T17:22:00Z",
    "deadline": "2026-11-11",
@@ -3207,7 +3275,8 @@
    "url": "https://ilan.memurlar.net/ilan/86927/sakarya-karasu-karsas-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-06T22:49:00Z",
    "deadline": "2026-11-11",
@@ -3258,7 +3327,8 @@
    "url": "https://ilan.memurlar.net/ilan/86923/izmir-izenerji-12-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-06T22:39:00Z",
    "deadline": "2026-11-11",
@@ -3309,7 +3379,8 @@
    "url": "https://ilan.memurlar.net/ilan/86920/edirne-enez-belediyesi-10-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-06T22:29:00Z",
    "deadline": "2026-11-09",
@@ -3326,7 +3397,8 @@
    "url": "https://ilan.memurlar.net/ilan/86919/adana-ceyhan-sydv-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "https://ilan.memurlar.net/ilan/86919/adana-ceyhan-sydv-1-isci-alacak.html"
    ],
    "published": "2026-11-06T22:26:00Z",
    "deadline": null,
@@ -3343,7 +3415,8 @@
    "url": "https://ilan.memurlar.net/ilan/86918/adana-saricam-sydv-gecici-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-11-06T22:23:00Z",
    "deadline": "2026-11-10",
@@ -3392,7 +3465,8 @@
    "url": "https://www.kamuilantakvimi.com/haber/adalet-bakanligi-15-bin-personel-alimi-sonuclari-2026",
    "source": "Kamu İlan Takvimi",
    "sources": [
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "kamuilantakvimi.com"
    ],
    "published": "2026-11-06T11:42:00Z",
    "deadline": null,
@@ -3454,7 +3528,8 @@
    "url": "https://ilan.memurlar.net/ilan/86913/bozkoy-belediyesi-1-irfaiye-eri-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "https://ilan.memurlar.net/ilan/86913/bozkoy-belediyesi-1-irfaiye-eri-alacak.html"
    ],
    "published": "2026-11-05T23:10:00Z",
    "deadline": "2026-12-23",
@@ -3486,7 +3561,8 @@
    "url": "https://ilan.memurlar.net/ilan/86911/sakarya-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-05T22:50:00Z",
    "deadline": "2026-11-20",
@@ -3637,7 +3713,8 @@
    "url": "https://ilan.memurlar.net/ilan/86900/antalya-gundogmus-belediyesi-4-memur-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Gündoğmuş Belediyesi"
    ],
    "published": "2026-11-04T22:15:00Z",
    "deadline": "2026-11-19",
@@ -3672,7 +3749,8 @@
    "url": "https://ilan.memurlar.net/ilan/86898/ula-belediyesi-4-zabita-memuru-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-04T21:50:00Z",
    "deadline": "2026-12-23",
@@ -3738,7 +3816,8 @@
    "url": "https://www.isinolsa.com/turkseker-42-personel-alacak-70-kpss-ile-12-ilde-istihdam/",
    "source": "İşin Olsa",
    "sources": [
-    "İşin Olsa"
+    "İşin Olsa",
+    "İşinOlsa"
    ],
    "published": "2026-11-04T21:08:00Z",
    "deadline": "2026-11-15",
@@ -3787,7 +3866,8 @@
    "url": "https://ilan.memurlar.net/ilan/86891/sakarya-tarakli-belediyesi-gecici-4-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-04T00:03:00Z",
    "deadline": "2026-11-07",
@@ -3804,7 +3884,8 @@
    "url": "https://ilan.memurlar.net/ilan/86889/mersin-buyuksehir-belediyesi-2-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-11-03T23:59:00Z",
    "deadline": "2026-11-11",
@@ -3821,7 +3902,8 @@
    "url": "https://ilan.memurlar.net/ilan/86888/izmir-buca-imar-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-03T23:52:00Z",
    "deadline": "2026-11-08",
@@ -3838,7 +3920,8 @@
    "url": "https://ilan.memurlar.net/ilan/86887/izmir-bakircay-madencilik-16-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-03T23:49:00Z",
    "deadline": "2026-11-09",
@@ -3855,7 +3938,8 @@
    "url": "https://ilan.memurlar.net/ilan/86886/istanbul-personel-yonetim-as-49-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-03T23:46:00Z",
    "deadline": "2026-11-06",
@@ -3872,7 +3956,8 @@
    "url": "https://ilan.memurlar.net/ilan/86885/aksaray-gulagac-belediyesi-gecici-2-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "ilan.memurlar.net"
    ],
    "published": "2026-11-03T23:43:00Z",
    "deadline": "2026-11-09",
@@ -3906,7 +3991,8 @@
    "url": "https://ilan.memurlar.net/ilan/86883/kayseri-falahiye-imar-gecici-1-isci-alacak.html?amp=1",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-03T23:37:00Z",
    "deadline": "2026-11-06",
@@ -3923,7 +4009,8 @@
    "url": "https://ilan.memurlar.net/ilan/86882/edirne-enez-belediyesi-10-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-03T23:34:00Z",
    "deadline": "2026-11-09",
@@ -3940,7 +4027,8 @@
    "url": "https://ilan.memurlar.net/ilan/86880/adana-ceyhan-sydv-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-11-03T23:31:00Z",
    "deadline": "2026-11-11",
@@ -3991,7 +4079,8 @@
    "url": "https://ilan.memurlar.net/ilan/86878/manisa-besot-6-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-03T23:25:00Z",
    "deadline": null,
@@ -4008,7 +4097,8 @@
    "url": "https://ilan.memurlar.net/ilan/86877/canakkale-basiskele-kentsel-donusum-gecici-12-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-03T23:22:00Z",
    "deadline": "2026-11-05",
@@ -4042,7 +4132,8 @@
    "url": "https://ilan.memurlar.net/ilan/86875/aydin-yenipazar-belediyesi-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-03T23:16:00Z",
    "deadline": "2026-11-05",
@@ -4164,7 +4255,8 @@
    "url": "https://ilan.memurlar.net/ilan/86868/sile-belediyesi-3-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-02T23:30:00Z",
    "deadline": "2026-11-06",
@@ -4181,7 +4273,8 @@
    "url": "https://ilan.memurlar.net/ilan/86867/kayseri-felahiye-imar-1-isci-alacak.html?amp=1",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-02T23:27:00Z",
    "deadline": null,
@@ -4232,7 +4325,8 @@
    "url": "https://ilan.memurlar.net/ilan/86864/canakkale-basiskele-kentsel-donusum-gecici-12-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-02T23:18:00Z",
    "deadline": null,
@@ -4281,7 +4375,8 @@
    "url": "https://www.kamuilantakvimi.com/ilanlar/milli-savunma-bakanligi-bando-sinifi-muvazzaf-astsubay-alimi-2026",
    "source": "Kamu İlan Takvimi",
    "sources": [
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "kamuilantakvimi.com"
    ],
    "published": "2026-11-02T22:28:00Z",
    "deadline": "2026-11-23",
@@ -4379,7 +4474,8 @@
    "url": "https://ilan.memurlar.net/ilan/86856/izmir-demokrasi-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-01T22:20:00Z",
    "deadline": "2026-11-16",
@@ -4396,7 +4492,8 @@
    "url": "https://ilan.memurlar.net/ilan/86855/izmir-katip-celebi-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-01T22:10:00Z",
    "deadline": "2026-11-16",
@@ -4413,7 +4510,8 @@
    "url": "https://ilan.memurlar.net/ilan/86854/yildiz-teknik-universitesi-2-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-01T22:02:00Z",
    "deadline": "2026-12-01",
@@ -4430,7 +4528,8 @@
    "url": "https://ilan.memurlar.net/ilan/86853/mimar-sinan-guzel-sanatlar-universitesi-1-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-01T21:55:00Z",
    "deadline": "2026-11-16",
@@ -4447,7 +4546,8 @@
    "url": "https://ilan.memurlar.net/ilan/86852/dogu-karadeniz-kalkinma-ajansi-1-uzman-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-01T21:46:00Z",
    "deadline": "2026-12-06",
@@ -4462,7 +4562,8 @@
    "url": "https://ilan.memurlar.net/ilan/86851/aydin-adnan-menderes-universitesi-8-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-01T21:33:00Z",
    "deadline": "2026-11-06",
@@ -4479,7 +4580,8 @@
    "url": "https://ilan.memurlar.net/ilan/86850/jandarma-ve-sahil-guvenlik-akademisi-baskanligi-30-memur-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-01T21:23:00Z",
    "deadline": "2026-11-16",
@@ -4494,7 +4596,8 @@
    "url": "https://ilan.memurlar.net/ilan/86849/yok-5-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-01T21:13:00Z",
    "deadline": "2026-11-16",
@@ -4563,7 +4666,8 @@
    "url": "https://ilan.memurlar.net/ilan/86842/bogazici-universitesi-ogretim-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-29T21:44:00Z",
    "deadline": "2026-11-13",
@@ -4580,7 +4684,8 @@
    "url": "https://ilan.memurlar.net/ilan/86840/nukleer-duzenleme-kurumu-8-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-29T21:26:00Z",
    "deadline": "2026-11-23",
@@ -4659,7 +4764,8 @@
    "url": "https://ilan.memurlar.net/ilan/86837/gaziosmanpasa-belediyesi-36-zabita-memuru-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-28T21:04:00Z",
    "deadline": "2026-12-11",
@@ -4710,7 +4816,8 @@
    "url": "https://ilan.memurlar.net/ilan/86834/mersin-buyuksehir-belediyesi-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-10-27T22:58:00Z",
    "deadline": "2026-10-30",
@@ -4812,7 +4919,8 @@
    "url": "https://ilan.memurlar.net/ilan/86828/adana-imamoglu-belediyesi-2-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-10-27T22:00:00Z",
    "deadline": "2026-11-11",
@@ -4881,7 +4989,8 @@
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net",
-    "Karşıyaka Belediyesi"
+    "Karşıyaka Belediyesi",
+    "Memurlar.Net"
    ],
    "published": "2026-10-26T22:20:00Z",
    "deadline": "2026-12-02",
@@ -4898,7 +5007,8 @@
    "url": "https://ilan.memurlar.net/ilan/86821/karatay-belediyesi-9-memur-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-26T22:10:00Z",
    "deadline": "2026-12-18",
@@ -4932,7 +5042,8 @@
    "url": "https://ilan.memurlar.net/ilan/86819/izmir-bergama-belediyesi-4-memur-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-26T21:47:00Z",
    "deadline": "2026-12-11",
@@ -4997,12 +5108,34 @@
    "category": "Eğitim"
   },
   {
+   "id": "20769794ee64",
+   "title": "İzmir Büyükşehir Belediyesi 90 Zabıta Memuru Alacak",
+   "url": "https://www.izmir.bel.tr/tr/Haberler/izmir-buyuksehir-belediyesi-90-zabita-memuru-alacak/59670/156",
+   "source": "İzmir Büyükşehir Belediyesi",
+   "sources": [
+    "Memurlar.net",
+    "izmir.bel.tr",
+    "Yeni Asır",
+    "İzmir Büyükşehir Belediyesi",
+    "Memurlar.Net"
+   ],
+   "published": "2026-10-26T21:00:00Z",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-21T09:05:01Z",
+   "summary": "İzmir Büyükşehir Belediyesi Zabıta Dairesi Başkanlığı için 2026 KPSS puanına göre 90 zabıta memuru alınacak (60 lisans, 30 önlisans). Başvurular 30 Kasım-4 Aralık 2026 arasında 08:30-17:00 saatlerinde Zabıta Dairesi Başkanlığı'na şahsen yapılacak; posta ve e-posta kabul edilmiyor. Şartlar: ilgili KPSS puan türünden en az 65, B sınıfı ehliyet, sınav tarihinde 30 yaşından büyük olmamak, boy en az 1,67 m (erkek) / 1,60 m (kadın). Sözlü ve uygulamalı sınav 11 Ocak 2027'de yapılacak.",
+   "provinces": [
+    "35"
+   ],
+   "category": "Güvenlik"
+  },
+  {
    "id": "416c05f080b8",
    "title": "Nevşehir Hacı Bektaş Veli Üniversitesi öğretim üyesi alım ilanı",
    "url": "https://ilan.memurlar.net/ilan/86812/nevsehir-haci-bektas-veli-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "ilan.memurlar.net"
    ],
    "published": "2026-10-25T21:50:00Z",
    "deadline": "2026-11-09",
@@ -5053,7 +5186,8 @@
    "url": "https://ilan.memurlar.net/ilan/86809/dokuz-eylul-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-25T21:20:00Z",
    "deadline": "2026-11-10",
@@ -5104,7 +5238,8 @@
    "url": "https://ilan.memurlar.net/ilan/86805/istanbul-bilisim-akilli-kent-teknolojileri-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-23T21:36:00Z",
    "deadline": "2026-10-30",
@@ -5121,7 +5256,8 @@
    "url": "https://ilan.memurlar.net/ilan/86804/istanbul-personel-yonetim-as-24-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-23T21:33:00Z",
    "deadline": "2026-10-28",
@@ -5189,7 +5325,8 @@
    "url": "https://ilan.memurlar.net/ilan/86798/istanbul-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-22T22:25:00Z",
    "deadline": "2026-11-06",
@@ -5206,7 +5343,8 @@
    "url": "https://ilan.memurlar.net/ilan/86795/cankiri-karatekin-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net İlan"
    ],
    "published": "2026-10-22T21:59:00Z",
    "deadline": "2026-11-08",
@@ -5238,7 +5376,8 @@
    "url": "https://www.isinolsa.com/pdf-ilan/adiyaman-universitesi-10-ogretim-uyesi-alimi-son-basvuru-07-11-2026/",
    "source": "İşin Olsa",
    "sources": [
-    "İşin Olsa"
+    "İşin Olsa",
+    "İşinOlsa"
    ],
    "published": "2026-10-22T21:33:00Z",
    "deadline": "2026-11-07",
@@ -5256,7 +5395,8 @@
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net",
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "Memurlar.Net"
    ],
    "published": "2026-10-22T21:29:00Z",
    "deadline": "2026-11-06",
@@ -5283,17 +5423,18 @@
    "category": "Memur / KPSS"
   },
   {
-   "id": "d852c0ca4ed1",
-   "title": "Kültür ve Turizm Bakanlığı 162 sözleşmeli personel alacak",
+   "id": "f3fc14fdcf2a",
+   "title": "Kültür ve Turizm Bakanlığı 162 sözleşmeli kütüphaneci alacak",
    "url": "https://ilan.memurlar.net/ilan/86791/kultur-ve-turizm-bakanligi-162-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "https://ilan.memurlar.net/ilan/86791/kultur-ve-turizm-bakanligi-162-sozlesmeli-personel-alacak.html"
    ],
    "published": "2026-10-22T21:19:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-10T19:44:50Z",
-   "summary": "Kültür ve Turizm Bakanlığı 162 sözleşmeli personel alacak. İlan Memurlar.net'te 23.10.2026 tarihinde yayımlandı. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "deadline": "2026-11-16",
+   "first_seen": "2026-11-11T21:03:25Z",
+   "summary": "Kültür ve Turizm Bakanlığı taşra teşkilatı birimlerine 162 sözleşmeli kütüphaneci alınacak; sözlü sınavla yapılacak alımda başvurular 2 Kasım 2026 ile 16 Kasım 2026 arasında e-Devlet üzerinden Kariyer Kapısı'ndan (kariyerkapisi.gov.tr/isealim) alınacak ve yalnızca bir il için başvuru yapılabilecek. Adayların Bilgi ve Belge Yönetimi, Kütüphanecilik, Arşivcilik, Dokümantasyon veya Enformasyon bölümlerinden lisans mezunu olması ve 2026 KPSS (B grubu) KPSSP3 puan türünden en az 70 puan alması gerekiyor. İlan sayfasının başlığında 16 Ekim 2026 yazsa da ilan metnindeki başvuru tarihleri esas alınmıştır.",
    "provinces": [],
    "category": "Memur / KPSS"
   },
@@ -5303,7 +5444,8 @@
    "url": "https://ilan.memurlar.net/ilan/86790/kahramanmaras-sutcu-imam-universitesi-ogretim-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-10-22T21:09:00Z",
    "deadline": null,
@@ -5315,32 +5457,13 @@
    "category": "Eğitim"
   },
   {
-   "id": "1741c66bd957",
-   "title": "İzmir Büyükşehir Belediyesi 90 zabıta memuru alacak",
-   "url": "https://ilan.memurlar.net/ilan/86799/izmir-buyuksehir-belediyesi-90-zabita-memuru-alacak.html",
-   "source": "Memurlar.net",
-   "sources": [
-    "Memurlar.net",
-    "izmir.bel.tr",
-    "Yeni Asır",
-    "İzmir Büyükşehir Belediyesi"
-   ],
-   "published": "2026-10-22T21:03:00Z",
-   "deadline": "2026-12-04",
-   "first_seen": "2026-11-10T17:58:50Z",
-   "summary": "İzmir Büyükşehir Belediyesi 90 zabıta memuru alacak (54 erkek, 36 kadın, haberdeki bilgiye göre). Başvurular 30 Kasım - 4 Aralık 2026 arasında yalnızca şahsen, Zabıta Dairesi Başkanlığı'na (Yenidoğan, 2225 Sokak No:2 Konak) yapılır. Şartlar: 2026 KPSS (B) en az 65 puan, 30 yaşından küçük olmak, en az B sınıfı ehliyet, boy 1,67 m (erkek) / 1,60 m (kadın).",
-   "provinces": [
-    "35"
-   ],
-   "category": "Belediye"
-  },
-  {
    "id": "24e847aa2b01",
    "title": "Manisa Akhisar Belediyesi 1 memur alacak",
    "url": "https://ilan.memurlar.net/ilan/86788/akhisar-belediyesi-1-memur-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-21T22:25:00Z",
    "deadline": "2026-12-11",
@@ -5357,7 +5480,8 @@
    "url": "https://www.kamuilantakvimi.com/ilanlar/tarim-ve-orman-bakanligi-13-sozlesmeli-bilisim-personeli-alimi-2026",
    "source": "Kamu İlan Takvimi",
    "sources": [
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "kamuilantakvimi.com"
    ],
    "published": "2026-10-21T22:15:00Z",
    "deadline": "2026-11-06",
@@ -5372,7 +5496,8 @@
    "url": "https://ilan.memurlar.net/ilan/86784/bogazici-universitesi-ogretim-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-21T21:50:00Z",
    "deadline": "2026-11-05",
@@ -5389,7 +5514,8 @@
    "url": "https://ilan.memurlar.net/ilan/86783/bolu-abant-izzet-baysal-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-21T21:40:00Z",
    "deadline": "2026-11-06",
@@ -5407,7 +5533,8 @@
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net",
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "Memurlar.Net"
    ],
    "published": "2026-10-21T21:30:00Z",
    "deadline": "2026-11-05",
@@ -5424,7 +5551,8 @@
    "url": "https://www.kamuilantakvimi.com/ilanlar/strateji-ve-butce-baskanligi-7-sozlesmeli-bilisim-personeli-alimi-2026",
    "source": "Kamu İlan Takvimi",
    "sources": [
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "kamuilantakvimi.com"
    ],
    "published": "2026-10-21T21:10:00Z",
    "deadline": "2026-11-05",
@@ -5456,7 +5584,8 @@
    "url": "https://ilan.memurlar.net/ilan/86777/malatya-doganyol-belediyesi-2-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-10-20T21:45:00Z",
    "deadline": "2026-12-04",
@@ -5473,7 +5602,8 @@
    "url": "https://www.kamuilantakvimi.com/ilanlar/roketsan-itfaiye-eri-alimi-basvuru-sartlari",
    "source": "Kamu İlan Takvimi",
    "sources": [
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "https://www.kamuilantakvimi.com/ilanlar/roketsan-itfaiye-eri-alimi-basvuru-sartlari"
    ],
    "published": "2026-10-20T21:00:00Z",
    "deadline": "2026-12-31",
@@ -5491,7 +5621,8 @@
    "url": "https://ilan.memurlar.net/ilan/86772/tekirdag-tekdas-6-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-20T20:36:00Z",
    "deadline": null,
@@ -5525,7 +5656,8 @@
    "url": "https://ilan.memurlar.net/ilan/86769/igdir-halfeli-belediyesi-9-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net İlan"
    ],
    "published": "2026-10-20T20:22:00Z",
    "deadline": null,
@@ -5627,7 +5759,8 @@
    "url": "https://www.kamuilantakvimi.com/ilanlar/akdeniz-universitesi-29-ogretim-elemani-alimi-2026",
    "source": "Kamu İlan Takvimi",
    "sources": [
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "kamuilantakvimi.com"
    ],
    "published": "2026-10-19T21:40:00Z",
    "deadline": "2026-11-05",
@@ -5693,7 +5826,8 @@
    "url": "https://ilan.memurlar.net/ilan/86761/kocaeli-derince-personel-anonim-gecici-2-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-19T19:58:00Z",
    "deadline": null,
@@ -5710,7 +5844,8 @@
    "url": "https://ilan.memurlar.net/ilan/86750/izmir-bakircay-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-18T22:15:00Z",
    "deadline": "2026-11-02",
@@ -5763,7 +5898,8 @@
    "url": "https://www.kamuilantakvimi.com/ilanlar/kamu-gozetimi-muhasebe-ve-denetim-standartlari-kurumu-13-uzman-yardimcisi-alimi-2026",
    "source": "Kamu İlan Takvimi",
    "sources": [
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "kamuilantakvimi.com"
    ],
    "published": "2026-10-18T21:35:00Z",
    "deadline": "2026-11-02",
@@ -5786,7 +5922,8 @@
    "id": "dba2934b522e",
    "sources": [
     "İşin Olsa",
-    "Memurlar.net"
+    "Memurlar.net",
+    "İşinOlsa"
    ],
    "first_seen": "2026-11-12T17:05:09Z"
   },
@@ -5796,7 +5933,8 @@
    "url": "https://ilan.memurlar.net/ilan/86740/ardahan-il-ozel-idaresi-gecici-5-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net İlan"
    ],
    "published": "2026-10-16T01:52:00Z",
    "deadline": "2026-10-21",
@@ -5847,7 +5985,8 @@
    "url": "https://ilan.memurlar.net/ilan/86737/tekirdag-buyuksehir-belediyesi-9-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-16T01:43:00Z",
    "deadline": "2026-10-18",
@@ -5881,7 +6020,8 @@
    "url": "https://ilan.memurlar.net/ilan/86733/mugla-buyuksehir-belediyesi-9-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-16T01:31:00Z",
    "deadline": "2026-10-21",
@@ -5932,7 +6072,8 @@
    "url": "https://ilan.memurlar.net/ilan/86728/istanbul-esenler-belediyesi-50-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-16T01:18:00Z",
    "deadline": "2026-10-18",
@@ -6000,7 +6141,8 @@
    "url": "https://ilan.memurlar.net/ilan/86723/istanbul-bakirkoy-personel-hizmetleri-2-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-16T01:03:00Z",
    "deadline": "2026-10-19",
@@ -6017,7 +6159,8 @@
    "url": "https://ilan.memurlar.net/ilan/86722/kocaeli-saglik-ve-teknoloji-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-15T22:15:00Z",
    "deadline": "2026-10-30",
@@ -6051,7 +6194,8 @@
    "url": "https://ilan.memurlar.net/ilan/86714/inonu-universitesi-ogretim-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-10-14T22:05:00Z",
    "deadline": "2026-10-29",
@@ -6120,7 +6264,8 @@
    "url": "https://ilan.memurlar.net/ilan/86710/aksaray-universitesi-ogretim-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "ilan.memurlar.net"
    ],
    "published": "2026-10-14T21:18:00Z",
    "deadline": "2026-10-29",
@@ -6137,7 +6282,8 @@
    "url": "https://ilan.memurlar.net/ilan/86702/duzce-universitesi-153-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-13T21:15:00Z",
    "deadline": "2026-10-28",
@@ -6171,7 +6317,8 @@
    "url": "https://ilan.memurlar.net/ilan/86697/istanbul-beltas-13-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-12T22:47:00Z",
    "deadline": "2026-10-20",
@@ -6205,7 +6352,8 @@
    "url": "https://ilan.memurlar.net/ilan/86695/istanbul-teknik-universitesi-25-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-12T21:35:00Z",
    "deadline": "2026-10-27",
@@ -6260,7 +6408,8 @@
    "url": "https://ilan.memurlar.net/ilan/86693/necmettin-erbakan-universitesi-ogretim-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-12T21:10:00Z",
    "deadline": "2026-10-27",
@@ -6277,7 +6426,8 @@
    "url": "https://ilan.memurlar.net/ilan/86690/kesan-belediyesi-2-memur-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-11T22:15:00Z",
    "deadline": "2026-11-19",
@@ -6328,7 +6478,8 @@
    "url": "https://ilan.memurlar.net/ilan/86686/istanbul-kalkinma-ajansi-5-uzman-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-11T21:37:00Z",
    "deadline": "2026-11-22",
@@ -6345,7 +6496,8 @@
    "url": "https://ilan.memurlar.net/ilan/86682/ardahan-hanak-belediyesi-2-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net İlan"
    ],
    "published": "2026-10-09T22:01:00Z",
    "deadline": null,
@@ -6396,7 +6548,8 @@
    "url": "https://ilan.memurlar.net/ilan/86678/osmaniye-yarbasi-personel-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-10-09T21:48:00Z",
    "deadline": null,
@@ -6447,7 +6600,8 @@
    "url": "https://ilan.memurlar.net/ilan/86672/hatay-erzin-belediyesi-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-10-09T21:32:00Z",
    "deadline": null,
@@ -6496,7 +6650,8 @@
    "url": "https://ilan.memurlar.net/ilan/86668/bandirma-onyedi-eylul-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-08T22:05:00Z",
    "deadline": "2026-10-23",
@@ -6530,7 +6685,8 @@
    "url": "https://www.kamuilantakvimi.com/ilanlar/savunma-sanayii-baskanligi-22-uzman-yardimcisi-alimi-2026",
    "source": "Kamu İlan Takvimi",
    "sources": [
-    "Kamu İlan Takvimi"
+    "Kamu İlan Takvimi",
+    "kamuilantakvimi.com"
    ],
    "published": "2026-10-08T21:08:00Z",
    "deadline": "2026-10-26",
@@ -6545,7 +6701,8 @@
    "url": "https://ilan.memurlar.net/ilan/86662/malatya-hekimhan-taahhut-insaat-3-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-10-07T21:52:00Z",
    "deadline": "2026-10-14",
@@ -6562,7 +6719,8 @@
    "url": "https://ilan.memurlar.net/ilan/86661/manisa-sehzadeler-sydv-3-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-07T21:49:00Z",
    "deadline": "2026-10-12",
@@ -6611,7 +6769,8 @@
    "url": "https://ilan.memurlar.net/ilan/86653/siirt-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net İlan"
    ],
    "published": "2026-10-06T21:50:00Z",
    "deadline": "2026-10-21",
@@ -6677,7 +6836,8 @@
    "url": "https://ilan.memurlar.net/ilan/86645/hatay-erzin-belediyesi-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-10-05T22:29:00Z",
    "deadline": "2026-10-14",
@@ -6694,7 +6854,8 @@
    "url": "https://ilan.memurlar.net/ilan/86642/denizli-buyuksehir-belediyesi-4-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-05T22:23:00Z",
    "deadline": "2026-10-14",
@@ -6745,7 +6906,8 @@
    "url": "https://ilan.memurlar.net/ilan/86613/ardahan-posof-belediyesi-1-sozlesmeli-personel-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net İlan"
    ],
    "published": "2026-10-01T22:40:00Z",
    "deadline": "2026-11-04",
@@ -6762,7 +6924,8 @@
    "url": "https://ilan.memurlar.net/ilan/86611/suleyman-demirel-universitesi-ogretim-uyesi-alim-ilani.html?amp=1",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-01T22:22:00Z",
    "deadline": "2026-10-16",
@@ -6779,7 +6942,8 @@
    "url": "https://ilan.memurlar.net/ilan/86604/van-yuzuncu-yil-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net İlan"
    ],
    "published": "2026-10-01T21:26:00Z",
    "deadline": "2026-10-16",
@@ -6796,7 +6960,8 @@
    "url": "https://ilan.memurlar.net/ilan/86603/balikesir-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-10-01T21:16:00Z",
    "deadline": "2026-10-16",
@@ -6813,7 +6978,8 @@
    "url": "https://ilan.memurlar.net/ilan/86602/cankiri-karatekin-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net İlan"
    ],
    "published": "2026-10-01T21:06:00Z",
    "deadline": "2026-10-16",
@@ -6881,7 +7047,8 @@
    "url": "https://ilan.memurlar.net/ilan/86589/isparta-uygulamali-bilimler-universitesi-ogretim-uyesi-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-09-29T21:55:00Z",
    "deadline": "2026-10-14",
@@ -6898,7 +7065,8 @@
    "url": "https://ilan.memurlar.net/ilan/86580/denizli-buyuksehir-belediyesi-8-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-09-29T20:12:00Z",
    "deadline": "2026-10-14",
@@ -6915,7 +7083,8 @@
    "url": "https://ilan.memurlar.net/ilan/86576/igdir-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net İlan"
    ],
    "published": "2026-09-28T21:40:00Z",
    "deadline": "2026-10-13",
@@ -6932,7 +7101,8 @@
    "url": "https://ilan.memurlar.net/ilan/86570/adana-imar-3-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-09-28T21:02:00Z",
    "deadline": "2026-11-04",
@@ -6966,7 +7136,8 @@
    "url": "https://ilan.memurlar.net/ilan/86559/hatay-mustafa-kemal-universitesi-ogretim-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-09-27T22:45:00Z",
    "deadline": "2026-10-28",
@@ -6983,7 +7154,8 @@
    "url": "https://ilan.memurlar.net/ilan/86557/balikesir-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-09-27T22:30:00Z",
    "deadline": null,
@@ -7165,7 +7337,8 @@
    "source": "Gerede Belediyesi",
    "sources": [
     "Gerede Belediyesi",
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-09-14T22:11:00Z",
    "deadline": "2026-10-22",
