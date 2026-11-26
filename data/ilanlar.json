@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T13:08:47Z",
- "count": 446,
+ "updated": "2026-11-26T14:06:54Z",
+ "count": 447,
  "provinces": [
   {
    "plaka": "01",
@@ -408,7 +408,8 @@
    "url": "https://ilan.memurlar.net/ilan/87094/mersin-buyuksehir-belediyesi-2-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.net İlan"
    ],
    "published": "2026-11-25T23:10:00Z",
    "deadline": "2026-11-28",
@@ -527,7 +528,8 @@
    "url": "https://ilan.memurlar.net/ilan/87087/aydin-yenipazar-belediyesi-1-isci-alacak.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-25T22:42:00Z",
    "deadline": "2026-11-27",
@@ -1459,7 +1461,8 @@
    "url": "https://ilan.memurlar.net/ilan/87030/balikesir-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
    "source": "Memurlar.net",
    "sources": [
-    "Memurlar.net"
+    "Memurlar.net",
+    "Memurlar.Net"
    ],
    "published": "2026-11-19T21:28:00Z",
    "deadline": "2026-12-04",
@@ -1539,17 +1542,17 @@
    "category": "Belediye"
   },
   {
-   "id": "76f6e825905d",
-   "title": "Bilecik Şeyh Edebali Üniversitesi Öğretim Elemanı Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/87024/bilecik-seyh-edebali-universitesi-ogretim-elemani-alim-ilani.html",
+   "id": "3b148a554dd0",
+   "title": "Bilecik Şeyh Edebali Üniversitesi araştırma görevlisi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87024/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-18T21:15:00Z",
    "deadline": "2026-12-03",
-   "first_seen": "2026-11-18T21:42:17Z",
-   "summary": "Bilecik Şeyh Edebali Üniversitesi Öğretim Elemanı Alım İlanı. İlan Memurlar.net'te 19.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 03.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Bilecik Şeyh Edebali Üniversitesi araştırma görevlisi alacak; kadro sayısı ilan metninde yok. Son başvuru 3 Aralık 2026'dır. Başvuru basvuru.bilecik.edu.tr üzerinden elektronik yapılır. ALES'ten 85, yabancı dilden 75 puan aranır; 1 Ocak sınav yılı itibarıyla 35 yaşını doldurmamış olmak gerekir.",
    "provinces": [
     "11"
    ],
@@ -1605,17 +1608,17 @@
    "category": "İşçi"
   },
   {
-   "id": "ed4134b38d18",
-   "title": "Burdur Mehmet Akif Ersoy Üniversitesi Öğretim Üyesi Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/87021/burdur-mehmet-akif-ersoy-universitesi-ogretim-uyesi-alim-ilani.html",
+   "id": "c2ad180883e3",
+   "title": "Burdur Mehmet Akif Ersoy Üniversitesi öğretim üyesi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87021/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T22:46:00Z",
    "deadline": "2026-12-02",
-   "first_seen": "2026-11-17T23:39:31Z",
-   "summary": "Burdur Mehmet Akif Ersoy Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 02.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Burdur Mehmet Akif Ersoy Üniversitesi çeşitli birimlere doktor öğretim üyesi, doçent ve profesör alacak; kadro sayısı ilan metninde yok. Başvuru süresi Resmi Gazete'de yayımlandığı tarihten itibaren 15 gündür, başlığa göre son gün 2 Aralık 2026. Başvuru yalnızca basvuru.mehmetakif.edu.tr üzerinden e-Devlet ile yapılır.",
    "provinces": [
     "15"
    ],
@@ -1639,17 +1642,17 @@
    "category": "Eğitim"
   },
   {
-   "id": "2abf377b3c6d",
-   "title": "Bilecik Şeyh Edebali Üniversitesi Öğretim Üyesi Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/87020/bilecik-seyh-edebali-universitesi-ogretim-uyesi-alim-ilani.html",
+   "id": "6b926772f07f",
+   "title": "Bilecik Şeyh Edebali Üniversitesi öğretim üyesi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87020/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T22:36:00Z",
    "deadline": "2026-12-02",
-   "first_seen": "2026-11-17T22:43:02Z",
-   "summary": "Bilecik Şeyh Edebali Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 02.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Bilecik Şeyh Edebali Üniversitesi doktor öğretim üyesi, doçent ve profesör alacak; kadro sayısı ilan metninde yok. Başvuru dönemi 18 Kasım 2026 ile 2 Aralık 2026 saat 17.00 arasıdır; başvuru basvuru.bilecik.edu.tr üzerinden elektronik yapılır, şahsen ve posta başvurusu kabul edilmez.",
    "provinces": [
     "11"
    ],
@@ -1673,17 +1676,17 @@
    "category": "Eğitim"
   },
   {
-   "id": "dc85a5aa37fb",
-   "title": "Bayburt Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/87019/bayburt-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "id": "efc99c2ddcb9",
+   "title": "Bayburt Üniversitesi öğretim üyesi ve öğretim elemanı alacak",
+   "url": "https://ilan.memurlar.net/ilan/87019/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T22:26:00Z",
    "deadline": "2026-12-02",
-   "first_seen": "2026-11-17T22:43:03Z",
-   "summary": "Bayburt Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 02.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Bayburt Üniversitesi profesör, doçent, doktor öğretim üyesi, öğretim görevlisi ve araştırma görevlisi alacak; kadro sayısı ilan metninde yok. Son başvuru ilan başlığına göre 2 Aralık 2026'dır. Başvurular ilgili birime şahsen veya posta ile yapılır. Öğretim görevlisi için ALES'ten en az 70 puan aranır.",
    "provinces": [
     "69"
    ],
@@ -1775,17 +1778,17 @@
    "category": "İşçi"
   },
   {
-   "id": "a0bca0900ef1",
-   "title": "Çanakkale Küçükkuyu Kent Hizmetleri Geçici 3 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87015/canakkale-kucukkuyu-kent-hizmetleri-gecici-3-isci-alacak.html",
+   "id": "0a9849549adf",
+   "title": "Çanakkale Küçükkuyu Kent Hizmetleri 3 geçici işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87015/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T21:30:00Z",
    "deadline": "2026-11-20",
-   "first_seen": "2026-11-17T21:41:06Z",
-   "summary": "Çanakkale Küçükkuyu Kent Hizmetleri Geçici 3 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 20.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Küçükkuyu Kent Hizmetleri (Çanakkale) 3 geçici işçi alacak. Son başvuru tarihi 20 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "17"
    ],
@@ -1860,17 +1863,17 @@
    "category": "İşçi"
   },
   {
-   "id": "52fa48d5f9fc",
-   "title": "İzmir İzenerji Geçici 15 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87011/izmir-izenerji-gecici-15-isci-alacak.html",
+   "id": "db4e7c75df4c",
+   "title": "İzmir İzenerji 15 geçici işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87011/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T21:18:00Z",
    "deadline": "2026-11-22",
-   "first_seen": "2026-11-17T21:41:10Z",
-   "summary": "İzmir İzenerji Geçici 15 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 22.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "İzmir İzenerji 15 geçici işçi alacak. Son başvuru tarihi 22 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "35"
    ],
@@ -1928,21 +1931,21 @@
    "category": "İşçi"
   },
   {
-   "id": "ddbd1e061e5a",
-   "title": "Burdur Mehmet Akif Ersoy Öğretmenevi Geçici 2 İşçi Alacak",
-   "url": "https://ilan.memurlar.net/ilan/87008/burdur-mehmet-akif-ersoy-ogretmenevi-gecici-2-isci-alacak.html",
+   "id": "b37b6f082623",
+   "title": "Burdur Mehmet Akif Ersoy Öğretmenevi 2 geçici işçi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87008/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-17T21:10:00Z",
    "deadline": "2026-11-22",
-   "first_seen": "2026-11-17T21:41:13Z",
-   "summary": "Burdur Mehmet Akif Ersoy Öğretmenevi Geçici 2 İşçi Alacak. İlan Memurlar.net'te 18.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 22.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Burdur Mehmet Akif Ersoy Öğretmenevi 2 geçici işçi alacak. Son başvuru tarihi 22 Kasım 2026; kaynak İŞKUR. İlan belgesi görsel olarak eklendiği için başvuru yeri ve şartlar sayfa metninde okunamıyor; ayrıntı için ilan belgesine bakılmalı.",
    "provinces": [
     "15"
    ],
-   "category": "Eğitim"
+   "category": "İşçi"
   },
   {
    "id": "b37b6f082623",
@@ -1996,18 +1999,20 @@
    "category": "İşçi"
   },
   {
-   "id": "57a9c0b2148e",
-   "title": "Süleyman Demirel Üniversitesi Öğretim Üyesi Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/87006/suleyman-demirel-universitesi-ogretim-uyesi-alim-ilani.html",
+   "id": "134096e93488",
+   "title": "Süleyman Demirel Üniversitesi öğretim üyesi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87006/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-15T22:55:00Z",
    "deadline": "2026-11-30",
-   "first_seen": "2026-11-15T23:34:49Z",
-   "summary": "Süleyman Demirel Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Süleyman Demirel Üniversitesi öğretim üyesi alacak; kadro listesi ilan görselinde olduğundan metinde yok. Son başvuru 30 Kasım 2026 saat 17.30'dur. Başvuru ikbasvuru.sdu.edu.tr üzerinden yapılır; profesör ve doçent adayları basılı dosyayı Personel Daire Başkanlığı'na, doktor öğretim üyesi adayları ilgili birime teslim eder.",
+   "provinces": [
+    "32"
+   ],
    "category": "Eğitim"
   },
   {
@@ -2028,18 +2033,20 @@
    "category": "Eğitim"
   },
   {
-   "id": "dfb4f3deefd0",
-   "title": "Recep Tayyip Erdoğan Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/87005/recep-tayyip-erdogan-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "id": "0ab57c995e7b",
+   "title": "Recep Tayyip Erdoğan Üniversitesi öğretim üyesi ve öğretim elemanı alacak",
+   "url": "https://ilan.memurlar.net/ilan/87005/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-15T22:45:00Z",
    "deadline": "2026-11-30",
-   "first_seen": "2026-11-15T22:52:29Z",
-   "summary": "Recep Tayyip Erdoğan Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Recep Tayyip Erdoğan Üniversitesi öğretim elemanı ve öğretim üyesi alacak; kadro sayıları ilan metninde yok. Son başvuru 30 Kasım 2026'dır. Başvuru basvuru.erdogan.edu.tr üzerinden çevrim içi yapılır, şahsen ve posta başvurusu geçerli değildir.",
+   "provinces": [
+    "53"
+   ],
    "category": "Eğitim"
   },
   {
@@ -2060,17 +2067,17 @@
    "category": "Eğitim"
   },
   {
-   "id": "e74f3997f145",
-   "title": "Gebze Teknik Üniversitesi Öğretim Elemanı Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/87004/gebze-teknik-universitesi-ogretim-elemani-alim-ilani.html",
+   "id": "3282a34f7aa0",
+   "title": "Gebze Teknik Üniversitesi araştırma ve öğretim görevlisi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87004/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-15T22:35:00Z",
    "deadline": "2026-11-30",
-   "first_seen": "2026-11-15T22:52:30Z",
-   "summary": "Gebze Teknik Üniversitesi Öğretim Elemanı Alım İlanı. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Gebze Teknik Üniversitesi araştırma görevlisi ve öğretim görevlisi alacak; birim ve kadro sayıları ilan görselinde olduğundan metinde yok. Son başvuru 30 Kasım 2026 mesai bitimidir. ALES'ten en az 70 puan aranır. Başvuru adresleri ilan görselinde yer alıyor.",
    "provinces": [
     "41"
    ],
@@ -2094,17 +2101,17 @@
    "category": "Eğitim"
   },
   {
-   "id": "2e8f67273d85",
-   "title": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/87003/gaziantep-islam-bilim-ve-teknoloji-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "id": "2c0cf9302def",
+   "title": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi öğretim üyesi ve öğretim elemanı alacak",
+   "url": "https://ilan.memurlar.net/ilan/87003/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-15T22:25:00Z",
    "deadline": "2026-11-30",
-   "first_seen": "2026-11-15T22:52:31Z",
-   "summary": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi öğretim üyesi alacak; kadro sayısı ilan metninde yok. Başvurular 16 Kasım 2026'da başladı, 30 Kasım 2026'da bitiyor. Başvuru yalnızca Üniversite Bilgi Yönetimi Sistemi'ndeki akademik personel başvuru modülünden elektronik yapılır.",
    "provinces": [
     "27"
    ],
@@ -2128,17 +2135,17 @@
    "category": "Eğitim"
   },
   {
-   "id": "9125798795b5",
-   "title": "Erzurum Teknik Üniversitesi Öğretim Elemanı Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/87002/erzurum-teknik-universitesi-ogretim-elemani-alim-ilani.html",
+   "id": "044797ca4420",
+   "title": "Erzurum Teknik Üniversitesi öğretim elemanı alacak",
+   "url": "https://ilan.memurlar.net/ilan/87002/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-15T22:15:00Z",
    "deadline": "2026-11-30",
-   "first_seen": "2026-11-15T22:15:09Z",
-   "summary": "Erzurum Teknik Üniversitesi Öğretim Elemanı Alım İlanı. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Erzurum Teknik Üniversitesi öğretim elemanı alacak; kadro ve birim bilgisi ilan görsellerinde olduğundan metinde yok. Son başvuru 30 Kasım 2026'dır. Başvuru yalnızca iglo.erzurum.edu.tr üzerinden elektronik yapılır; posta ve fiziksel başvuru kabul edilmez.",
    "provinces": [
     "25"
    ],
@@ -2162,18 +2169,20 @@
    "category": "Eğitim"
   },
   {
-   "id": "023c0231dd78",
-   "title": "Atatürk Üniversitesi Öğretim Üyesi Alım İlanı",
-   "url": "https://ilan.memurlar.net/ilan/87000/ataturk-universitesi-ogretim-uyesi-alim-ilani.html",
+   "id": "b57a12b31925",
+   "title": "Atatürk Üniversitesi öğretim üyesi alacak",
+   "url": "https://ilan.memurlar.net/ilan/87000/",
    "source": "Memurlar.net",
    "sources": [
     "Memurlar.net"
    ],
    "published": "2026-11-15T21:55:00Z",
    "deadline": "2026-11-30",
-   "first_seen": "2026-11-15T22:15:10Z",
-   "summary": "Atatürk Üniversitesi Öğretim Üyesi Alım İlanı. İlan Memurlar.net'te 16.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 30.11.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
-   "provinces": [],
+   "first_seen": "2026-11-19T07:05:00Z",
+   "summary": "Atatürk Üniversitesi profesör, doçent ve doktor öğretim üyesi alacak; kadro sayısı ilan metninde yok. Son başvuru ilan başlığına göre 30 Kasım 2026'dır. Başvuru atama.atauni.edu.tr üzerinden elektronik yapılır; şahsen ve posta başvurusu kabul edilmez.",
+   "provinces": [
+    "25"
+   ],
    "category": "Eğitim"
   },
   {
@@ -3392,24 +3401,6 @@
    "category": "İşçi"
   },
   {
-   "id": "8e7c35d59d0f",
-   "title": "Adana Ceyhan SYDV 1 işçi alacak",
-   "url": "https://ilan.memurlar.net/ilan/86919/adana-ceyhan-sydv-1-isci-alacak.html",
-   "source": "Memurlar.net",
-   "sources": [
-    "Memurlar.net",
-    "https://ilan.memurlar.net/ilan/86919/adana-ceyhan-sydv-1-isci-alacak.html"
-   ],
-   "published": "2026-11-06T22:26:00Z",
-   "deadline": null,
-   "first_seen": "2026-11-10T19:06:47Z",
-   "summary": "Ceyhan Sosyal Yardımlaşma ve Dayanışma Vakfı 1 daimi işçi alacak. Son başvuru tarihi, başvuru yeri ve şartlar sayfada metin olarak yok, ilan görselinde yer alıyor; kaynak İŞKUR.",
-   "provinces": [
-    "01"
-   ],
-   "category": "İşçi"
-  },
-  {
    "id": "ce639b783ac0",
    "title": "Adana Sarıçam SYDV 1 Geçici İşçi Alacak",
    "url": "https://ilan.memurlar.net/ilan/86918/adana-saricam-sydv-gecici-1-isci-alacak.html",
@@ -4018,6 +4009,25 @@
    "summary": "Enez Belediyesi (Edirne) 10 işçi alacaktır. Sayfada son başvuru tarihi 9 Kasım 2026 olarak belirtilmiştir. Başvuru yeri ve şartlar sayfa metninde yer almamaktadır.",
    "provinces": [
     "22"
+   ],
+   "category": "İşçi"
+  },
+  {
+   "id": "f7fd8e897eb6",
+   "title": "Adana Ceyhan SYDV 1 İşçi Alacak",
+   "url": "https://ilan.memurlar.net/ilan/86880/adana-ceyhan-sydv-1-isci-alacak.html",
+   "source": "Memurlar.net İlan",
+   "sources": [
+    "Memurlar.net",
+    "https://ilan.memurlar.net/ilan/86919/adana-ceyhan-sydv-1-isci-alacak.html",
+    "Memurlar.net İlan"
+   ],
+   "published": "2026-11-03T23:31:00Z",
+   "deadline": "2026-11-11",
+   "first_seen": "2026-11-10T17:58:50Z",
+   "summary": "Adana Ceyhan SYDV 1 işçi alacak. Son başvuru tarihi 11 Kasım 2026. Başvuru yeri ve şartlar sayfada belirtilmemiş.",
+   "provinces": [
+    "01"
    ],
    "category": "İşçi"
   },
@@ -4697,8 +4707,8 @@
    "category": "Memur / KPSS"
   },
   {
-   "id": "a216cb8f1195",
-   "title": "Kamu İhale Kurumu 25 Uzman Yardımcısı alacak",
+   "id": "b5322225025c",
+   "title": "Kamu İhale Kurumu 25 Uzman Yardımcısı Alacak",
    "url": "https://ilan.memurlar.net/ilan/86839/kamu-ihale-kurumu-25-uzman-yardimcisi-alacak.html",
    "source": "Memurlar.net",
    "sources": [
@@ -4706,8 +4716,8 @@
    ],
    "published": "2026-10-29T21:18:00Z",
    "deadline": "2026-11-20",
-   "first_seen": "2026-11-10T17:58:50Z",
-   "summary": "Kamu İhale Kurumu 3 grupta toplam 25 Kamu İhale Uzman Yardımcısı alacak. Başvurular 9-20 Kasım 2026 arasında e-Devlet/Kariyer Kapısı üzerinden alınıyor. 2025 veya 2026 KPSS'den en az 70 puan, 1 Ocak 1991 ve sonrası doğumlu olmak şart; yazılı sınav 19 Aralık 2026'da Ankara'da yapılacak.",
+   "first_seen": "2026-11-11T17:04:07Z",
+   "summary": "Kamu İhale Kurumu üç gruptan toplam 25 uzman yardımcısı alacak. Başvurular 9 Kasım 2026'da başladı, son başvuru 20 Kasım 2026 saat 23.59'dur; başvuru yalnızca e-Devlet üzerinden Kamu İhale Kurumu Kariyer Kapısı veya kariyerkapisi.gov.tr ile yapılır. Adaylarda 2025 veya 2026 KPSS A grubundan en az 70 puan, 1 Ocak 1991 ve sonrası doğum ve ilandaki bölümlerden 4 yıllık mezuniyet aranır. Yazılı sınav 19 Aralık 2026'da Ankara'da yapılacaktır.",
    "provinces": [],
    "category": "Memur / KPSS"
   },
@@ -7280,6 +7290,23 @@
    "summary": "Konya Çeltik Belediye Başkanlığı 2 memur alacak. Başvurular 2-6 Kasım 2026 arasında belediyenin e-posta adresine ya da şahsen/iadeli taahhütlü posta ile Çeltik Belediyesi İnsan Kaynakları ve Eğitim Müdürlüğü'ne yapılır. 2026 KPSS (B grubu) puanı ve en az B sınıfı sürücü belgesi aranır; sözlü sınav 17 Kasım 2026'da yapılacak. Kadro unvanları ilanda görsel tablo olarak verildiği için okunamadı.",
    "provinces": [
     "42"
+   ],
+   "category": "Memur / KPSS"
+  },
+  {
+   "id": "cbb6c8979392",
+   "title": "İETT Genel Müdürlüğü (İBB) 44 memur alacak",
+   "url": "https://ilan.memurlar.net/ilan/86469/",
+   "source": "ilan.memurlar.net",
+   "sources": [
+    "ilan.memurlar.net"
+   ],
+   "published": "2026-09-21T22:05:00Z",
+   "deadline": "2026-11-02",
+   "first_seen": "2026-11-26T14:06:54Z",
+   "summary": "İBB'ye bağlı İstanbul Elektrik Tramvay ve Tünel İşletmeleri (İETT) Genel Müdürlüğü ilk defa atanmak üzere 44 memur alacak; unvan, adet ve taban puanlar ilandaki tablolarda yer alıyor. Adayların 2026 KPSS (B) grubu sınavına girmiş olması ve tablodaki taban puanı karşılaması gerekiyor. Başvurular 26.10.2026-02.11.2026 tarihleri arasında turkiye.gov.tr üzerinden elektronik olarak yapıldı. Sözlü sınav 16.11.2026-11.12.2026 tarihleri arasında İETT Genel Müdürlüğü'nde (Tünel-Beyoğlu) yapılıyor.",
+   "provinces": [
+    "34"
    ],
    "category": "Memur / KPSS"
   },
