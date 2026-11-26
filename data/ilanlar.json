@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T21:27:48Z",
- "count": 453,
+ "updated": "2026-11-26T22:31:31Z",
+ "count": 457,
  "provinces": [
   {
    "plaka": "01",
@@ -333,6 +333,74 @@
  },
  "hatalar": [],
  "items": [
+  {
+   "id": "72323f806e22",
+   "title": "Selçuk Üniversitesi 2 Sözleşmeli Personel Alacak",
+   "url": "https://ilan.memurlar.net/ilan/87101/selcuk-universitesi-2-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-26T22:20:00Z",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-26T22:31:31Z",
+   "summary": "Selçuk Üniversitesi 2 Sözleşmeli Personel Alacak. İlan Memurlar.net'te 27.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 11.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "35"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "17c0fbf19a8a",
+   "title": "Uşak Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87100/usak-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-26T22:10:00Z",
+   "deadline": "2026-12-14",
+   "first_seen": "2026-11-26T22:31:32Z",
+   "summary": "Uşak Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı. İlan Memurlar.net'te 27.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 14.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "64"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "eafabee377b3",
+   "title": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Öğretim Elemanı Alım İlanı",
+   "url": "https://ilan.memurlar.net/ilan/87099/gaziantep-islam-bilim-ve-teknoloji-universitesi-ogretim-elemani-alim-ilani.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-26T21:58:00Z",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-26T22:31:34Z",
+   "summary": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Öğretim Elemanı Alım İlanı. İlan Memurlar.net'te 27.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 11.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "27"
+   ],
+   "category": "Eğitim"
+  },
+  {
+   "id": "ced0d788d15d",
+   "title": "Avrupa Birliği Başkanlığı 5 sözleşmeli personel alacak",
+   "url": "https://ilan.memurlar.net/ilan/87098/avrupa-birligi-baskanligi-5-sozlesmeli-personel-alacak.html",
+   "source": "Memurlar.net",
+   "sources": [
+    "Memurlar.net"
+   ],
+   "published": "2026-11-26T21:48:00Z",
+   "deadline": "2026-12-14",
+   "first_seen": "2026-11-26T22:31:34Z",
+   "summary": "Avrupa Birliği Başkanlığı 5 sözleşmeli personel alacak. İlan Memurlar.net'te 27.11.2026 tarihinde yayımlandı. Sayfada son başvuru tarihi 14.12.2026 olarak yazıyor. Başvuru yeri ve şartlar için ilanın tamamına bakın.",
+   "provinces": [
+    "06"
+   ],
+   "category": "Memur / KPSS"
+  },
   {
    "id": "70e4e864fcac",
    "title": "BİNTED A.Ş. (Bursa Büyükşehir Belediyesi şirketi) 40 itfaiye destek personeli alacak",
